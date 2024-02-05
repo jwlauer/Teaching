@@ -1,0 +1,34 @@
+Courses Analysed: [['CEEGR 3310', 'CEEGR 5110', 'CEEGR 3510'], ['CEEGR 3310', 'CEEGR 3510'], ['CEEGR 1000', 'CEEGR 2500', 'CEEGR 4870'], ['ENSC 4710', 'CEEGR 5110', 'CEEGR 4710'], ['CEEGR 4720', 'CEEGR 5110', 'CEEGR 3510'], ['CEEGR 1000', 'CEEGR 5110', 'CEEGR 3510']]
+******************************
+
+Conflict present for course schedule ['CEEGR 3310', 'CEEGR 5110', 'CEEGR 3510']
+
+CEEGR 5110 S1 Advanced Structural Analysis intersects CEEGR 3310 S1 Fluid Mechanics on Monday at 09:20:00
+CEEGR 3310 S1 Fluid Mechanics intersects CEEGR 5110 S1 Advanced Structural Analysis on Monday at 09:20:00
+CEEGR 5110 S1 Advanced Structural Analysis intersects CEEGR 3310 S1 Fluid Mechanics on Wednesday at 09:20:00
+CEEGR 3310 S1 Fluid Mechanics intersects CEEGR 5110 S1 Advanced Structural Analysis on Wednesday at 09:20:00
+CEEGR 3310 S1 Fluid Mechanics intersects CEEGR 5110 S1 Advanced Structural Analysis on Friday at 09:20:00
+CEEGR 5110 S1 Advanced Structural Analysis intersects CEEGR 3310 S1 Fluid Mechanics on Friday at 09:20:00
+
+******************************
+
+No conflicts for course schedule ['CEEGR 3310', 'CEEGR 3510']
+
+******************************
+
+Conflict present for course schedule ['CEEGR 1000', 'CEEGR 2500', 'CEEGR 4870']
+
+CEEGR 1000 S1 Intro to Civil & Env Eng. intersects CEEGR 2500 S1 Intro to Structural Mechanics on Thursday at 13:30:00
+CEEGR 2500 S1 Intro to Structural Mechanics intersects CEEGR 1000 S1 Intro to Civil & Env Eng. on Thursday at 13:30:00
+
+******************************
+
+No conflicts for course schedule ['ENSC 4710', 'CEEGR 5110', 'CEEGR 4710']
+
+******************************
+
+No conflicts for course schedule ['CEEGR 4720', 'CEEGR 5110', 'CEEGR 3510']
+
+******************************
+
+No conflicts for course schedule ['CEEGR 1000', 'CEEGR 5110', 'CEEGR 3510']
