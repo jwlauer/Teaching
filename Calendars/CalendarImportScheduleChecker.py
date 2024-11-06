@@ -13,7 +13,8 @@ import re
 import pandas as pd
 from dateutil.relativedelta import relativedelta
 from ics import Calendar, Event, Organizer
-from zoneinfo import ZoneInfo
+#from zoneinfo import ZoneInfo
+from backports.zoneinfo import ZoneInfo
 import calendar
 import tkinter as tk
 from tkinter import filedialog, messagebox
@@ -46,6 +47,7 @@ df_dates = pd.read_excel(filename, sheet_name = 'QuarterStartEnd')
 
 start_of_quarter = datetime.date(df_dates['Start'][0])
 end_of_quarter = datetime.date(df_dates['End'][0])
+holidays = pd.to_datetime(df_dates['Holidays']).dt.date
 
 courses_to_check = []
 for i in range(len(df_courses.axes[1])):
@@ -96,19 +98,25 @@ for schedule, classtitle, course, meeting_space, instructor, section in zip(sche
 
         organizer = instructor
         
-        # Create the event each day
-        for day in days_of_week_integers:
-            #find the date of the day
-            
-            next_date = start_date + relativedelta(weekday = day)                    
-            start_datetime = datetime.combine(next_date, start_time)
-            start_datetime = start_datetime.replace(tzinfo=ZoneInfo('US/Pacific'))
-            
-            end_datetime = datetime.combine(next_date, end_time)
-            end_datetime = end_datetime.replace(tzinfo=ZoneInfo('US/Pacific'))
-            
-            create_event_ics(title, start_datetime, end_datetime, meeting_space, organizer, classtitle, c)
-
+        # Create the event each day of the week
+        
+        while start_date <= end_of_quarter:
+            for day in days_of_week_integers:
+                #find the date of the day
+                
+                next_date = start_date + relativedelta(weekday = day)                    
+                start_datetime = datetime.combine(next_date, start_time)
+                start_datetime = start_datetime.replace(tzinfo=ZoneInfo('US/Pacific'))
+                
+                end_datetime = datetime.combine(next_date, end_time)
+                end_datetime = end_datetime.replace(tzinfo=ZoneInfo('US/Pacific'))
+                
+                if start_datetime.date() <= end_of_quarter:
+                    if start_datetime.date() not in list(holidays):
+                        create_event_ics(title, start_datetime, end_datetime, meeting_space, organizer, classtitle, c)
+                        print(title+": "+str(start_datetime))
+            start_date = start_date + relativedelta(days=7)
+                
 # Save calendar to file.
 f = filedialog.asksaveasfile(title="Specify output .ics file",mode='w', defaultextension=".ics")
 print(f)

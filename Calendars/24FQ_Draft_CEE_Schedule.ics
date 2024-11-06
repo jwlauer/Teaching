@@ -1,0 +1,4780 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DTEND:20241031T192000Z
+LOCATION:TBD-was Bannan Building 429\; Bannan Building 613\; Bannan Building 619
+ORGANIZER;CN=Marsolek\, Michael (1075473):mailto:madeup@mail.com
+DTSTART:20241031T171500Z
+SUMMARY:ENSC 4730 S1 Prncpls of Envrmtl Engineering
+UID:d6b9c574-9a55-470a-bffa-846dc6752ea2@d6b9.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241016T174500Z
+LOCATION:TBD-was Bannan Building 371
+ORGANIZER;CN=Riazi\, Amin:mailto:madeup@mail.com
+DTSTART:20241016T162000Z
+SUMMARY:CEEGR 3310 S1 Fluid Mechanics
+UID:3629d3ee-f900-435d-a1a9-be1270cc8cc7@3629.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241015T223500Z
+LOCATION:TBD-was Bannan Building 629\; Bannan Building 619
+ORGANIZER;CN=Hainze\, John (2270633):mailto:madeup@mail.com
+DTSTART:20241015T203000Z
+SUMMARY:UCOR 1800 S7 Inquiry Sem in Natural Science
+UID:e65c6cf8-c328-4905-9960-0ee6ec57ad3d@e65c.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241206T002000Z
+LOCATION:TBD-was Bannan Building 429\; Bannan Building 613\; Bannan Building 619
+ORGANIZER;CN=Marsolek\, Michael (1075473):mailto:madeup@mail.com
+DTSTART:20241205T213000Z
+SUMMARY:ENSC 4730 S2 Prncpls of Envrmtl Engineering
+UID:fafecdf3-07a2-48da-822c-63b0aecdec5e@fafe.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241122T023500Z
+LOCATION:TBD-was Bannan Building 629\; Bannan Building 619
+ORGANIZER;CN=Hainze\, John (2270633):mailto:madeup@mail.com
+DTSTART:20241121T234500Z
+SUMMARY:UCOR 1800 S8 Inquiry Sem in Natural Science
+UID:749c45f4-4d78-464a-8628-5bc6ffa83e42@749c.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241126T202000Z
+LOCATION:TBD-was Bannan Building 429\; Bannan Building 613\; Bannan Building 619
+ORGANIZER;CN=Marsolek\, Michael (1075473):mailto:madeup@mail.com
+DTSTART:20241126T181500Z
+SUMMARY:CEEGR 4730 S1 Principle of Environmental Eng
+UID:a603852f-22e4-4b7b-9cf6-dabbf48b4d04@a603.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241121T202000Z
+LOCATION:TBD-was Bannan Building 371
+ORGANIZER;CN=Thompson\, Phillip (0366179):mailto:madeup@mail.com
+DTSTART:20241121T181500Z
+SUMMARY:CEEGR 3020 S1 Global Engineering Economics
+UID:62efcd15-a3ca-4a21-935a-70da4d38a9bc@62ef.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20240930T192000Z
+LOCATION:TBD-was Bannan Building 313\; Bannan Building 181
+ORGANIZER;CN=Kiymaz\, Guven (4187550):mailto:madeup@mail.com
+DTSTART:20240930T175500Z
+SUMMARY:CEEGR 2500 S1 Intro to Structural Design
+UID:79a490bc-4534-42ab-bb63-709b5781967c@79a4.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241203T180500Z
+LOCATION:TBD-was Bannan Building 619
+ORGANIZER;CN=Gualtieri\, Lyn (0834249):mailto:madeup@mail.com
+DTSTART:20241203T160000Z
+SUMMARY:ENSC 1000 S1 Intro to Environmental Science
+UID:98d79117-0f9a-446f-88ed-13a72aba5daa@98d7.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241112T233500Z
+LOCATION:TBD-was Bannan Building 629\; Bannan Building 619
+ORGANIZER;CN=Hainze\, John (2270633):mailto:madeup@mail.com
+DTSTART:20241112T213000Z
+SUMMARY:UCOR 1800 S8 Inquiry Sem in Natural Science
+UID:cee182c2-e8a3-4b52-ab17-87e38cb618e9@cee1.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241015T004500Z
+LOCATION:TBD-was Lemieux Library 122
+ORGANIZER;CN=Gnanapragasam\, Nirmala:mailto:madeup@mail.com
+DTSTART:20241014T224000Z
+SUMMARY:CEEGR 4870 S1 Engineering Design I
+UID:1dba1c2a-21ed-4558-b375-05788d911e3d@1dba.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241011T192000Z
+LOCATION:TBD-was Fine Arts Building 120
+ORGANIZER;CN=Lauer\, John (1038686):mailto:madeup@mail.com
+DTSTART:20241011T175500Z
+SUMMARY:ENSC 3800 S1 Aerial Imaging & Mapping
+UID:b6208e99-49c5-4769-a098-858abf9ef591@b620.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241121T202000Z
+LOCATION:TBD-was Bannan Building 429\; Bannan Building 613\; Bannan Building 619
+ORGANIZER;CN=Marsolek\, Michael (1075473):mailto:madeup@mail.com
+DTSTART:20241121T181500Z
+SUMMARY:ENSC 4730 S2 Prncpls of Envrmtl Engineering
+UID:a5be5b28-ba44-46f8-a747-c320303b8158@a5be.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241206T171000Z
+LOCATION:TBD-was Bannan Building 441
+ORGANIZER;CN=Faculty Unassigned:mailto:madeup@mail.com
+DTSTART:20241206T154500Z
+SUMMARY:CEEGR 5210 S1 Advanced Rc Design
+UID:e9921282-44d0-48e3-aa37-38d1b247efaa@e992.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20240926T192000Z
+LOCATION:TBD-was Bannan Building 379
+ORGANIZER;CN=Faculty Unassigned:mailto:madeup@mail.com
+DTSTART:20240926T171500Z
+SUMMARY:CEEGR 1050 S1 Graphics &amp\; Communication
+UID:0f7d2822-b4e6-4dad-8457-a5c6afba3044@0f7d.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241118T184500Z
+LOCATION:TBD-was Bannan Building 353
+ORGANIZER;CN=Kiymaz\, Guven (4187550):mailto:madeup@mail.com
+DTSTART:20241118T172000Z
+SUMMARY:CEEGR 4450 S1 Structural Mechanics
+UID:57191dfd-ef7f-4338-a09b-ae336acb7090@5719.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241205T233500Z
+LOCATION:TBD-was Bannan Building 619
+ORGANIZER;CN=Gnanapragasam\, Nirmala:mailto:madeup@mail.com
+DTSTART:20241205T213000Z
+SUMMARY:CEEGR 1000 S1 Intro to Civil & Env Eng.
+UID:2c6d4657-93ae-4aef-b616-88bf78ceec72@2c6d.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20240925T205500Z
+LOCATION:TBD-was Bannan Building 629
+ORGANIZER;CN=Gnanapragasam\, Nirmala:mailto:madeup@mail.com
+DTSTART:20240925T193000Z
+SUMMARY:CEEGR 3510 S1 Engineering Geology
+UID:7db3b44f-51e3-40f2-897c-89cdcbd6de1d@7db3.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241017T004500Z
+LOCATION:TBD-was Lemieux Library 122
+ORGANIZER;CN=Gnanapragasam\, Nirmala:mailto:madeup@mail.com
+DTSTART:20241016T224000Z
+SUMMARY:CEEGR 4870 S1 Engineering Design I
+UID:0b376e49-4ef8-4ad1-8888-14e8b1469e13@0b37.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241015T005000Z
+LOCATION:TBD-was Bannan Building 353
+ORGANIZER;CN=Hainze\, John (2270633):mailto:madeup@mail.com
+DTSTART:20241014T224000Z
+SUMMARY:UCOR 3800 S5 Natural Sci & Global Challenge
+UID:3d754396-2fcd-432d-af47-ebbc63e2d206@3d75.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241106T184500Z
+LOCATION:TBD-was Bannan Building 371
+ORGANIZER;CN=Riazi\, Amin:mailto:madeup@mail.com
+DTSTART:20241106T172000Z
+SUMMARY:CEEGR 3310 S1 Fluid Mechanics
+UID:e6181a37-624b-4d79-ac8d-b5304589c5a4@e618.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241126T202000Z
+LOCATION:TBD-was Bannan Building 429\; Bannan Building 613\; Bannan Building 619
+ORGANIZER;CN=Marsolek\, Michael (1075473):mailto:madeup@mail.com
+DTSTART:20241126T181500Z
+SUMMARY:ENSC 4730 S1 Prncpls of Envrmtl Engineering
+UID:77e81fd6-5ce2-4e4b-9d39-a1ce3efebc53@77e8.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241125T202000Z
+LOCATION:TBD-was Bannan Building 313\; Bannan Building 181
+ORGANIZER;CN=Kiymaz\, Guven (4187550):mailto:madeup@mail.com
+DTSTART:20241125T185500Z
+SUMMARY:CEEGR 2500 S1 Intro to Structural Design
+UID:1f3bc0e7-5a64-4090-a346-33af89e4a903@1f3b.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241108T002000Z
+LOCATION:TBD-was Bannan Building 313\; Bannan Building 181
+ORGANIZER;CN=Kiymaz\, Guven (4187550):mailto:madeup@mail.com
+DTSTART:20241107T213000Z
+SUMMARY:CEEGR 2500 S1 Intro to Structural Design
+UID:3fa4e1e7-dbef-436b-8e6b-cfbbaa6bbf03@3fa4.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241206T184500Z
+LOCATION:TBD-was Bannan Building 371
+ORGANIZER;CN=Riazi\, Amin:mailto:madeup@mail.com
+DTSTART:20241206T172000Z
+SUMMARY:CEEGR 3310 S1 Fluid Mechanics
+UID:c8ce8ef2-46a4-442e-a2df-e54175b0633b@c8ce.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241024T223500Z
+LOCATION:TBD-was Bannan Building 619
+ORGANIZER;CN=Gnanapragasam\, Nirmala:mailto:madeup@mail.com
+DTSTART:20241024T203000Z
+SUMMARY:CEEGR 1000 S1 Intro to Civil & Env Eng.
+UID:5f40900d-23e0-4d16-8d54-5e2868b235eb@5f40.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241104T184500Z
+LOCATION:TBD-was Bannan Building 441
+ORGANIZER;CN=Faculty Unassigned:mailto:madeup@mail.com
+DTSTART:20241104T172000Z
+SUMMARY:CEEGR 5110 S1 Advanced Structural Analysis
+UID:ca2a8a08-650b-4f30-8288-de24c8f2584d@ca2a.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241121T202000Z
+LOCATION:TBD-was Bannan Building 429\; Bannan Building 613\; Bannan Building 619
+ORGANIZER;CN=Marsolek\, Michael (1075473):mailto:madeup@mail.com
+DTSTART:20241121T181500Z
+SUMMARY:CEEGR 4730 S2 Principle of Environmental Eng
+UID:66d7585f-6a62-4828-abd5-d709a06c6995@66d7.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241031T002000Z
+LOCATION:TBD-was Bannan Building 191
+ORGANIZER;CN=Riazi\, Amin:mailto:madeup@mail.com
+DTSTART:20241030T213000Z
+SUMMARY:CEEGR 3370 S1 Fluids Laboratory
+UID:3383cc42-0d11-47c3-a130-8b2ec9fc282e@3383.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241018T192000Z
+LOCATION:TBD-was Bannan Building 313\; Bannan Building 181
+ORGANIZER;CN=Kiymaz\, Guven (4187550):mailto:madeup@mail.com
+DTSTART:20241018T175500Z
+SUMMARY:CEEGR 2500 S1 Intro to Structural Design
+UID:88d7b747-07ad-446c-a9ff-dc022849aca0@88d7.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241028T205500Z
+LOCATION:TBD-was Bannan Building 629
+ORGANIZER;CN=Gnanapragasam\, Nirmala:mailto:madeup@mail.com
+DTSTART:20241028T193000Z
+SUMMARY:CEEGR 3510 S1 Engineering Geology
+UID:b3e6b2be-bf8b-40e6-b475-538e504c7951@b3e6.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241119T202000Z
+LOCATION:TBD-was Bannan Building 429\; Bannan Building 613\; Bannan Building 619
+ORGANIZER;CN=Marsolek\, Michael (1075473):mailto:madeup@mail.com
+DTSTART:20241119T181500Z
+SUMMARY:CEEGR 4730 S2 Principle of Environmental Eng
+UID:c7b679be-1ec7-4886-8e7b-b180883b6042@c7b6.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241105T233500Z
+LOCATION:TBD-was Bannan Building 629\; Bannan Building 619
+ORGANIZER;CN=Hainze\, John (2270633):mailto:madeup@mail.com
+DTSTART:20241105T213000Z
+SUMMARY:UCOR 1800 S8 Inquiry Sem in Natural Science
+UID:dbecb5ba-8d41-4e78-8153-fb66680c95a8@dbec.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241029T192000Z
+LOCATION:TBD-was Bannan Building 429\; Bannan Building 613\; Bannan Building 619
+ORGANIZER;CN=Marsolek\, Michael (1075473):mailto:madeup@mail.com
+DTSTART:20241029T171500Z
+SUMMARY:CEEGR 4730 S2 Principle of Environmental Eng
+UID:39626765-81fd-4afb-a1d5-5977f287ce1c@3962.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241127T002000Z
+LOCATION:TBD-was Bannan Building 191
+ORGANIZER;CN=Riazi\, Amin:mailto:madeup@mail.com
+DTSTART:20241126T213000Z
+SUMMARY:CEEGR 3370 S2 Fluids Laboratory
+UID:8cc435b9-b879-40c5-b4b9-88fecef06353@8cc4.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241030T174500Z
+LOCATION:TBD-was Bannan Building 353
+ORGANIZER;CN=Kiymaz\, Guven (4187550):mailto:madeup@mail.com
+DTSTART:20241030T162000Z
+SUMMARY:CEEGR 4450 S1 Structural Mechanics
+UID:89af56b1-2af0-4754-b10a-ef06a629a567@89af.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241202T202000Z
+LOCATION:TBD-was Fine Arts Building 120
+ORGANIZER;CN=Lauer\, John (1038686):mailto:madeup@mail.com
+DTSTART:20241202T185500Z
+SUMMARY:ENSC 3800 S1 Aerial Imaging & Mapping
+UID:36c6e1d1-902b-4ee6-ae9b-92ef504c5a3b@36c6.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241025T174500Z
+LOCATION:TBD-was Bannan Building 371
+ORGANIZER;CN=Riazi\, Amin:mailto:madeup@mail.com
+DTSTART:20241025T162000Z
+SUMMARY:CEEGR 3310 S1 Fluid Mechanics
+UID:b2657f0a-8134-40a1-920d-943ec8c5ce60@b265.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241015T192000Z
+LOCATION:TBD-was Bannan Building 371
+ORGANIZER;CN=Thompson\, Phillip (0366179):mailto:madeup@mail.com
+DTSTART:20241015T171500Z
+SUMMARY:CEEGR 3020 S1 Global Engineering Economics
+UID:394274c6-4b93-4ffd-90d5-37d1f6e5c8eb@3942.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20240927T205500Z
+LOCATION:TBD-was Bannan Building 629
+ORGANIZER;CN=Gnanapragasam\, Nirmala:mailto:madeup@mail.com
+DTSTART:20240927T193000Z
+SUMMARY:CEEGR 3510 S1 Engineering Geology
+UID:0d753e83-edd7-465c-bdd7-7a9a27fe715f@0d75.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241119T014500Z
+LOCATION:TBD-was Lemieux Library 122
+ORGANIZER;CN=Gnanapragasam\, Nirmala:mailto:madeup@mail.com
+DTSTART:20241118T234000Z
+SUMMARY:CEEGR 4870 S1 Engineering Design I
+UID:6c62cb9f-9860-4773-ad6c-12adf6ab0f5e@6c62.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241105T202000Z
+LOCATION:TBD-was Bannan Building 429\; Bannan Building 613\; Bannan Building 619
+ORGANIZER;CN=Marsolek\, Michael (1075473):mailto:madeup@mail.com
+DTSTART:20241105T181500Z
+SUMMARY:ENSC 4730 S2 Prncpls of Envrmtl Engineering
+UID:a98de7fe-87a4-4cbf-9553-39603742d9bb@a98d.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241024T223500Z
+LOCATION:TBD-was Bannan Building 629\; Bannan Building 619
+ORGANIZER;CN=Hainze\, John (2270633):mailto:madeup@mail.com
+DTSTART:20241024T203000Z
+SUMMARY:UCOR 1800 S8 Inquiry Sem in Natural Science
+UID:b9ab6fbc-0aa0-44d4-89c1-aa4cd1e9066e@b9ab.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20240930T205500Z
+LOCATION:TBD-was Bannan Building 629
+ORGANIZER;CN=Gnanapragasam\, Nirmala:mailto:madeup@mail.com
+DTSTART:20240930T193000Z
+SUMMARY:CEEGR 3510 S1 Engineering Geology
+UID:cc3f3f1b-39e4-4318-adbb-89650b6f79b6@cc3f.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241004T205500Z
+LOCATION:TBD-was Bannan Building 629
+ORGANIZER;CN=Gnanapragasam\, Nirmala:mailto:madeup@mail.com
+DTSTART:20241004T193000Z
+SUMMARY:CEEGR 3510 S1 Engineering Geology
+UID:6c7d2105-a360-4713-b24f-5e8a330df686@6c7d.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241118T215500Z
+LOCATION:TBD-was Bannan Building 629
+ORGANIZER;CN=Gnanapragasam\, Nirmala:mailto:madeup@mail.com
+DTSTART:20241118T203000Z
+SUMMARY:CEEGR 3510 S1 Engineering Geology
+UID:b989ef2e-0987-4466-9d49-539a99c34e93@b989.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241008T170500Z
+LOCATION:TBD-was Bannan Building 619
+ORGANIZER;CN=Gualtieri\, Lyn (0834249):mailto:madeup@mail.com
+DTSTART:20241008T150000Z
+SUMMARY:ENSC 1000 S1 Intro to Environmental Science
+UID:690fcf87-18e1-495a-ab9f-2cf7752aea5d@690f.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241205T202000Z
+LOCATION:TBD-was Bannan Building 429\; Bannan Building 613\; Bannan Building 619
+ORGANIZER;CN=Marsolek\, Michael (1075473):mailto:madeup@mail.com
+DTSTART:20241205T181500Z
+SUMMARY:CEEGR 4730 S1 Principle of Environmental Eng
+UID:4cc40472-0461-4ac4-bf57-2bf2ecd428ff@4cc4.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241014T174500Z
+LOCATION:TBD-was Bannan Building 353
+ORGANIZER;CN=Kiymaz\, Guven (4187550):mailto:madeup@mail.com
+DTSTART:20241014T162000Z
+SUMMARY:CEEGR 4450 S1 Structural Mechanics
+UID:a81c446b-ee21-4c01-be66-e1b8f24fd972@a81c.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241028T174500Z
+LOCATION:TBD-was Bannan Building 441
+ORGANIZER;CN=Faculty Unassigned:mailto:madeup@mail.com
+DTSTART:20241028T162000Z
+SUMMARY:CEEGR 5110 S1 Advanced Structural Analysis
+UID:38659456-ee28-44a4-8d9c-f864977bafc8@3865.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241024T005000Z
+LOCATION:TBD-was Bannan Building 353
+ORGANIZER;CN=Hainze\, John (2270633):mailto:madeup@mail.com
+DTSTART:20241023T224000Z
+SUMMARY:UCOR 3800 S5 Natural Sci & Global Challenge
+UID:68062d98-09b7-4b9b-9f1d-950f89239f95@6806.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241004T174500Z
+LOCATION:TBD-was Bannan Building 441
+ORGANIZER;CN=Faculty Unassigned:mailto:madeup@mail.com
+DTSTART:20241004T162000Z
+SUMMARY:CEEGR 5110 S1 Advanced Structural Analysis
+UID:061898e8-5e3f-481c-9878-bf76a5a8e1a0@0618.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20240930T223000Z
+LOCATION:TBD
+ORGANIZER;CN=Lee\, Se-Yeun (2228074):mailto:madeup@mail.com
+DTSTART:20240930T210500Z
+SUMMARY:UCOR 3800 S6 Natural Sci & Global Challenge
+UID:70bf4fde-1a65-4581-93f7-483901aafcdf@70bf.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20240926T004500Z
+LOCATION:TBD-was Lemieux Library 122
+ORGANIZER;CN=Gnanapragasam\, Nirmala:mailto:madeup@mail.com
+DTSTART:20240925T224000Z
+SUMMARY:CEEGR 4870 S1 Engineering Design I
+UID:1c62ccbe-6181-40b9-8ee2-08b8997f4fca@1c62.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241014T192000Z
+LOCATION:TBD-was Bannan Building 313\; Bannan Building 181
+ORGANIZER;CN=Kiymaz\, Guven (4187550):mailto:madeup@mail.com
+DTSTART:20241014T175500Z
+SUMMARY:CEEGR 2500 S1 Intro to Structural Design
+UID:94302ac9-136a-4e70-9c4f-4e4c8055271d@9430.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241025T161000Z
+LOCATION:TBD-was Bannan Building 363
+ORGANIZER;CN=Faculty Unassigned:mailto:madeup@mail.com
+DTSTART:20241025T144500Z
+SUMMARY:CEEGR 2210 S1 Mechanics of Materials I
+UID:769cf62c-da7e-4e34-aa29-8fe41f34b1cb@769c.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241010T223500Z
+LOCATION:TBD-was Bannan Building 629\; Bannan Building 619
+ORGANIZER;CN=Hainze\, John (2270633):mailto:madeup@mail.com
+DTSTART:20241010T203000Z
+SUMMARY:UCOR 1800 S8 Inquiry Sem in Natural Science
+UID:769da781-7fb8-4d62-a77c-b58544892b99@769d.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241024T004500Z
+LOCATION:TBD-was Lemieux Library 122
+ORGANIZER;CN=Gnanapragasam\, Nirmala:mailto:madeup@mail.com
+DTSTART:20241023T224000Z
+SUMMARY:CEEGR 4870 S1 Engineering Design I
+UID:2c978d1e-9c21-471f-aeca-ef9542a8ee7d@2c97.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241115T023500Z
+LOCATION:TBD-was Bannan Building 629\; Bannan Building 619
+ORGANIZER;CN=Hainze\, John (2270633):mailto:madeup@mail.com
+DTSTART:20241114T234500Z
+SUMMARY:UCOR 1800 S8 Inquiry Sem in Natural Science
+UID:2521f826-4421-48aa-bf7b-3db386743b5a@2521.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241106T202000Z
+LOCATION:TBD-was Fine Arts Building 120
+ORGANIZER;CN=Lauer\, John (1038686):mailto:madeup@mail.com
+DTSTART:20241106T185500Z
+SUMMARY:ENSC 3800 S1 Aerial Imaging & Mapping
+UID:af1e5ab7-f119-4c0b-a855-f1176cb828ae@af1e.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241121T012000Z
+LOCATION:TBD-was Bannan Building 191
+ORGANIZER;CN=Riazi\, Amin:mailto:madeup@mail.com
+DTSTART:20241120T223000Z
+SUMMARY:CEEGR 3370 S1 Fluids Laboratory
+UID:ea44af13-e47e-4662-9851-ac6d506dc7eb@ea44.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241003T192000Z
+LOCATION:TBD-was Bannan Building 429\; Bannan Building 613\; Bannan Building 619
+ORGANIZER;CN=Marsolek\, Michael (1075473):mailto:madeup@mail.com
+DTSTART:20241003T171500Z
+SUMMARY:ENSC 4730 S1 Prncpls of Envrmtl Engineering
+UID:8cfd301a-ea61-4ede-af6f-d974c292085b@8cfd.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241125T184500Z
+LOCATION:TBD-was Bannan Building 371
+ORGANIZER;CN=Riazi\, Amin:mailto:madeup@mail.com
+DTSTART:20241125T172000Z
+SUMMARY:CEEGR 3310 S1 Fluid Mechanics
+UID:d1b62dfe-5e35-4065-a2ab-0c9c7df234be@d1b6.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241015T192000Z
+LOCATION:TBD-was Bannan Building 379
+ORGANIZER;CN=Faculty Unassigned:mailto:madeup@mail.com
+DTSTART:20241015T171500Z
+SUMMARY:CEEGR 1050 S1 Graphics &amp\; Communication
+UID:5efcd382-edf6-4744-a8d2-45eccabd8c73@5efc.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241122T171000Z
+LOCATION:TBD-was Bannan Building 441
+ORGANIZER;CN=Faculty Unassigned:mailto:madeup@mail.com
+DTSTART:20241122T154500Z
+SUMMARY:CEEGR 5210 S1 Advanced Rc Design
+UID:855cccb2-0ef8-4931-b878-9ff730c2cd99@855c.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241106T233000Z
+LOCATION:TBD
+ORGANIZER;CN=Lee\, Se-Yeun (2228074):mailto:madeup@mail.com
+DTSTART:20241106T220500Z
+SUMMARY:UCOR 3800 S6 Natural Sci & Global Challenge
+UID:c71cd517-5eab-4272-88a2-e1e16e31b190@c71c.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241022T192000Z
+LOCATION:TBD-was Bannan Building 379
+ORGANIZER;CN=Faculty Unassigned:mailto:madeup@mail.com
+DTSTART:20241022T171500Z
+SUMMARY:CEEGR 1050 S1 Graphics &amp\; Communication
+UID:43cf51b3-3a6c-4e66-ac70-d75f282f3594@43cf.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241126T202000Z
+LOCATION:TBD-was Bannan Building 379
+ORGANIZER;CN=Faculty Unassigned:mailto:madeup@mail.com
+DTSTART:20241126T181500Z
+SUMMARY:CEEGR 1050 S1 Graphics &amp\; Communication
+UID:ce3cabf5-1f4f-49a0-9f93-ba3626556888@ce3c.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241112T202000Z
+LOCATION:TBD-was Bannan Building 429\; Bannan Building 613\; Bannan Building 619
+ORGANIZER;CN=Marsolek\, Michael (1075473):mailto:madeup@mail.com
+DTSTART:20241112T181500Z
+SUMMARY:CEEGR 4730 S1 Principle of Environmental Eng
+UID:0b62e5f2-87be-4ca0-94bd-5ce757803b44@0b62.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20240925T192000Z
+LOCATION:TBD-was Bannan Building 313\; Bannan Building 181
+ORGANIZER;CN=Kiymaz\, Guven (4187550):mailto:madeup@mail.com
+DTSTART:20240925T175500Z
+SUMMARY:CEEGR 2500 S1 Intro to Structural Design
+UID:9b0d47e9-2325-4b14-868f-4092da185c37@9b0d.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241205T202000Z
+LOCATION:TBD-was Bannan Building 371
+ORGANIZER;CN=Thompson\, Phillip (0366179):mailto:madeup@mail.com
+DTSTART:20241205T181500Z
+SUMMARY:CEEGR 3020 S1 Global Engineering Economics
+UID:8d8d77d0-6479-4276-8572-d55b8d757fea@8d8d.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241120T184500Z
+LOCATION:TBD-was Bannan Building 371
+ORGANIZER;CN=Riazi\, Amin:mailto:madeup@mail.com
+DTSTART:20241120T172000Z
+SUMMARY:CEEGR 3310 S1 Fluid Mechanics
+UID:1722a420-67ae-4a30-bf99-781bc257a7c4@1722.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241126T180500Z
+LOCATION:TBD-was Bannan Building 619
+ORGANIZER;CN=Gualtieri\, Lyn (0834249):mailto:madeup@mail.com
+DTSTART:20241126T160000Z
+SUMMARY:ENSC 1000 S1 Intro to Environmental Science
+UID:29030b61-8abb-4116-be66-057a91072926@2903.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241119T233500Z
+LOCATION:TBD-was Bannan Building 629\; Bannan Building 619
+ORGANIZER;CN=Hainze\, John (2270633):mailto:madeup@mail.com
+DTSTART:20241119T213000Z
+SUMMARY:UCOR 1800 S7 Inquiry Sem in Natural Science
+UID:8ad41f50-b9e3-4a7f-9efb-37943cc69b6d@8ad4.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241001T002000Z
+LOCATION:TBD-was Bannan Building 180
+ORGANIZER;CN=Faculty Unassigned:mailto:madeup@mail.com
+DTSTART:20240930T213000Z
+SUMMARY:CEEGR 2220 S1 Mechanics of Materials Lab I
+UID:c5444bb3-18a3-4682-9cb5-b429da15ce85@c544.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241105T202000Z
+LOCATION:TBD-was Bannan Building 429\; Bannan Building 613\; Bannan Building 619
+ORGANIZER;CN=Marsolek\, Michael (1075473):mailto:madeup@mail.com
+DTSTART:20241105T181500Z
+SUMMARY:ENSC 4730 S1 Prncpls of Envrmtl Engineering
+UID:3cdd60fa-e300-4f7a-bcd8-bfb08f613940@3cdd.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241015T192000Z
+LOCATION:TBD-was Bannan Building 429\; Bannan Building 613\; Bannan Building 619
+ORGANIZER;CN=Marsolek\, Michael (1075473):mailto:madeup@mail.com
+DTSTART:20241015T171500Z
+SUMMARY:ENSC 4730 S1 Prncpls of Envrmtl Engineering
+UID:4e076ae2-8677-4774-97c3-f39f89f0f8f9@4e07.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241003T004500Z
+LOCATION:TBD-was Lemieux Library 122
+ORGANIZER;CN=Lauer\, John (1038686):mailto:madeup@mail.com
+DTSTART:20241002T224000Z
+SUMMARY:ENSC 4870 S1 Senior Capstone I
+UID:750a7e20-1812-45e6-9474-b38b37da6393@750a.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241009T174500Z
+LOCATION:TBD-was Bannan Building 353
+ORGANIZER;CN=Kiymaz\, Guven (4187550):mailto:madeup@mail.com
+DTSTART:20241009T162000Z
+SUMMARY:CEEGR 4450 S1 Structural Mechanics
+UID:dbbd4666-2a3c-44b2-ad9f-78c0618b116d@dbbd.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241021T192000Z
+LOCATION:TBD-was Bannan Building 313\; Bannan Building 181
+ORGANIZER;CN=Kiymaz\, Guven (4187550):mailto:madeup@mail.com
+DTSTART:20241021T175500Z
+SUMMARY:CEEGR 2500 S1 Intro to Structural Design
+UID:f1f55669-57bb-4f73-991a-e6f1328d0379@f1f5.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241030T174500Z
+LOCATION:TBD-was Bannan Building 371
+ORGANIZER;CN=Riazi\, Amin:mailto:madeup@mail.com
+DTSTART:20241030T162000Z
+SUMMARY:CEEGR 3310 S1 Fluid Mechanics
+UID:e076f1b2-5d9f-4d22-9037-ea50ecd743f2@e076.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241015T170500Z
+LOCATION:TBD-was Bannan Building 619
+ORGANIZER;CN=Gualtieri\, Lyn (0834249):mailto:madeup@mail.com
+DTSTART:20241015T150000Z
+SUMMARY:ENSC 1000 S1 Intro to Environmental Science
+UID:c4074e03-2a4c-479c-b1d2-f6b633a87cbd@c407.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241114T202000Z
+LOCATION:TBD-was Bannan Building 429\; Bannan Building 613\; Bannan Building 619
+ORGANIZER;CN=Marsolek\, Michael (1075473):mailto:madeup@mail.com
+DTSTART:20241114T181500Z
+SUMMARY:CEEGR 4730 S1 Principle of Environmental Eng
+UID:5e3a6f65-4dbe-4638-8f6f-87ba3811b372@5e3a.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241022T223500Z
+LOCATION:TBD-was Bannan Building 629\; Bannan Building 619
+ORGANIZER;CN=Hainze\, John (2270633):mailto:madeup@mail.com
+DTSTART:20241022T203000Z
+SUMMARY:UCOR 1800 S7 Inquiry Sem in Natural Science
+UID:42b97c85-46ea-4477-80b3-105ef1ca877c@42b9.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241202T215500Z
+LOCATION:TBD-was Bannan Building 629
+ORGANIZER;CN=Gnanapragasam\, Nirmala:mailto:madeup@mail.com
+DTSTART:20241202T203000Z
+SUMMARY:CEEGR 3510 S1 Engineering Geology
+UID:de7f24e8-9f4e-4ea0-99c0-f6212c5e351b@de7f.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241202T171000Z
+LOCATION:TBD-was Bannan Building 441
+ORGANIZER;CN=Faculty Unassigned:mailto:madeup@mail.com
+DTSTART:20241202T154500Z
+SUMMARY:CEEGR 5210 S1 Advanced Rc Design
+UID:e4df01aa-9874-4d3c-8a4f-f813e93ea3d9@e4df.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20240926T192000Z
+LOCATION:TBD-was Bannan Building 429\; Bannan Building 613\; Bannan Building 619
+ORGANIZER;CN=Marsolek\, Michael (1075473):mailto:madeup@mail.com
+DTSTART:20240926T171500Z
+SUMMARY:ENSC 4730 S2 Prncpls of Envrmtl Engineering
+UID:4601c861-831e-4f91-a4b6-75d558b181ca@4601.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241024T192000Z
+LOCATION:TBD-was Bannan Building 429\; Bannan Building 613\; Bannan Building 619
+ORGANIZER;CN=Marsolek\, Michael (1075473):mailto:madeup@mail.com
+DTSTART:20241024T171500Z
+SUMMARY:CEEGR 4730 S1 Principle of Environmental Eng
+UID:729ad013-74db-4d32-811b-e0f44e3fdcf8@729a.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241009T174500Z
+LOCATION:TBD-was Bannan Building 441
+ORGANIZER;CN=Faculty Unassigned:mailto:madeup@mail.com
+DTSTART:20241009T162000Z
+SUMMARY:CEEGR 5110 S1 Advanced Structural Analysis
+UID:1b1f6f17-6f9b-45d8-8c61-0c3c84ff2005@1b1f.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241106T002000Z
+LOCATION:TBD-was Bannan Building 191
+ORGANIZER;CN=Riazi\, Amin:mailto:madeup@mail.com
+DTSTART:20241105T213000Z
+SUMMARY:CEEGR 3370 S2 Fluids Laboratory
+UID:9fc3c933-9879-48d8-a323-7bb0f8dba7a0@9fc3.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241011T174500Z
+LOCATION:TBD-was Bannan Building 441
+ORGANIZER;CN=Faculty Unassigned:mailto:madeup@mail.com
+DTSTART:20241011T162000Z
+SUMMARY:CEEGR 5110 S1 Advanced Structural Analysis
+UID:1c75cec1-d846-454f-add5-168469538554@1c75.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241022T232000Z
+LOCATION:TBD-was Bannan Building 429\; Bannan Building 613\; Bannan Building 619
+ORGANIZER;CN=Marsolek\, Michael (1075473):mailto:madeup@mail.com
+DTSTART:20241022T203000Z
+SUMMARY:ENSC 4730 S1 Prncpls of Envrmtl Engineering
+UID:86f48bc3-d9ab-440f-9afc-03415e9f5be5@86f4.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241010T232000Z
+LOCATION:TBD-was Bannan Building 429\; Bannan Building 613\; Bannan Building 619
+ORGANIZER;CN=Marsolek\, Michael (1075473):mailto:madeup@mail.com
+DTSTART:20241010T203000Z
+SUMMARY:ENSC 4730 S2 Prncpls of Envrmtl Engineering
+UID:97fa32d4-fd10-45e5-ba8c-1842465f6e5a@97fa.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241031T232000Z
+LOCATION:TBD-was Bannan Building 429\; Bannan Building 613\; Bannan Building 619
+ORGANIZER;CN=Marsolek\, Michael (1075473):mailto:madeup@mail.com
+DTSTART:20241031T203000Z
+SUMMARY:ENSC 4730 S2 Prncpls of Envrmtl Engineering
+UID:60b551ff-1d84-4685-b8da-811e050dd399@60b5.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241107T014500Z
+LOCATION:TBD-was Lemieux Library 122
+ORGANIZER;CN=Lauer\, John (1038686):mailto:madeup@mail.com
+DTSTART:20241106T234000Z
+SUMMARY:ENSC 4870 S1 Senior Capstone I
+UID:fc37bcf5-f80f-41c1-93be-95fa4614afc6@fc37.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241028T192000Z
+LOCATION:TBD-was Bannan Building 313\; Bannan Building 181
+ORGANIZER;CN=Kiymaz\, Guven (4187550):mailto:madeup@mail.com
+DTSTART:20241028T175500Z
+SUMMARY:CEEGR 2500 S1 Intro to Structural Design
+UID:c641aec3-46d8-47c6-8bcd-7cc7276499ac@c641.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241108T215500Z
+LOCATION:TBD-was Bannan Building 629
+ORGANIZER;CN=Gnanapragasam\, Nirmala:mailto:madeup@mail.com
+DTSTART:20241108T203000Z
+SUMMARY:CEEGR 3510 S1 Engineering Geology
+UID:154adba4-eb19-47cd-9579-a8d33e8b4b8a@154a.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241002T223000Z
+LOCATION:TBD
+ORGANIZER;CN=Lee\, Se-Yeun (2228074):mailto:madeup@mail.com
+DTSTART:20241002T210500Z
+SUMMARY:UCOR 3800 S6 Natural Sci & Global Challenge
+UID:423c2d3f-5c38-4012-845a-2307696f74d0@423c.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241106T023500Z
+LOCATION:TBD-was Bannan Building 629\; Bannan Building 619
+ORGANIZER;CN=Hainze\, John (2270633):mailto:madeup@mail.com
+DTSTART:20241105T234500Z
+SUMMARY:UCOR 1800 S7 Inquiry Sem in Natural Science
+UID:aa910969-5f8e-4d84-b6f4-7e39ef4909fa@aa91.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241018T174500Z
+LOCATION:TBD-was Bannan Building 371
+ORGANIZER;CN=Riazi\, Amin:mailto:madeup@mail.com
+DTSTART:20241018T162000Z
+SUMMARY:CEEGR 3310 S1 Fluid Mechanics
+UID:c4270b3e-92d5-483d-bd6b-3370ce908063@c427.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241023T205500Z
+LOCATION:TBD-was Bannan Building 629
+ORGANIZER;CN=Gnanapragasam\, Nirmala:mailto:madeup@mail.com
+DTSTART:20241023T193000Z
+SUMMARY:CEEGR 3510 S1 Engineering Geology
+UID:741629d0-d9c8-4581-b4dd-28880b0dd885@7416.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241003T192000Z
+LOCATION:TBD-was Bannan Building 371
+ORGANIZER;CN=Thompson\, Phillip (0366179):mailto:madeup@mail.com
+DTSTART:20241003T171500Z
+SUMMARY:CEEGR 3020 S1 Global Engineering Economics
+UID:a2620bfe-e6fe-4cac-aeee-adb76c97a7a4@a262.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241025T192000Z
+LOCATION:TBD-was Bannan Building 313\; Bannan Building 181
+ORGANIZER;CN=Kiymaz\, Guven (4187550):mailto:madeup@mail.com
+DTSTART:20241025T175500Z
+SUMMARY:CEEGR 2500 S1 Intro to Structural Design
+UID:7d0f67f9-5f1e-4967-aa66-3fdde067dd50@7d0f.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241022T232000Z
+LOCATION:TBD-was Bannan Building 191
+ORGANIZER;CN=Riazi\, Amin:mailto:madeup@mail.com
+DTSTART:20241022T203000Z
+SUMMARY:CEEGR 3370 S2 Fluids Laboratory
+UID:5bd685a5-a526-497e-8a95-248d5eae6775@5bd6.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241108T002000Z
+LOCATION:TBD-was Bannan Building 429\; Bannan Building 613\; Bannan Building 619
+ORGANIZER;CN=Marsolek\, Michael (1075473):mailto:madeup@mail.com
+DTSTART:20241107T213000Z
+SUMMARY:CEEGR 4730 S2 Principle of Environmental Eng
+UID:2995cb58-fb4a-4495-a8a5-279bee26f3ce@2995.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241002T174500Z
+LOCATION:TBD-was Bannan Building 441
+ORGANIZER;CN=Faculty Unassigned:mailto:madeup@mail.com
+DTSTART:20241002T162000Z
+SUMMARY:CEEGR 5110 S1 Advanced Structural Analysis
+UID:88a14dfa-115a-4457-a24c-3c214c744f3b@88a1.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241011T161000Z
+LOCATION:TBD-was Bannan Building 441
+ORGANIZER;CN=Faculty Unassigned:mailto:madeup@mail.com
+DTSTART:20241011T144500Z
+SUMMARY:CEEGR 5210 S1 Advanced Rc Design
+UID:e4dc7210-b93f-40c2-beb5-88676a84fe09@e4dc.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241105T014500Z
+LOCATION:TBD-was Lemieux Library 122
+ORGANIZER;CN=Lauer\, John (1038686):mailto:madeup@mail.com
+DTSTART:20241104T234000Z
+SUMMARY:ENSC 4870 S1 Senior Capstone I
+UID:ec22578e-6beb-438f-a27c-f531a132b72d@ec22.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241120T215500Z
+LOCATION:TBD-was Bannan Building 629
+ORGANIZER;CN=Gnanapragasam\, Nirmala:mailto:madeup@mail.com
+DTSTART:20241120T203000Z
+SUMMARY:CEEGR 3510 S1 Engineering Geology
+UID:d3c5e14b-20f1-42bb-bdc2-394a2c72242c@d3c5.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241010T004500Z
+LOCATION:TBD-was Lemieux Library 122
+ORGANIZER;CN=Lauer\, John (1038686):mailto:madeup@mail.com
+DTSTART:20241009T224000Z
+SUMMARY:ENSC 4870 S1 Senior Capstone I
+UID:5dc5a62d-8dbc-47f8-80b5-44c9e1933249@5dc5.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241025T161000Z
+LOCATION:TBD-was Bannan Building 441
+ORGANIZER;CN=Faculty Unassigned:mailto:madeup@mail.com
+DTSTART:20241025T144500Z
+SUMMARY:CEEGR 5210 S1 Advanced Rc Design
+UID:921bfd72-809d-4665-8bdf-7d8be1f2473e@921b.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241009T161000Z
+LOCATION:TBD-was Bannan Building 441
+ORGANIZER;CN=Faculty Unassigned:mailto:madeup@mail.com
+DTSTART:20241009T144500Z
+SUMMARY:CEEGR 5210 S1 Advanced Rc Design
+UID:c3cd96f9-ce6a-4d35-9e10-b6b135300511@c3cd.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241125T184500Z
+LOCATION:TBD-was Bannan Building 441
+ORGANIZER;CN=Faculty Unassigned:mailto:madeup@mail.com
+DTSTART:20241125T172000Z
+SUMMARY:CEEGR 5110 S1 Advanced Structural Analysis
+UID:0c8b8bf3-a077-448a-bd6e-b36b770e1ee1@0c8b.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241015T002000Z
+LOCATION:TBD-was Bannan Building 180
+ORGANIZER;CN=Faculty Unassigned:mailto:madeup@mail.com
+DTSTART:20241014T213000Z
+SUMMARY:CEEGR 2220 S1 Mechanics of Materials Lab I
+UID:28f99dc1-a583-4755-b1fd-65f24b4bfa95@28f9.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241003T002000Z
+LOCATION:TBD-was Bannan Building 191
+ORGANIZER;CN=Riazi\, Amin:mailto:madeup@mail.com
+DTSTART:20241002T213000Z
+SUMMARY:CEEGR 3370 S1 Fluids Laboratory
+UID:0cf89916-ff10-47f0-93d1-70c5211c2849@0cf8.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241114T202000Z
+LOCATION:TBD-was Bannan Building 429\; Bannan Building 613\; Bannan Building 619
+ORGANIZER;CN=Marsolek\, Michael (1075473):mailto:madeup@mail.com
+DTSTART:20241114T181500Z
+SUMMARY:ENSC 4730 S2 Prncpls of Envrmtl Engineering
+UID:999bb25b-6a28-4c0e-ab0d-b5d988e1273d@999b.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241018T013500Z
+LOCATION:TBD-was Bannan Building 629\; Bannan Building 619
+ORGANIZER;CN=Hainze\, John (2270633):mailto:madeup@mail.com
+DTSTART:20241017T224500Z
+SUMMARY:UCOR 1800 S8 Inquiry Sem in Natural Science
+UID:43577330-1e39-4576-8ad6-4ae7e69b6a09@4357.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20240927T192000Z
+LOCATION:TBD-was Bannan Building 313\; Bannan Building 181
+ORGANIZER;CN=Kiymaz\, Guven (4187550):mailto:madeup@mail.com
+DTSTART:20240927T175500Z
+SUMMARY:CEEGR 2500 S1 Intro to Structural Design
+UID:6819e1e4-69e2-421a-9c4c-c59e88cf5501@6819.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241011T174500Z
+LOCATION:TBD-was Bannan Building 353
+ORGANIZER;CN=Kiymaz\, Guven (4187550):mailto:madeup@mail.com
+DTSTART:20241011T162000Z
+SUMMARY:CEEGR 4450 S1 Structural Mechanics
+UID:1a0d39a6-a450-4ec3-970f-3d1696830315@1a0d.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241017T232000Z
+LOCATION:TBD-was Bannan Building 429\; Bannan Building 613\; Bannan Building 619
+ORGANIZER;CN=Marsolek\, Michael (1075473):mailto:madeup@mail.com
+DTSTART:20241017T203000Z
+SUMMARY:CEEGR 4730 S2 Principle of Environmental Eng
+UID:45732b21-3674-4357-acc9-f6a69ced7e87@4573.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241204T233000Z
+LOCATION:TBD
+ORGANIZER;CN=Lee\, Se-Yeun (2228074):mailto:madeup@mail.com
+DTSTART:20241204T220500Z
+SUMMARY:UCOR 3800 S6 Natural Sci & Global Challenge
+UID:e6116212-7d92-40d1-9db9-b57a480f2b5d@e611.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241008T232000Z
+LOCATION:TBD-was Bannan Building 429\; Bannan Building 613\; Bannan Building 619
+ORGANIZER;CN=Marsolek\, Michael (1075473):mailto:madeup@mail.com
+DTSTART:20241008T203000Z
+SUMMARY:CEEGR 4730 S1 Principle of Environmental Eng
+UID:248832b6-c13e-4873-97e3-c3278731a867@2488.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241115T233000Z
+LOCATION:TBD
+ORGANIZER;CN=Lee\, Se-Yeun (2228074):mailto:madeup@mail.com
+DTSTART:20241115T220500Z
+SUMMARY:UCOR 3800 S6 Natural Sci & Global Challenge
+UID:656570c5-6416-493c-a91d-bd44cc8dc7d0@6565.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241122T202000Z
+LOCATION:TBD-was Bannan Building 313\; Bannan Building 181
+ORGANIZER;CN=Kiymaz\, Guven (4187550):mailto:madeup@mail.com
+DTSTART:20241122T185500Z
+SUMMARY:CEEGR 2500 S1 Intro to Structural Design
+UID:e95aa561-ed61-4db5-851f-32a6f64c60e9@e95a.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241202T184500Z
+LOCATION:TBD-was Bannan Building 371
+ORGANIZER;CN=Riazi\, Amin:mailto:madeup@mail.com
+DTSTART:20241202T172000Z
+SUMMARY:CEEGR 3310 S1 Fluid Mechanics
+UID:eb0a18d6-6a73-498f-8a9a-7c0256a7fb6a@eb0a.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241031T005000Z
+LOCATION:TBD-was Bannan Building 353
+ORGANIZER;CN=Hainze\, John (2270633):mailto:madeup@mail.com
+DTSTART:20241030T224000Z
+SUMMARY:UCOR 3800 S5 Natural Sci & Global Challenge
+UID:ab69bb8a-cb55-4ca5-9153-181627563d6b@ab69.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241003T192000Z
+LOCATION:TBD-was Bannan Building 429\; Bannan Building 613\; Bannan Building 619
+ORGANIZER;CN=Marsolek\, Michael (1075473):mailto:madeup@mail.com
+DTSTART:20241003T171500Z
+SUMMARY:CEEGR 4730 S2 Principle of Environmental Eng
+UID:3ee5141a-f9f6-4b79-b3e2-01e71daf7fe8@3ee5.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241121T015000Z
+LOCATION:TBD-was Bannan Building 353
+ORGANIZER;CN=Hainze\, John (2270633):mailto:madeup@mail.com
+DTSTART:20241120T234000Z
+SUMMARY:UCOR 3800 S5 Natural Sci & Global Challenge
+UID:a13d2b68-4773-4aca-a6b7-14fdb89846b8@a13d.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241204T202000Z
+LOCATION:TBD-was Fine Arts Building 120
+ORGANIZER;CN=Lauer\, John (1038686):mailto:madeup@mail.com
+DTSTART:20241204T185500Z
+SUMMARY:ENSC 3800 S1 Aerial Imaging & Mapping
+UID:f2fd1298-591b-4926-819d-3aa21a3cf451@f2fd.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241112T202000Z
+LOCATION:TBD-was Bannan Building 379
+ORGANIZER;CN=Faculty Unassigned:mailto:madeup@mail.com
+DTSTART:20241112T181500Z
+SUMMARY:CEEGR 1050 S1 Graphics &amp\; Communication
+UID:d50f1f14-6eca-4dc2-83a6-9aa2d3530103@d50f.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241018T223000Z
+LOCATION:TBD
+ORGANIZER;CN=Lee\, Se-Yeun (2228074):mailto:madeup@mail.com
+DTSTART:20241018T210500Z
+SUMMARY:UCOR 3800 S6 Natural Sci & Global Challenge
+UID:b85fdd5e-7686-4a5e-a16b-91589a486aa1@b85f.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241118T184500Z
+LOCATION:TBD-was Bannan Building 371
+ORGANIZER;CN=Riazi\, Amin:mailto:madeup@mail.com
+DTSTART:20241118T172000Z
+SUMMARY:CEEGR 3310 S1 Fluid Mechanics
+UID:117ef04f-1342-4296-af17-9fe25d31ead4@117e.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241120T171000Z
+LOCATION:TBD-was Bannan Building 363
+ORGANIZER;CN=Faculty Unassigned:mailto:madeup@mail.com
+DTSTART:20241120T154500Z
+SUMMARY:CEEGR 2210 S1 Mechanics of Materials I
+UID:79c5322c-750a-472d-9d14-2909ab0d1382@79c5.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241205T012000Z
+LOCATION:TBD-was Bannan Building 191
+ORGANIZER;CN=Riazi\, Amin:mailto:madeup@mail.com
+DTSTART:20241204T223000Z
+SUMMARY:CEEGR 3370 S1 Fluids Laboratory
+UID:7e4849fc-df6b-4db6-a5d9-1d5a20afeda9@7e48.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241122T002000Z
+LOCATION:TBD-was Bannan Building 429\; Bannan Building 613\; Bannan Building 619
+ORGANIZER;CN=Marsolek\, Michael (1075473):mailto:madeup@mail.com
+DTSTART:20241121T213000Z
+SUMMARY:ENSC 4730 S2 Prncpls of Envrmtl Engineering
+UID:c884088e-5d50-4da0-aee3-43f05f13dbb3@c884.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241001T223500Z
+LOCATION:TBD-was Bannan Building 629\; Bannan Building 619
+ORGANIZER;CN=Hainze\, John (2270633):mailto:madeup@mail.com
+DTSTART:20241001T203000Z
+SUMMARY:UCOR 1800 S8 Inquiry Sem in Natural Science
+UID:427f8c52-2889-4275-8b51-e80852886c88@427f.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241125T171000Z
+LOCATION:TBD-was Bannan Building 363
+ORGANIZER;CN=Faculty Unassigned:mailto:madeup@mail.com
+DTSTART:20241125T154500Z
+SUMMARY:CEEGR 2210 S1 Mechanics of Materials I
+UID:efe7d13d-8482-4808-9812-6b8c328d99c1@efe7.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241003T232000Z
+LOCATION:TBD-was Bannan Building 429\; Bannan Building 613\; Bannan Building 619
+ORGANIZER;CN=Marsolek\, Michael (1075473):mailto:madeup@mail.com
+DTSTART:20241003T203000Z
+SUMMARY:ENSC 4730 S2 Prncpls of Envrmtl Engineering
+UID:5e2732d4-1a24-4941-8321-828f1b5476cc@5e27.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241205T202000Z
+LOCATION:TBD-was Bannan Building 429\; Bannan Building 613\; Bannan Building 619
+ORGANIZER;CN=Marsolek\, Michael (1075473):mailto:madeup@mail.com
+DTSTART:20241205T181500Z
+SUMMARY:ENSC 4730 S1 Prncpls of Envrmtl Engineering
+UID:d9571b0e-ebc4-45a2-8d08-cade9f982e54@d957.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241120T023500Z
+LOCATION:TBD-was Bannan Building 629\; Bannan Building 619
+ORGANIZER;CN=Hainze\, John (2270633):mailto:madeup@mail.com
+DTSTART:20241119T234500Z
+SUMMARY:UCOR 1800 S7 Inquiry Sem in Natural Science
+UID:0760a979-b391-465a-9e97-332f6ac762f2@0760.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241008T192000Z
+LOCATION:TBD-was Bannan Building 429\; Bannan Building 613\; Bannan Building 619
+ORGANIZER;CN=Marsolek\, Michael (1075473):mailto:madeup@mail.com
+DTSTART:20241008T171500Z
+SUMMARY:CEEGR 4730 S2 Principle of Environmental Eng
+UID:328c25c9-8c04-421b-9420-7fddf10fe435@328c.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20240925T161000Z
+LOCATION:TBD-was Bannan Building 441
+ORGANIZER;CN=Faculty Unassigned:mailto:madeup@mail.com
+DTSTART:20240925T144500Z
+SUMMARY:CEEGR 5210 S1 Advanced Rc Design
+UID:70859320-7076-47fe-a24c-b3de45b7b4e1@7085.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241010T192000Z
+LOCATION:TBD-was Bannan Building 379
+ORGANIZER;CN=Faculty Unassigned:mailto:madeup@mail.com
+DTSTART:20241010T171500Z
+SUMMARY:CEEGR 1050 S1 Graphics &amp\; Communication
+UID:44d78f46-b188-4606-aa4c-db0c5cf4de38@44d7.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241031T223500Z
+LOCATION:TBD-was Bannan Building 619
+ORGANIZER;CN=Gnanapragasam\, Nirmala:mailto:madeup@mail.com
+DTSTART:20241031T203000Z
+SUMMARY:CEEGR 1000 S1 Intro to Civil & Env Eng.
+UID:842e2462-8062-40cb-9722-342ebeec74b5@842e.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241115T002000Z
+LOCATION:TBD-was Bannan Building 313\; Bannan Building 181
+ORGANIZER;CN=Kiymaz\, Guven (4187550):mailto:madeup@mail.com
+DTSTART:20241114T213000Z
+SUMMARY:CEEGR 2500 S1 Intro to Structural Design
+UID:75dc31cd-b5c0-4347-9747-5658c99e0b79@75dc.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241002T192000Z
+LOCATION:TBD-was Fine Arts Building 120
+ORGANIZER;CN=Lauer\, John (1038686):mailto:madeup@mail.com
+DTSTART:20241002T175500Z
+SUMMARY:ENSC 3800 S1 Aerial Imaging & Mapping
+UID:e1187479-f255-4202-b52f-aa76d4b34302@e118.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241004T174500Z
+LOCATION:TBD-was Bannan Building 353
+ORGANIZER;CN=Kiymaz\, Guven (4187550):mailto:madeup@mail.com
+DTSTART:20241004T162000Z
+SUMMARY:CEEGR 4450 S1 Structural Mechanics
+UID:38c5db08-96ac-4d2b-ad72-11897e66a193@38c5.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241108T184500Z
+LOCATION:TBD-was Bannan Building 371
+ORGANIZER;CN=Riazi\, Amin:mailto:madeup@mail.com
+DTSTART:20241108T172000Z
+SUMMARY:CEEGR 3310 S1 Fluid Mechanics
+UID:c40411e9-c8a2-4ce8-8bfc-e5dc2fb707f6@c404.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241002T161000Z
+LOCATION:TBD-was Bannan Building 441
+ORGANIZER;CN=Faculty Unassigned:mailto:madeup@mail.com
+DTSTART:20241002T144500Z
+SUMMARY:CEEGR 5210 S1 Advanced Rc Design
+UID:1e186504-4b0c-4a59-84e7-591d251c0aac@1e18.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241112T180500Z
+LOCATION:TBD-was Bannan Building 619
+ORGANIZER;CN=Gualtieri\, Lyn (0834249):mailto:madeup@mail.com
+DTSTART:20241112T160000Z
+SUMMARY:ENSC 1000 S1 Intro to Environmental Science
+UID:9bf231a8-cba8-41df-bcf8-0365ed5d02be@9bf2.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241009T205500Z
+LOCATION:TBD-was Bannan Building 629
+ORGANIZER;CN=Gnanapragasam\, Nirmala:mailto:madeup@mail.com
+DTSTART:20241009T193000Z
+SUMMARY:CEEGR 3510 S1 Engineering Geology
+UID:b9ec66cd-748a-410c-b156-bac4e2e8cb51@b9ec.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241204T184500Z
+LOCATION:TBD-was Bannan Building 441
+ORGANIZER;CN=Faculty Unassigned:mailto:madeup@mail.com
+DTSTART:20241204T172000Z
+SUMMARY:CEEGR 5110 S1 Advanced Structural Analysis
+UID:65b3a526-d47e-46bf-8e5a-c4ccff14c1b4@65b3.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20240926T232000Z
+LOCATION:TBD-was Bannan Building 429\; Bannan Building 613\; Bannan Building 619
+ORGANIZER;CN=Marsolek\, Michael (1075473):mailto:madeup@mail.com
+DTSTART:20240926T203000Z
+SUMMARY:ENSC 4730 S2 Prncpls of Envrmtl Engineering
+UID:4eb034d1-1678-4f81-bf41-2a141388b362@4eb0.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241107T015000Z
+LOCATION:TBD-was Bannan Building 353
+ORGANIZER;CN=Hainze\, John (2270633):mailto:madeup@mail.com
+DTSTART:20241106T234000Z
+SUMMARY:UCOR 3800 S5 Natural Sci & Global Challenge
+UID:dd81cc0a-9073-44d3-ab5f-1a0d0b3f3fb9@dd81.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241018T192000Z
+LOCATION:TBD-was Fine Arts Building 120
+ORGANIZER;CN=Lauer\, John (1038686):mailto:madeup@mail.com
+DTSTART:20241018T175500Z
+SUMMARY:ENSC 3800 S1 Aerial Imaging & Mapping
+UID:8acbf08f-cad2-42d3-9d4e-24f5974e3de9@8acb.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241009T223000Z
+LOCATION:TBD
+ORGANIZER;CN=Lee\, Se-Yeun (2228074):mailto:madeup@mail.com
+DTSTART:20241009T210500Z
+SUMMARY:UCOR 3800 S6 Natural Sci & Global Challenge
+UID:0800c032-2691-44da-a91b-9741f71de4cb@0800.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241009T013500Z
+LOCATION:TBD-was Bannan Building 629\; Bannan Building 619
+ORGANIZER;CN=Hainze\, John (2270633):mailto:madeup@mail.com
+DTSTART:20241008T224500Z
+SUMMARY:UCOR 1800 S7 Inquiry Sem in Natural Science
+UID:fdf715dd-523d-40f8-bf10-76448f780cfb@fdf7.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241024T002000Z
+LOCATION:TBD-was Bannan Building 191
+ORGANIZER;CN=Riazi\, Amin:mailto:madeup@mail.com
+DTSTART:20241023T213000Z
+SUMMARY:CEEGR 3370 S1 Fluids Laboratory
+UID:2a8d274f-43e7-4391-ae80-bde88bd9168e@2a8d.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241002T174500Z
+LOCATION:TBD-was Bannan Building 353
+ORGANIZER;CN=Kiymaz\, Guven (4187550):mailto:madeup@mail.com
+DTSTART:20241002T162000Z
+SUMMARY:CEEGR 4450 S1 Structural Mechanics
+UID:4ca6bc93-2e43-4b24-bbca-e1cf8256733a@4ca6.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241031T223500Z
+LOCATION:TBD-was Bannan Building 629\; Bannan Building 619
+ORGANIZER;CN=Hainze\, John (2270633):mailto:madeup@mail.com
+DTSTART:20241031T203000Z
+SUMMARY:UCOR 1800 S8 Inquiry Sem in Natural Science
+UID:d9de38cb-eb93-4870-b2ab-2198460b8275@d9de.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241126T202000Z
+LOCATION:TBD-was Bannan Building 429\; Bannan Building 613\; Bannan Building 619
+ORGANIZER;CN=Marsolek\, Michael (1075473):mailto:madeup@mail.com
+DTSTART:20241126T181500Z
+SUMMARY:CEEGR 4730 S2 Principle of Environmental Eng
+UID:fb209a40-4520-46c2-b85f-4f51b4bfe2c4@fb20.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241022T170500Z
+LOCATION:TBD-was Bannan Building 619
+ORGANIZER;CN=Gualtieri\, Lyn (0834249):mailto:madeup@mail.com
+DTSTART:20241022T150000Z
+SUMMARY:ENSC 1000 S1 Intro to Environmental Science
+UID:263f1c86-df9b-4eef-a33f-9d88d1ec3cb5@263f.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241003T223500Z
+LOCATION:TBD-was Bannan Building 619
+ORGANIZER;CN=Gnanapragasam\, Nirmala:mailto:madeup@mail.com
+DTSTART:20241003T203000Z
+SUMMARY:CEEGR 1000 S1 Intro to Civil & Env Eng.
+UID:69c324d4-7e9d-4f24-bf30-60e17f94348d@69c3.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241023T192000Z
+LOCATION:TBD-was Bannan Building 313\; Bannan Building 181
+ORGANIZER;CN=Kiymaz\, Guven (4187550):mailto:madeup@mail.com
+DTSTART:20241023T175500Z
+SUMMARY:CEEGR 2500 S1 Intro to Structural Design
+UID:9de68bb3-2f9c-4c8d-9046-e44b402b9f65@9de6.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241204T184500Z
+LOCATION:TBD-was Bannan Building 353
+ORGANIZER;CN=Kiymaz\, Guven (4187550):mailto:madeup@mail.com
+DTSTART:20241204T172000Z
+SUMMARY:CEEGR 4450 S1 Structural Mechanics
+UID:39556577-fe6e-4219-b189-230277766704@3955.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241122T215500Z
+LOCATION:TBD-was Bannan Building 629
+ORGANIZER;CN=Gnanapragasam\, Nirmala:mailto:madeup@mail.com
+DTSTART:20241122T203000Z
+SUMMARY:CEEGR 3510 S1 Engineering Geology
+UID:db496c4b-f20d-45c5-a2b2-62e12bf25c3b@db49.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241119T014500Z
+LOCATION:TBD-was Lemieux Library 122
+ORGANIZER;CN=Lauer\, John (1038686):mailto:madeup@mail.com
+DTSTART:20241118T234000Z
+SUMMARY:ENSC 4870 S1 Senior Capstone I
+UID:e96e4cc5-d87c-48e0-b840-23d1c19b04e9@e96e.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241115T184500Z
+LOCATION:TBD-was Bannan Building 371
+ORGANIZER;CN=Riazi\, Amin:mailto:madeup@mail.com
+DTSTART:20241115T172000Z
+SUMMARY:CEEGR 3310 S1 Fluid Mechanics
+UID:3d31c3e9-e3a1-49d5-a9da-69edf5e875b1@3d31.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241023T174500Z
+LOCATION:TBD-was Bannan Building 371
+ORGANIZER;CN=Riazi\, Amin:mailto:madeup@mail.com
+DTSTART:20241023T162000Z
+SUMMARY:CEEGR 3310 S1 Fluid Mechanics
+UID:515129ea-401d-4e19-ac55-7fbba0584cbb@5151.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241004T192000Z
+LOCATION:TBD-was Fine Arts Building 120
+ORGANIZER;CN=Lauer\, John (1038686):mailto:madeup@mail.com
+DTSTART:20241004T175500Z
+SUMMARY:ENSC 3800 S1 Aerial Imaging & Mapping
+UID:2db3d111-69a2-46be-aff0-8000589eff86@2db3.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241024T223500Z
+LOCATION:TBD-was Bannan Building 629\; Bannan Building 619
+ORGANIZER;CN=Hainze\, John (2270633):mailto:madeup@mail.com
+DTSTART:20241024T203000Z
+SUMMARY:UCOR 1800 S7 Inquiry Sem in Natural Science
+UID:4518184d-8f31-4334-9bd8-1c3b52afdb10@4518.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241018T161000Z
+LOCATION:TBD-was Bannan Building 441
+ORGANIZER;CN=Faculty Unassigned:mailto:madeup@mail.com
+DTSTART:20241018T144500Z
+SUMMARY:CEEGR 5210 S1 Advanced Rc Design
+UID:7e966d6f-6e33-4cd6-a096-e6ec781e1d12@7e96.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20240926T192000Z
+LOCATION:TBD-was Bannan Building 429\; Bannan Building 613\; Bannan Building 619
+ORGANIZER;CN=Marsolek\, Michael (1075473):mailto:madeup@mail.com
+DTSTART:20240926T171500Z
+SUMMARY:CEEGR 4730 S1 Principle of Environmental Eng
+UID:baf7969b-5487-425b-aeec-27fbd76a31a5@baf7.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241112T202000Z
+LOCATION:TBD-was Bannan Building 371
+ORGANIZER;CN=Thompson\, Phillip (0366179):mailto:madeup@mail.com
+DTSTART:20241112T181500Z
+SUMMARY:CEEGR 3020 S1 Global Engineering Economics
+UID:0b4d28b8-b013-41bd-bbf3-4a29dbea5f6c@0b4d.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241121T014500Z
+LOCATION:TBD-was Lemieux Library 122
+ORGANIZER;CN=Gnanapragasam\, Nirmala:mailto:madeup@mail.com
+DTSTART:20241120T234000Z
+SUMMARY:CEEGR 4870 S1 Engineering Design I
+UID:206d29fc-ae53-4258-b0a7-ae06281ab2d3@206d.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241205T202000Z
+LOCATION:TBD-was Bannan Building 429\; Bannan Building 613\; Bannan Building 619
+ORGANIZER;CN=Marsolek\, Michael (1075473):mailto:madeup@mail.com
+DTSTART:20241205T181500Z
+SUMMARY:ENSC 4730 S2 Prncpls of Envrmtl Engineering
+UID:0039faf3-8d0c-4f94-9131-2ab0ab04fe0c@0039.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241016T192000Z
+LOCATION:TBD-was Fine Arts Building 120
+ORGANIZER;CN=Lauer\, John (1038686):mailto:madeup@mail.com
+DTSTART:20241016T175500Z
+SUMMARY:ENSC 3800 S1 Aerial Imaging & Mapping
+UID:72d84082-6276-4d54-9fcb-e057b9487a9b@72d8.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241016T174500Z
+LOCATION:TBD-was Bannan Building 441
+ORGANIZER;CN=Faculty Unassigned:mailto:madeup@mail.com
+DTSTART:20241016T162000Z
+SUMMARY:CEEGR 5110 S1 Advanced Structural Analysis
+UID:22e04769-ea3f-4861-8c31-d799e2b3b09a@22e0.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241022T004500Z
+LOCATION:TBD-was Lemieux Library 122
+ORGANIZER;CN=Gnanapragasam\, Nirmala:mailto:madeup@mail.com
+DTSTART:20241021T224000Z
+SUMMARY:CEEGR 4870 S1 Engineering Design I
+UID:b559894f-24aa-4c57-9df8-ddec6dd4b8f9@b559.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241016T223000Z
+LOCATION:TBD
+ORGANIZER;CN=Lee\, Se-Yeun (2228074):mailto:madeup@mail.com
+DTSTART:20241016T210500Z
+SUMMARY:UCOR 3800 S6 Natural Sci & Global Challenge
+UID:6edddfcb-7ece-46ea-bde3-9c28ca9b5f4c@6edd.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241118T171000Z
+LOCATION:TBD-was Bannan Building 363
+ORGANIZER;CN=Faculty Unassigned:mailto:madeup@mail.com
+DTSTART:20241118T154500Z
+SUMMARY:CEEGR 2210 S1 Mechanics of Materials I
+UID:2477edcb-3503-4a74-b883-9806f9f59590@2477.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241115T184500Z
+LOCATION:TBD-was Bannan Building 441
+ORGANIZER;CN=Faculty Unassigned:mailto:madeup@mail.com
+DTSTART:20241115T172000Z
+SUMMARY:CEEGR 5110 S1 Advanced Structural Analysis
+UID:00018eea-7262-4239-af9b-afba1d549d23@0001.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241008T223500Z
+LOCATION:TBD-was Bannan Building 629\; Bannan Building 619
+ORGANIZER;CN=Hainze\, John (2270633):mailto:madeup@mail.com
+DTSTART:20241008T203000Z
+SUMMARY:UCOR 1800 S7 Inquiry Sem in Natural Science
+UID:578e9942-dd9e-4122-a35b-061ddd3c3adf@578e.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241022T232000Z
+LOCATION:TBD-was Bannan Building 429\; Bannan Building 613\; Bannan Building 619
+ORGANIZER;CN=Marsolek\, Michael (1075473):mailto:madeup@mail.com
+DTSTART:20241022T203000Z
+SUMMARY:CEEGR 4730 S1 Principle of Environmental Eng
+UID:be244bdb-a93d-4954-be2a-7e3eae563bdc@be24.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20240925T174500Z
+LOCATION:TBD-was Bannan Building 441
+ORGANIZER;CN=Faculty Unassigned:mailto:madeup@mail.com
+DTSTART:20240925T162000Z
+SUMMARY:CEEGR 5110 S1 Advanced Structural Analysis
+UID:7f2cf3e8-c1ec-405a-aecb-71eb28bc9b8d@7f2c.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241104T171000Z
+LOCATION:TBD-was Bannan Building 363
+ORGANIZER;CN=Faculty Unassigned:mailto:madeup@mail.com
+DTSTART:20241104T154500Z
+SUMMARY:CEEGR 2210 S1 Mechanics of Materials I
+UID:2a5d862f-8f95-4074-a248-89bae4c2860f@2a5d.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241108T184500Z
+LOCATION:TBD-was Bannan Building 441
+ORGANIZER;CN=Faculty Unassigned:mailto:madeup@mail.com
+DTSTART:20241108T172000Z
+SUMMARY:CEEGR 5110 S1 Advanced Structural Analysis
+UID:2b51055b-6604-4e7a-a787-61ead8aa164c@2b51.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241001T004500Z
+LOCATION:TBD-was Lemieux Library 122
+ORGANIZER;CN=Gnanapragasam\, Nirmala:mailto:madeup@mail.com
+DTSTART:20240930T224000Z
+SUMMARY:CEEGR 4870 S1 Engineering Design I
+UID:0684f615-ad8c-4024-98d6-85b9a774c7e8@0684.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241008T223500Z
+LOCATION:TBD-was Bannan Building 629\; Bannan Building 619
+ORGANIZER;CN=Hainze\, John (2270633):mailto:madeup@mail.com
+DTSTART:20241008T203000Z
+SUMMARY:UCOR 1800 S8 Inquiry Sem in Natural Science
+UID:01a2cdac-f6df-40d8-957d-0dc90d1c3524@01a2.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241029T223500Z
+LOCATION:TBD-was Bannan Building 629\; Bannan Building 619
+ORGANIZER;CN=Hainze\, John (2270633):mailto:madeup@mail.com
+DTSTART:20241029T203000Z
+SUMMARY:UCOR 1800 S8 Inquiry Sem in Natural Science
+UID:825d4397-ee0b-47a0-a3e2-0776a64468f9@825d.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241101T161000Z
+LOCATION:TBD-was Bannan Building 441
+ORGANIZER;CN=Faculty Unassigned:mailto:madeup@mail.com
+DTSTART:20241101T144500Z
+SUMMARY:CEEGR 5210 S1 Advanced Rc Design
+UID:e46f472f-e6e8-4366-aedd-80ff6521eab9@e46f.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241017T223500Z
+LOCATION:TBD-was Bannan Building 629\; Bannan Building 619
+ORGANIZER;CN=Hainze\, John (2270633):mailto:madeup@mail.com
+DTSTART:20241017T203000Z
+SUMMARY:UCOR 1800 S7 Inquiry Sem in Natural Science
+UID:13a9c22e-be89-4afa-a96a-967144787501@13a9.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241010T005000Z
+LOCATION:TBD-was Bannan Building 353
+ORGANIZER;CN=Hainze\, John (2270633):mailto:madeup@mail.com
+DTSTART:20241009T224000Z
+SUMMARY:UCOR 3800 S5 Natural Sci & Global Challenge
+UID:b098af9b-82c9-4e10-bdc7-8a169ce56b47@b098.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241028T174500Z
+LOCATION:TBD-was Bannan Building 353
+ORGANIZER;CN=Kiymaz\, Guven (4187550):mailto:madeup@mail.com
+DTSTART:20241028T162000Z
+SUMMARY:CEEGR 4450 S1 Structural Mechanics
+UID:d573859b-c664-4f02-99e7-629c8a36a18b@d573.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241119T012000Z
+LOCATION:TBD-was Bannan Building 180
+ORGANIZER;CN=Faculty Unassigned:mailto:madeup@mail.com
+DTSTART:20241118T223000Z
+SUMMARY:CEEGR 2220 S1 Mechanics of Materials Lab I
+UID:f2818b76-9fc0-41c4-867e-393f88e32c3a@f281.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241119T202000Z
+LOCATION:TBD-was Bannan Building 379
+ORGANIZER;CN=Faculty Unassigned:mailto:madeup@mail.com
+DTSTART:20241119T181500Z
+SUMMARY:CEEGR 1050 S1 Graphics &amp\; Communication
+UID:d11cacea-2585-4c3a-a1ba-90ec9f80316e@d11c.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241204T002000Z
+LOCATION:TBD-was Bannan Building 429\; Bannan Building 613\; Bannan Building 619
+ORGANIZER;CN=Marsolek\, Michael (1075473):mailto:madeup@mail.com
+DTSTART:20241203T213000Z
+SUMMARY:ENSC 4730 S1 Prncpls of Envrmtl Engineering
+UID:b0b5dd45-8774-4863-a9e2-b0b31756124f@b0b5.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241008T192000Z
+LOCATION:TBD-was Bannan Building 371
+ORGANIZER;CN=Thompson\, Phillip (0366179):mailto:madeup@mail.com
+DTSTART:20241008T171500Z
+SUMMARY:CEEGR 3020 S1 Global Engineering Economics
+UID:4e93fff2-f5fa-45ad-a49a-58924e712a9f@4e93.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241029T232000Z
+LOCATION:TBD-was Bannan Building 429\; Bannan Building 613\; Bannan Building 619
+ORGANIZER;CN=Marsolek\, Michael (1075473):mailto:madeup@mail.com
+DTSTART:20241029T203000Z
+SUMMARY:ENSC 4730 S1 Prncpls of Envrmtl Engineering
+UID:5a9c5920-7f69-49de-8b44-678fd38ddef6@5a9c.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241031T192000Z
+LOCATION:TBD-was Bannan Building 429\; Bannan Building 613\; Bannan Building 619
+ORGANIZER;CN=Marsolek\, Michael (1075473):mailto:madeup@mail.com
+DTSTART:20241031T171500Z
+SUMMARY:ENSC 4730 S2 Prncpls of Envrmtl Engineering
+UID:7d4a691d-b84f-4df2-b528-5cec59875c89@7d4a.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241203T012000Z
+LOCATION:TBD-was Bannan Building 180
+ORGANIZER;CN=Faculty Unassigned:mailto:madeup@mail.com
+DTSTART:20241202T223000Z
+SUMMARY:CEEGR 2220 S1 Mechanics of Materials Lab I
+UID:2198bd78-5711-48fd-a0b8-b86aa99a1a89@2198.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241007T223000Z
+LOCATION:TBD
+ORGANIZER;CN=Lee\, Se-Yeun (2228074):mailto:madeup@mail.com
+DTSTART:20241007T210500Z
+SUMMARY:UCOR 3800 S6 Natural Sci & Global Challenge
+UID:495f1449-bb96-42dd-a045-d5ea11f18c2b@495f.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241203T202000Z
+LOCATION:TBD-was Bannan Building 429\; Bannan Building 613\; Bannan Building 619
+ORGANIZER;CN=Marsolek\, Michael (1075473):mailto:madeup@mail.com
+DTSTART:20241203T181500Z
+SUMMARY:ENSC 4730 S1 Prncpls of Envrmtl Engineering
+UID:39efb8de-b6ef-4e67-b58c-b49293f5261d@39ef.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241203T202000Z
+LOCATION:TBD-was Bannan Building 429\; Bannan Building 613\; Bannan Building 619
+ORGANIZER;CN=Marsolek\, Michael (1075473):mailto:madeup@mail.com
+DTSTART:20241203T181500Z
+SUMMARY:ENSC 4730 S2 Prncpls of Envrmtl Engineering
+UID:1d243b9b-a916-4cc5-b7cb-3d95f79ce9aa@1d24.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241025T205500Z
+LOCATION:TBD-was Bannan Building 629
+ORGANIZER;CN=Gnanapragasam\, Nirmala:mailto:madeup@mail.com
+DTSTART:20241025T193000Z
+SUMMARY:CEEGR 3510 S1 Engineering Geology
+UID:cb7270b7-e8cd-4a05-9e4b-4f24375e67c2@cb72.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241010T192000Z
+LOCATION:TBD-was Bannan Building 429\; Bannan Building 613\; Bannan Building 619
+ORGANIZER;CN=Marsolek\, Michael (1075473):mailto:madeup@mail.com
+DTSTART:20241010T171500Z
+SUMMARY:CEEGR 4730 S2 Principle of Environmental Eng
+UID:6d561257-a2d2-4197-bb2d-df00ece49871@6d56.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241114T012000Z
+LOCATION:TBD-was Bannan Building 191
+ORGANIZER;CN=Riazi\, Amin:mailto:madeup@mail.com
+DTSTART:20241113T223000Z
+SUMMARY:CEEGR 3370 S1 Fluids Laboratory
+UID:e09439a0-0702-419e-8b9b-f435607b90d2@e094.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241011T161000Z
+LOCATION:TBD-was Bannan Building 363
+ORGANIZER;CN=Faculty Unassigned:mailto:madeup@mail.com
+DTSTART:20241011T144500Z
+SUMMARY:CEEGR 2210 S1 Mechanics of Materials I
+UID:bbc0d39e-982d-4ec5-8a0b-5438b3db46dd@bbc0.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241009T174500Z
+LOCATION:TBD-was Bannan Building 371
+ORGANIZER;CN=Riazi\, Amin:mailto:madeup@mail.com
+DTSTART:20241009T162000Z
+SUMMARY:CEEGR 3310 S1 Fluid Mechanics
+UID:b4af2aa0-3d5e-4ffd-a1eb-d38a12e2b097@b4af.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241023T161000Z
+LOCATION:TBD-was Bannan Building 441
+ORGANIZER;CN=Faculty Unassigned:mailto:madeup@mail.com
+DTSTART:20241023T144500Z
+SUMMARY:CEEGR 5210 S1 Advanced Rc Design
+UID:ec199dfa-1e31-483a-9c04-f355ba0643d3@ec19.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241022T005000Z
+LOCATION:TBD-was Bannan Building 353
+ORGANIZER;CN=Hainze\, John (2270633):mailto:madeup@mail.com
+DTSTART:20241021T224000Z
+SUMMARY:UCOR 3800 S5 Natural Sci & Global Challenge
+UID:e65b8379-9664-48ac-be3e-19f1cc045c39@e65b.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241113T184500Z
+LOCATION:TBD-was Bannan Building 371
+ORGANIZER;CN=Riazi\, Amin:mailto:madeup@mail.com
+DTSTART:20241113T172000Z
+SUMMARY:CEEGR 3310 S1 Fluid Mechanics
+UID:a9f72afc-f9fb-4ff7-ba1b-ef6c4d14534c@a9f7.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241024T232000Z
+LOCATION:TBD-was Bannan Building 313\; Bannan Building 181
+ORGANIZER;CN=Kiymaz\, Guven (4187550):mailto:madeup@mail.com
+DTSTART:20241024T203000Z
+SUMMARY:CEEGR 2500 S1 Intro to Structural Design
+UID:a6ed972d-72bf-4868-a5e9-b40a760d5be5@a6ed.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241122T171000Z
+LOCATION:TBD-was Bannan Building 363
+ORGANIZER;CN=Faculty Unassigned:mailto:madeup@mail.com
+DTSTART:20241122T154500Z
+SUMMARY:CEEGR 2210 S1 Mechanics of Materials I
+UID:027a347b-97d0-44b0-89fc-28959819fbe7@027a.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20240927T174500Z
+LOCATION:TBD-was Bannan Building 353
+ORGANIZER;CN=Kiymaz\, Guven (4187550):mailto:madeup@mail.com
+DTSTART:20240927T162000Z
+SUMMARY:CEEGR 4450 S1 Structural Mechanics
+UID:2fcfb82f-493d-4def-8048-b772905c0917@2fcf.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241104T184500Z
+LOCATION:TBD-was Bannan Building 353
+ORGANIZER;CN=Kiymaz\, Guven (4187550):mailto:madeup@mail.com
+DTSTART:20241104T172000Z
+SUMMARY:CEEGR 4450 S1 Structural Mechanics
+UID:00e96989-e401-4d29-bb94-5f2c7b01d96f@00e9.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241121T233500Z
+LOCATION:TBD-was Bannan Building 619
+ORGANIZER;CN=Gnanapragasam\, Nirmala:mailto:madeup@mail.com
+DTSTART:20241121T213000Z
+SUMMARY:CEEGR 1000 S1 Intro to Civil & Env Eng.
+UID:2ef0cf89-4de4-4f15-918f-304ef207c5cf@2ef0.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241007T174500Z
+LOCATION:TBD-was Bannan Building 441
+ORGANIZER;CN=Faculty Unassigned:mailto:madeup@mail.com
+DTSTART:20241007T162000Z
+SUMMARY:CEEGR 5110 S1 Advanced Structural Analysis
+UID:eda48192-ed10-4c9f-8db7-ef4228db32ce@eda4.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241115T171000Z
+LOCATION:TBD-was Bannan Building 363
+ORGANIZER;CN=Faculty Unassigned:mailto:madeup@mail.com
+DTSTART:20241115T154500Z
+SUMMARY:CEEGR 2210 S1 Mechanics of Materials I
+UID:d68e0873-037b-43a6-8a9a-248ae0df1506@d68e.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241206T233000Z
+LOCATION:TBD
+ORGANIZER;CN=Lee\, Se-Yeun (2228074):mailto:madeup@mail.com
+DTSTART:20241206T220500Z
+SUMMARY:UCOR 3800 S6 Natural Sci & Global Challenge
+UID:9249b25d-7541-4b42-b390-1341f24b4fbb@9249.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241017T232000Z
+LOCATION:TBD-was Bannan Building 429\; Bannan Building 613\; Bannan Building 619
+ORGANIZER;CN=Marsolek\, Michael (1075473):mailto:madeup@mail.com
+DTSTART:20241017T203000Z
+SUMMARY:ENSC 4730 S2 Prncpls of Envrmtl Engineering
+UID:88a3c555-4743-4044-957f-2550b496f81f@88a3.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241030T174500Z
+LOCATION:TBD-was Bannan Building 441
+ORGANIZER;CN=Faculty Unassigned:mailto:madeup@mail.com
+DTSTART:20241030T162000Z
+SUMMARY:CEEGR 5110 S1 Advanced Structural Analysis
+UID:1143d295-0e60-4882-9f05-4fd98ea74eb7@1143.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241203T014500Z
+LOCATION:TBD-was Lemieux Library 122
+ORGANIZER;CN=Gnanapragasam\, Nirmala:mailto:madeup@mail.com
+DTSTART:20241202T234000Z
+SUMMARY:CEEGR 4870 S1 Engineering Design I
+UID:296c1acc-9954-414b-9ebb-04ebf38a031f@296c.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241015T004500Z
+LOCATION:TBD-was Lemieux Library 122
+ORGANIZER;CN=Lauer\, John (1038686):mailto:madeup@mail.com
+DTSTART:20241014T224000Z
+SUMMARY:ENSC 4870 S1 Senior Capstone I
+UID:5def7048-fce9-4fac-bf1a-843449d834c3@5def.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241008T192000Z
+LOCATION:TBD-was Bannan Building 429\; Bannan Building 613\; Bannan Building 619
+ORGANIZER;CN=Marsolek\, Michael (1075473):mailto:madeup@mail.com
+DTSTART:20241008T171500Z
+SUMMARY:CEEGR 4730 S1 Principle of Environmental Eng
+UID:1c07a327-b920-46dc-a357-d7253c67b73d@1c07.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241108T023500Z
+LOCATION:TBD-was Bannan Building 629\; Bannan Building 619
+ORGANIZER;CN=Hainze\, John (2270633):mailto:madeup@mail.com
+DTSTART:20241107T234500Z
+SUMMARY:UCOR 1800 S8 Inquiry Sem in Natural Science
+UID:dddced11-6949-44ee-bb77-bae115ffe155@dddc.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20240930T161000Z
+LOCATION:TBD-was Bannan Building 441
+ORGANIZER;CN=Faculty Unassigned:mailto:madeup@mail.com
+DTSTART:20240930T144500Z
+SUMMARY:CEEGR 5210 S1 Advanced Rc Design
+UID:acb849e0-03ae-4f83-9dfc-683f31548c13@acb8.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241122T184500Z
+LOCATION:TBD-was Bannan Building 353
+ORGANIZER;CN=Kiymaz\, Guven (4187550):mailto:madeup@mail.com
+DTSTART:20241122T172000Z
+SUMMARY:CEEGR 4450 S1 Structural Mechanics
+UID:cb542167-591d-4ab5-a308-e2dedb5a75a2@cb54.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241120T184500Z
+LOCATION:TBD-was Bannan Building 353
+ORGANIZER;CN=Kiymaz\, Guven (4187550):mailto:madeup@mail.com
+DTSTART:20241120T172000Z
+SUMMARY:CEEGR 4450 S1 Structural Mechanics
+UID:8261bb91-ed9d-4c5d-b44d-80ebade5e9b7@8261.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241017T223500Z
+LOCATION:TBD-was Bannan Building 629\; Bannan Building 619
+ORGANIZER;CN=Hainze\, John (2270633):mailto:madeup@mail.com
+DTSTART:20241017T203000Z
+SUMMARY:UCOR 1800 S8 Inquiry Sem in Natural Science
+UID:94ef79a6-1cfa-498c-bfff-6d95c1e4da4b@94ef.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241101T161000Z
+LOCATION:TBD-was Bannan Building 363
+ORGANIZER;CN=Faculty Unassigned:mailto:madeup@mail.com
+DTSTART:20241101T144500Z
+SUMMARY:CEEGR 2210 S1 Mechanics of Materials I
+UID:c4232e29-e816-465d-a57d-664dcbb82b1d@c423.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241024T192000Z
+LOCATION:TBD-was Bannan Building 379
+ORGANIZER;CN=Faculty Unassigned:mailto:madeup@mail.com
+DTSTART:20241024T171500Z
+SUMMARY:CEEGR 1050 S1 Graphics &amp\; Communication
+UID:02ca540d-eda5-4427-ac72-9b58723b0c87@02ca.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241018T161000Z
+LOCATION:TBD-was Bannan Building 363
+ORGANIZER;CN=Faculty Unassigned:mailto:madeup@mail.com
+DTSTART:20241018T144500Z
+SUMMARY:CEEGR 2210 S1 Mechanics of Materials I
+UID:f1843fdd-bb96-4590-821e-a7df546cc1e5@f184.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20240927T161000Z
+LOCATION:TBD-was Bannan Building 363
+ORGANIZER;CN=Faculty Unassigned:mailto:madeup@mail.com
+DTSTART:20240927T144500Z
+SUMMARY:CEEGR 2210 S1 Mechanics of Materials I
+UID:4d1631b2-f111-4903-b83c-8cb6bd031f85@4d16.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241107T202000Z
+LOCATION:TBD-was Bannan Building 429\; Bannan Building 613\; Bannan Building 619
+ORGANIZER;CN=Marsolek\, Michael (1075473):mailto:madeup@mail.com
+DTSTART:20241107T181500Z
+SUMMARY:CEEGR 4730 S1 Principle of Environmental Eng
+UID:7cf2695a-e28c-44d7-a94d-abac854a3a26@7cf2.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241016T161000Z
+LOCATION:TBD-was Bannan Building 363
+ORGANIZER;CN=Faculty Unassigned:mailto:madeup@mail.com
+DTSTART:20241016T144500Z
+SUMMARY:CEEGR 2210 S1 Mechanics of Materials I
+UID:b18ab4dc-7ff2-4ba7-921d-ea2673ebcc6f@b18a.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241030T223000Z
+LOCATION:TBD
+ORGANIZER;CN=Lee\, Se-Yeun (2228074):mailto:madeup@mail.com
+DTSTART:20241030T210500Z
+SUMMARY:UCOR 3800 S6 Natural Sci & Global Challenge
+UID:064a4a7d-637f-4db6-b67c-4d2edab8f939@064a.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20240927T192000Z
+LOCATION:TBD-was Fine Arts Building 120
+ORGANIZER;CN=Lauer\, John (1038686):mailto:madeup@mail.com
+DTSTART:20240927T175500Z
+SUMMARY:ENSC 3800 S1 Aerial Imaging & Mapping
+UID:e800e3f2-7be5-4d91-8dc2-42e38a95f1c5@e800.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20240930T174500Z
+LOCATION:TBD-was Bannan Building 441
+ORGANIZER;CN=Faculty Unassigned:mailto:madeup@mail.com
+DTSTART:20240930T162000Z
+SUMMARY:CEEGR 5110 S1 Advanced Structural Analysis
+UID:91b5bca3-4cbb-477b-a982-7a1ba8060772@91b5.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241003T005000Z
+LOCATION:TBD-was Bannan Building 353
+ORGANIZER;CN=Hainze\, John (2270633):mailto:madeup@mail.com
+DTSTART:20241002T224000Z
+SUMMARY:UCOR 3800 S5 Natural Sci & Global Challenge
+UID:e8119362-4c01-45dc-87c3-91d8d6713493@e811.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241004T161000Z
+LOCATION:TBD-was Bannan Building 363
+ORGANIZER;CN=Faculty Unassigned:mailto:madeup@mail.com
+DTSTART:20241004T144500Z
+SUMMARY:CEEGR 2210 S1 Mechanics of Materials I
+UID:d7c1bbe3-771c-473f-92cd-aff89195d63a@d7c1.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241112T202000Z
+LOCATION:TBD-was Bannan Building 429\; Bannan Building 613\; Bannan Building 619
+ORGANIZER;CN=Marsolek\, Michael (1075473):mailto:madeup@mail.com
+DTSTART:20241112T181500Z
+SUMMARY:ENSC 4730 S2 Prncpls of Envrmtl Engineering
+UID:e59772b1-5d79-475d-b9f6-f6dd36e5c379@e597.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241115T215500Z
+LOCATION:TBD-was Bannan Building 629
+ORGANIZER;CN=Gnanapragasam\, Nirmala:mailto:madeup@mail.com
+DTSTART:20241115T203000Z
+SUMMARY:CEEGR 3510 S1 Engineering Geology
+UID:ce0021a4-2e63-4412-b950-cc5b95e1c131@ce00.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241107T202000Z
+LOCATION:TBD-was Bannan Building 429\; Bannan Building 613\; Bannan Building 619
+ORGANIZER;CN=Marsolek\, Michael (1075473):mailto:madeup@mail.com
+DTSTART:20241107T181500Z
+SUMMARY:ENSC 4730 S1 Prncpls of Envrmtl Engineering
+UID:f7bd5416-6bb7-438b-b69b-cd1c7626b516@f7bd.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241031T192000Z
+LOCATION:TBD-was Bannan Building 429\; Bannan Building 613\; Bannan Building 619
+ORGANIZER;CN=Marsolek\, Michael (1075473):mailto:madeup@mail.com
+DTSTART:20241031T171500Z
+SUMMARY:CEEGR 4730 S1 Principle of Environmental Eng
+UID:9fd011e4-4ebc-40b5-9898-9f9b46f1a806@9fd0.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241204T215500Z
+LOCATION:TBD-was Bannan Building 629
+ORGANIZER;CN=Gnanapragasam\, Nirmala:mailto:madeup@mail.com
+DTSTART:20241204T203000Z
+SUMMARY:CEEGR 3510 S1 Engineering Geology
+UID:fbf5a4d8-100d-48d7-b18e-e4077e29e397@fbf5.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241202T184500Z
+LOCATION:TBD-was Bannan Building 353
+ORGANIZER;CN=Kiymaz\, Guven (4187550):mailto:madeup@mail.com
+DTSTART:20241202T172000Z
+SUMMARY:CEEGR 4450 S1 Structural Mechanics
+UID:9ec9ee91-b890-4223-b7bd-59806e775b41@9ec9.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241204T002000Z
+LOCATION:TBD-was Bannan Building 429\; Bannan Building 613\; Bannan Building 619
+ORGANIZER;CN=Marsolek\, Michael (1075473):mailto:madeup@mail.com
+DTSTART:20241203T213000Z
+SUMMARY:CEEGR 4730 S1 Principle of Environmental Eng
+UID:55ce3e18-48ef-4224-ae23-db87d7d7afa7@55ce.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241119T180500Z
+LOCATION:TBD-was Bannan Building 619
+ORGANIZER;CN=Gualtieri\, Lyn (0834249):mailto:madeup@mail.com
+DTSTART:20241119T160000Z
+SUMMARY:ENSC 1000 S1 Intro to Environmental Science
+UID:3d2ccbc9-deb8-46cc-93e4-2ee75bd25a40@3d2c.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241125T202000Z
+LOCATION:TBD-was Fine Arts Building 120
+ORGANIZER;CN=Lauer\, John (1038686):mailto:madeup@mail.com
+DTSTART:20241125T185500Z
+SUMMARY:ENSC 3800 S1 Aerial Imaging & Mapping
+UID:725f4db2-cdde-41de-acf5-9c02c0244a22@725f.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241028T161000Z
+LOCATION:TBD-was Bannan Building 441
+ORGANIZER;CN=Faculty Unassigned:mailto:madeup@mail.com
+DTSTART:20241028T144500Z
+SUMMARY:CEEGR 5210 S1 Advanced Rc Design
+UID:3f7329f7-b95b-4501-a263-49c120d35427@3f73.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241007T192000Z
+LOCATION:TBD-was Bannan Building 313\; Bannan Building 181
+ORGANIZER;CN=Kiymaz\, Guven (4187550):mailto:madeup@mail.com
+DTSTART:20241007T175500Z
+SUMMARY:CEEGR 2500 S1 Intro to Structural Design
+UID:b49dca9c-d12d-47d2-a24a-f31e693a59a4@b49d.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241003T192000Z
+LOCATION:TBD-was Bannan Building 429\; Bannan Building 613\; Bannan Building 619
+ORGANIZER;CN=Marsolek\, Michael (1075473):mailto:madeup@mail.com
+DTSTART:20241003T171500Z
+SUMMARY:ENSC 4730 S2 Prncpls of Envrmtl Engineering
+UID:af1dd50f-d9a2-42ca-871f-5a53d79a258d@af1d.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20240930T192000Z
+LOCATION:TBD-was Fine Arts Building 120
+ORGANIZER;CN=Lauer\, John (1038686):mailto:madeup@mail.com
+DTSTART:20240930T175500Z
+SUMMARY:ENSC 3800 S1 Aerial Imaging & Mapping
+UID:b9bfc842-98e0-45a8-8f40-e75e2a3556fe@b9bf.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241104T233000Z
+LOCATION:TBD
+ORGANIZER;CN=Lee\, Se-Yeun (2228074):mailto:madeup@mail.com
+DTSTART:20241104T220500Z
+SUMMARY:UCOR 3800 S6 Natural Sci & Global Challenge
+UID:38a67f4f-2156-4513-a642-4a31d3dd2792@38a6.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241205T202000Z
+LOCATION:TBD-was Bannan Building 429\; Bannan Building 613\; Bannan Building 619
+ORGANIZER;CN=Marsolek\, Michael (1075473):mailto:madeup@mail.com
+DTSTART:20241205T181500Z
+SUMMARY:CEEGR 4730 S2 Principle of Environmental Eng
+UID:1fee9ce3-f466-4ddc-b52e-11ecabeeb316@1fee.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241017T002000Z
+LOCATION:TBD-was Bannan Building 191
+ORGANIZER;CN=Riazi\, Amin:mailto:madeup@mail.com
+DTSTART:20241016T213000Z
+SUMMARY:CEEGR 3370 S1 Fluids Laboratory
+UID:7c4cc97c-8d53-4bd3-acd6-ff9b8f68a6a5@7c4c.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241122T184500Z
+LOCATION:TBD-was Bannan Building 441
+ORGANIZER;CN=Faculty Unassigned:mailto:madeup@mail.com
+DTSTART:20241122T172000Z
+SUMMARY:CEEGR 5110 S1 Advanced Structural Analysis
+UID:e4b757b2-2902-4946-a4e9-6425eab311d1@e4b7.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241202T184500Z
+LOCATION:TBD-was Bannan Building 441
+ORGANIZER;CN=Faculty Unassigned:mailto:madeup@mail.com
+DTSTART:20241202T172000Z
+SUMMARY:CEEGR 5110 S1 Advanced Structural Analysis
+UID:42b823a9-f219-4f7a-9b86-010edf6e36c7@42b8.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241001T170500Z
+LOCATION:TBD-was Bannan Building 619
+ORGANIZER;CN=Gualtieri\, Lyn (0834249):mailto:madeup@mail.com
+DTSTART:20241001T150000Z
+SUMMARY:ENSC 1000 S1 Intro to Environmental Science
+UID:57d1b322-5da6-4ebf-82b2-df1118f7e473@57d1.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241028T223000Z
+LOCATION:TBD
+ORGANIZER;CN=Lee\, Se-Yeun (2228074):mailto:madeup@mail.com
+DTSTART:20241028T210500Z
+SUMMARY:UCOR 3800 S6 Natural Sci & Global Challenge
+UID:d1fb756c-40ec-415d-ae78-0cfe0a94b378@d1fb.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241022T192000Z
+LOCATION:TBD-was Bannan Building 371
+ORGANIZER;CN=Thompson\, Phillip (0366179):mailto:madeup@mail.com
+DTSTART:20241022T171500Z
+SUMMARY:CEEGR 3020 S1 Global Engineering Economics
+UID:33fdad67-a9d8-45f9-836a-f88e07400f2d@33fd.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241004T013500Z
+LOCATION:TBD-was Bannan Building 629\; Bannan Building 619
+ORGANIZER;CN=Hainze\, John (2270633):mailto:madeup@mail.com
+DTSTART:20241003T224500Z
+SUMMARY:UCOR 1800 S8 Inquiry Sem in Natural Science
+UID:ccd986e8-d682-4888-b389-cb5758627e64@ccd9.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241008T005000Z
+LOCATION:TBD-was Bannan Building 353
+ORGANIZER;CN=Hainze\, John (2270633):mailto:madeup@mail.com
+DTSTART:20241007T224000Z
+SUMMARY:UCOR 3800 S5 Natural Sci & Global Challenge
+UID:e0e24e36-6f58-4731-aab1-57cca2ddd03b@e0e2.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241105T012000Z
+LOCATION:TBD-was Bannan Building 180
+ORGANIZER;CN=Faculty Unassigned:mailto:madeup@mail.com
+DTSTART:20241104T223000Z
+SUMMARY:CEEGR 2220 S1 Mechanics of Materials Lab I
+UID:7cd5c087-61c1-451a-abc2-3d12f30e81c8@7cd5.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241105T202000Z
+LOCATION:TBD-was Bannan Building 429\; Bannan Building 613\; Bannan Building 619
+ORGANIZER;CN=Marsolek\, Michael (1075473):mailto:madeup@mail.com
+DTSTART:20241105T181500Z
+SUMMARY:CEEGR 4730 S1 Principle of Environmental Eng
+UID:d0a259c5-642d-4a15-a3c9-bf4d337d1bb6@d0a2.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241009T192000Z
+LOCATION:TBD-was Bannan Building 313\; Bannan Building 181
+ORGANIZER;CN=Kiymaz\, Guven (4187550):mailto:madeup@mail.com
+DTSTART:20241009T175500Z
+SUMMARY:CEEGR 2500 S1 Intro to Structural Design
+UID:e800c23c-59c1-4a0e-8cd8-cae2e4d8ec35@e800.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241114T202000Z
+LOCATION:TBD-was Bannan Building 429\; Bannan Building 613\; Bannan Building 619
+ORGANIZER;CN=Marsolek\, Michael (1075473):mailto:madeup@mail.com
+DTSTART:20241114T181500Z
+SUMMARY:CEEGR 4730 S2 Principle of Environmental Eng
+UID:03c84b91-afa6-44ff-ab14-0f2922c47aca@03c8.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241107T233500Z
+LOCATION:TBD-was Bannan Building 629\; Bannan Building 619
+ORGANIZER;CN=Hainze\, John (2270633):mailto:madeup@mail.com
+DTSTART:20241107T213000Z
+SUMMARY:UCOR 1800 S7 Inquiry Sem in Natural Science
+UID:f9287541-9c7d-48e0-ac78-e19cf13a7c6f@f928.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241010T004500Z
+LOCATION:TBD-was Lemieux Library 122
+ORGANIZER;CN=Gnanapragasam\, Nirmala:mailto:madeup@mail.com
+DTSTART:20241009T224000Z
+SUMMARY:CEEGR 4870 S1 Engineering Design I
+UID:c2252e52-c570-4c47-91d3-babca35fcf20@c225.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241125T184500Z
+LOCATION:TBD-was Bannan Building 353
+ORGANIZER;CN=Kiymaz\, Guven (4187550):mailto:madeup@mail.com
+DTSTART:20241125T172000Z
+SUMMARY:CEEGR 4450 S1 Structural Mechanics
+UID:45361333-d2f7-45fd-8cce-97ac6776b2c2@4536.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241023T174500Z
+LOCATION:TBD-was Bannan Building 353
+ORGANIZER;CN=Kiymaz\, Guven (4187550):mailto:madeup@mail.com
+DTSTART:20241023T162000Z
+SUMMARY:CEEGR 4450 S1 Structural Mechanics
+UID:8997c73d-447b-454a-b99c-e9f92783be28@8997.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241125T233000Z
+LOCATION:TBD
+ORGANIZER;CN=Lee\, Se-Yeun (2228074):mailto:madeup@mail.com
+DTSTART:20241125T220500Z
+SUMMARY:UCOR 3800 S6 Natural Sci & Global Challenge
+UID:da9ba8f9-59ec-4bd5-873c-cec54af4e479@da9b.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241002T192000Z
+LOCATION:TBD-was Bannan Building 313\; Bannan Building 181
+ORGANIZER;CN=Kiymaz\, Guven (4187550):mailto:madeup@mail.com
+DTSTART:20241002T175500Z
+SUMMARY:CEEGR 2500 S1 Intro to Structural Design
+UID:743b9208-c010-4b27-8e34-79def0bdda7d@743b.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241118T184500Z
+LOCATION:TBD-was Bannan Building 441
+ORGANIZER;CN=Faculty Unassigned:mailto:madeup@mail.com
+DTSTART:20241118T172000Z
+SUMMARY:CEEGR 5110 S1 Advanced Structural Analysis
+UID:786edc9a-b25b-472c-b6a3-36102707f59f@786e.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241004T161000Z
+LOCATION:TBD-was Bannan Building 441
+ORGANIZER;CN=Faculty Unassigned:mailto:madeup@mail.com
+DTSTART:20241004T144500Z
+SUMMARY:CEEGR 5210 S1 Advanced Rc Design
+UID:f4cb52bd-a2f4-42dc-93d8-ac567bb28b1f@f4cb.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241203T233500Z
+LOCATION:TBD-was Bannan Building 629\; Bannan Building 619
+ORGANIZER;CN=Hainze\, John (2270633):mailto:madeup@mail.com
+DTSTART:20241203T213000Z
+SUMMARY:UCOR 1800 S7 Inquiry Sem in Natural Science
+UID:1684023c-4763-4d6c-bc2b-8e2e57bdf5ad@1684.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241010T192000Z
+LOCATION:TBD-was Bannan Building 429\; Bannan Building 613\; Bannan Building 619
+ORGANIZER;CN=Marsolek\, Michael (1075473):mailto:madeup@mail.com
+DTSTART:20241010T171500Z
+SUMMARY:ENSC 4730 S2 Prncpls of Envrmtl Engineering
+UID:57f26073-f77a-46d8-ad77-4f119e227a21@57f2.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241105T202000Z
+LOCATION:TBD-was Bannan Building 379
+ORGANIZER;CN=Faculty Unassigned:mailto:madeup@mail.com
+DTSTART:20241105T181500Z
+SUMMARY:CEEGR 1050 S1 Graphics &amp\; Communication
+UID:ef92a83c-cafb-4546-9afd-8457700c78bf@ef92.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241023T223000Z
+LOCATION:TBD
+ORGANIZER;CN=Lee\, Se-Yeun (2228074):mailto:madeup@mail.com
+DTSTART:20241023T210500Z
+SUMMARY:UCOR 3800 S6 Natural Sci & Global Challenge
+UID:a42de525-5811-4205-87fa-c667b96ba7b9@a42d.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241015T232000Z
+LOCATION:TBD-was Bannan Building 429\; Bannan Building 613\; Bannan Building 619
+ORGANIZER;CN=Marsolek\, Michael (1075473):mailto:madeup@mail.com
+DTSTART:20241015T203000Z
+SUMMARY:ENSC 4730 S1 Prncpls of Envrmtl Engineering
+UID:20b49537-8317-4d6b-b9ee-cf346e8e2512@20b4.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241113T184500Z
+LOCATION:TBD-was Bannan Building 353
+ORGANIZER;CN=Kiymaz\, Guven (4187550):mailto:madeup@mail.com
+DTSTART:20241113T172000Z
+SUMMARY:CEEGR 4450 S1 Structural Mechanics
+UID:6e3c21b3-7a04-4434-b36c-396ea0921a46@6e3c.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241204T171000Z
+LOCATION:TBD-was Bannan Building 363
+ORGANIZER;CN=Faculty Unassigned:mailto:madeup@mail.com
+DTSTART:20241204T154500Z
+SUMMARY:CEEGR 2210 S1 Mechanics of Materials I
+UID:a9f9fd9e-299e-4126-a033-3e9fd0ebe605@a9f9.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241017T192000Z
+LOCATION:TBD-was Bannan Building 429\; Bannan Building 613\; Bannan Building 619
+ORGANIZER;CN=Marsolek\, Michael (1075473):mailto:madeup@mail.com
+DTSTART:20241017T171500Z
+SUMMARY:CEEGR 4730 S1 Principle of Environmental Eng
+UID:9fa9fd0b-61af-492e-9eb4-19a8983ca3d2@9fa9.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241030T192000Z
+LOCATION:TBD-was Fine Arts Building 120
+ORGANIZER;CN=Lauer\, John (1038686):mailto:madeup@mail.com
+DTSTART:20241030T175500Z
+SUMMARY:ENSC 3800 S1 Aerial Imaging & Mapping
+UID:6befe44d-ccfb-4b55-9dc1-86aa98254637@6bef.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241120T171000Z
+LOCATION:TBD-was Bannan Building 441
+ORGANIZER;CN=Faculty Unassigned:mailto:madeup@mail.com
+DTSTART:20241120T154500Z
+SUMMARY:CEEGR 5210 S1 Advanced Rc Design
+UID:262a2d90-9337-49ef-848f-567771e120a2@262a.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241114T202000Z
+LOCATION:TBD-was Bannan Building 429\; Bannan Building 613\; Bannan Building 619
+ORGANIZER;CN=Marsolek\, Michael (1075473):mailto:madeup@mail.com
+DTSTART:20241114T181500Z
+SUMMARY:ENSC 4730 S1 Prncpls of Envrmtl Engineering
+UID:f48cf793-101f-4f71-891c-ecd5cee699ac@f48c.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20240926T004500Z
+LOCATION:TBD-was Lemieux Library 122
+ORGANIZER;CN=Lauer\, John (1038686):mailto:madeup@mail.com
+DTSTART:20240925T224000Z
+SUMMARY:ENSC 4870 S1 Senior Capstone I
+UID:bd5936d8-f7ef-4398-a2fc-96220d575483@bd59.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241030T192000Z
+LOCATION:TBD-was Bannan Building 313\; Bannan Building 181
+ORGANIZER;CN=Kiymaz\, Guven (4187550):mailto:madeup@mail.com
+DTSTART:20241030T175500Z
+SUMMARY:CEEGR 2500 S1 Intro to Structural Design
+UID:ef819146-d8ed-46fc-b409-dc702fb478c8@ef81.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241113T184500Z
+LOCATION:TBD-was Bannan Building 441
+ORGANIZER;CN=Faculty Unassigned:mailto:madeup@mail.com
+DTSTART:20241113T172000Z
+SUMMARY:CEEGR 5110 S1 Advanced Structural Analysis
+UID:0e7232b9-ee1a-435d-ac7f-b9d1140ce228@0e72.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20240926T192000Z
+LOCATION:TBD-was Bannan Building 429\; Bannan Building 613\; Bannan Building 619
+ORGANIZER;CN=Marsolek\, Michael (1075473):mailto:madeup@mail.com
+DTSTART:20240926T171500Z
+SUMMARY:CEEGR 4730 S2 Principle of Environmental Eng
+UID:3b477a7c-e785-4aae-9e29-f91961c3bb71@3b47.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241126T202000Z
+LOCATION:TBD-was Bannan Building 429\; Bannan Building 613\; Bannan Building 619
+ORGANIZER;CN=Marsolek\, Michael (1075473):mailto:madeup@mail.com
+DTSTART:20241126T181500Z
+SUMMARY:ENSC 4730 S2 Prncpls of Envrmtl Engineering
+UID:97dceaa6-ad3a-4af6-9e7e-9b0a56f6748e@97dc.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241021T192000Z
+LOCATION:TBD-was Fine Arts Building 120
+ORGANIZER;CN=Lauer\, John (1038686):mailto:madeup@mail.com
+DTSTART:20241021T175500Z
+SUMMARY:ENSC 3800 S1 Aerial Imaging & Mapping
+UID:151da021-f995-43cd-bfa5-19ee9c0856d5@151d.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241008T192000Z
+LOCATION:TBD-was Bannan Building 429\; Bannan Building 613\; Bannan Building 619
+ORGANIZER;CN=Marsolek\, Michael (1075473):mailto:madeup@mail.com
+DTSTART:20241008T171500Z
+SUMMARY:ENSC 4730 S1 Prncpls of Envrmtl Engineering
+UID:e19ebf57-afa9-4d29-a90e-5951bfc7799f@e19e.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241011T174500Z
+LOCATION:TBD-was Bannan Building 371
+ORGANIZER;CN=Riazi\, Amin:mailto:madeup@mail.com
+DTSTART:20241011T162000Z
+SUMMARY:CEEGR 3310 S1 Fluid Mechanics
+UID:fdc4157e-0bfd-48df-8f92-319573522d7d@fdc4.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241030T161000Z
+LOCATION:TBD-was Bannan Building 441
+ORGANIZER;CN=Faculty Unassigned:mailto:madeup@mail.com
+DTSTART:20241030T144500Z
+SUMMARY:CEEGR 5210 S1 Advanced Rc Design
+UID:c1c9c066-2b0c-4c22-a81c-dfec2260cc1b@c1c9.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20240927T013500Z
+LOCATION:TBD-was Bannan Building 629\; Bannan Building 619
+ORGANIZER;CN=Hainze\, John (2270633):mailto:madeup@mail.com
+DTSTART:20240926T224500Z
+SUMMARY:UCOR 1800 S8 Inquiry Sem in Natural Science
+UID:b24eefef-6175-4a49-b0e7-bcc457816b68@b24e.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241002T174500Z
+LOCATION:TBD-was Bannan Building 371
+ORGANIZER;CN=Riazi\, Amin:mailto:madeup@mail.com
+DTSTART:20241002T162000Z
+SUMMARY:CEEGR 3310 S1 Fluid Mechanics
+UID:4d7ebc8c-977f-4000-8c3a-94c4b0eb9a1f@4d7e.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241121T233500Z
+LOCATION:TBD-was Bannan Building 629\; Bannan Building 619
+ORGANIZER;CN=Hainze\, John (2270633):mailto:madeup@mail.com
+DTSTART:20241121T213000Z
+SUMMARY:UCOR 1800 S7 Inquiry Sem in Natural Science
+UID:15f1d42a-f6b6-4b6d-a736-37a991c11ebd@15f1.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241017T192000Z
+LOCATION:TBD-was Bannan Building 371
+ORGANIZER;CN=Thompson\, Phillip (0366179):mailto:madeup@mail.com
+DTSTART:20241017T171500Z
+SUMMARY:CEEGR 3020 S1 Global Engineering Economics
+UID:2a4c5796-3aae-46e0-ba32-46fe477e45d6@2a4c.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241104T202000Z
+LOCATION:TBD-was Bannan Building 313\; Bannan Building 181
+ORGANIZER;CN=Kiymaz\, Guven (4187550):mailto:madeup@mail.com
+DTSTART:20241104T185500Z
+SUMMARY:CEEGR 2500 S1 Intro to Structural Design
+UID:f5994c0e-fad7-4c8b-aef0-8e02f6ffe8ad@f599.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241014T174500Z
+LOCATION:TBD-was Bannan Building 371
+ORGANIZER;CN=Riazi\, Amin:mailto:madeup@mail.com
+DTSTART:20241014T162000Z
+SUMMARY:CEEGR 3310 S1 Fluid Mechanics
+UID:c32b188c-4f4e-46f7-b37f-440a9ab43226@c32b.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241021T223000Z
+LOCATION:TBD
+ORGANIZER;CN=Lee\, Se-Yeun (2228074):mailto:madeup@mail.com
+DTSTART:20241021T210500Z
+SUMMARY:UCOR 3800 S6 Natural Sci & Global Challenge
+UID:d784fd92-372d-4afa-bdf7-7969acf83369@d784.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241113T023500Z
+LOCATION:TBD-was Bannan Building 629\; Bannan Building 619
+ORGANIZER;CN=Hainze\, John (2270633):mailto:madeup@mail.com
+DTSTART:20241112T234500Z
+SUMMARY:UCOR 1800 S7 Inquiry Sem in Natural Science
+UID:07ef3682-cca0-4540-bf90-e057f4b3d45c@07ef.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241108T184500Z
+LOCATION:TBD-was Bannan Building 353
+ORGANIZER;CN=Kiymaz\, Guven (4187550):mailto:madeup@mail.com
+DTSTART:20241108T172000Z
+SUMMARY:CEEGR 4450 S1 Structural Mechanics
+UID:73412d6f-db14-477f-bcb1-0b518286004e@7341.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241108T202000Z
+LOCATION:TBD-was Bannan Building 313\; Bannan Building 181
+ORGANIZER;CN=Kiymaz\, Guven (4187550):mailto:madeup@mail.com
+DTSTART:20241108T185500Z
+SUMMARY:CEEGR 2500 S1 Intro to Structural Design
+UID:2b411f52-63f6-4a95-bbcf-b55e2850311c@2b41.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241029T223500Z
+LOCATION:TBD-was Bannan Building 629\; Bannan Building 619
+ORGANIZER;CN=Hainze\, John (2270633):mailto:madeup@mail.com
+DTSTART:20241029T203000Z
+SUMMARY:UCOR 1800 S7 Inquiry Sem in Natural Science
+UID:79cc9a8c-12d4-4a28-864b-a90c849f3ada@79cc.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241108T202000Z
+LOCATION:TBD-was Fine Arts Building 120
+ORGANIZER;CN=Lauer\, John (1038686):mailto:madeup@mail.com
+DTSTART:20241108T185500Z
+SUMMARY:ENSC 3800 S1 Aerial Imaging & Mapping
+UID:93d64f51-565d-46ee-b1e6-f13e4fafe4ad@93d6.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241016T205500Z
+LOCATION:TBD-was Bannan Building 629
+ORGANIZER;CN=Gnanapragasam\, Nirmala:mailto:madeup@mail.com
+DTSTART:20241016T193000Z
+SUMMARY:CEEGR 3510 S1 Engineering Geology
+UID:0775e605-e770-4a4a-b3e5-dfa06a3fce38@0775.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241122T202000Z
+LOCATION:TBD-was Fine Arts Building 120
+ORGANIZER;CN=Lauer\, John (1038686):mailto:madeup@mail.com
+DTSTART:20241122T185500Z
+SUMMARY:ENSC 3800 S1 Aerial Imaging & Mapping
+UID:d4b30804-5552-4da4-8ac7-3df3a4a44d10@d4b3.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241021T174500Z
+LOCATION:TBD-was Bannan Building 441
+ORGANIZER;CN=Faculty Unassigned:mailto:madeup@mail.com
+DTSTART:20241021T162000Z
+SUMMARY:CEEGR 5110 S1 Advanced Structural Analysis
+UID:18002f3a-60bd-4065-a2df-c390c8d761eb@1800.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241010T192000Z
+LOCATION:TBD-was Bannan Building 371
+ORGANIZER;CN=Thompson\, Phillip (0366179):mailto:madeup@mail.com
+DTSTART:20241010T171500Z
+SUMMARY:CEEGR 3020 S1 Global Engineering Economics
+UID:b4fc896e-e0bf-49b9-8bd4-a6beab02aabb@b4fc.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20240926T223500Z
+LOCATION:TBD-was Bannan Building 629\; Bannan Building 619
+ORGANIZER;CN=Hainze\, John (2270633):mailto:madeup@mail.com
+DTSTART:20240926T203000Z
+SUMMARY:UCOR 1800 S8 Inquiry Sem in Natural Science
+UID:450f5f79-02e1-48db-8107-1d2d374c0125@450f.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241125T215500Z
+LOCATION:TBD-was Bannan Building 629
+ORGANIZER;CN=Gnanapragasam\, Nirmala:mailto:madeup@mail.com
+DTSTART:20241125T203000Z
+SUMMARY:CEEGR 3510 S1 Engineering Geology
+UID:99e1cbef-7786-459d-8ccd-2274b1c339f9@99e1.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241107T202000Z
+LOCATION:TBD-was Bannan Building 429\; Bannan Building 613\; Bannan Building 619
+ORGANIZER;CN=Marsolek\, Michael (1075473):mailto:madeup@mail.com
+DTSTART:20241107T181500Z
+SUMMARY:ENSC 4730 S2 Prncpls of Envrmtl Engineering
+UID:ccb68fc0-4f89-466d-93a7-985701d28634@ccb6.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241028T192000Z
+LOCATION:TBD-was Fine Arts Building 120
+ORGANIZER;CN=Lauer\, John (1038686):mailto:madeup@mail.com
+DTSTART:20241028T175500Z
+SUMMARY:ENSC 3800 S1 Aerial Imaging & Mapping
+UID:e0a53e82-4c69-448c-81f4-0f2ce3600928@e0a5.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241108T233000Z
+LOCATION:TBD
+ORGANIZER;CN=Lee\, Se-Yeun (2228074):mailto:madeup@mail.com
+DTSTART:20241108T220500Z
+SUMMARY:UCOR 3800 S6 Natural Sci & Global Challenge
+UID:fda0a6ef-d9c4-4774-876a-05801fca3194@fda0.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241014T192000Z
+LOCATION:TBD-was Fine Arts Building 120
+ORGANIZER;CN=Lauer\, John (1038686):mailto:madeup@mail.com
+DTSTART:20241014T175500Z
+SUMMARY:ENSC 3800 S1 Aerial Imaging & Mapping
+UID:07c95c7b-fa10-459f-a7c6-8e3f099e378c@07c9.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241001T223500Z
+LOCATION:TBD-was Bannan Building 629\; Bannan Building 619
+ORGANIZER;CN=Hainze\, John (2270633):mailto:madeup@mail.com
+DTSTART:20241001T203000Z
+SUMMARY:UCOR 1800 S7 Inquiry Sem in Natural Science
+UID:da7bc00b-404a-4df4-af08-d0af411d8d26@da7b.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241011T223000Z
+LOCATION:TBD
+ORGANIZER;CN=Lee\, Se-Yeun (2228074):mailto:madeup@mail.com
+DTSTART:20241011T210500Z
+SUMMARY:UCOR 3800 S6 Natural Sci & Global Challenge
+UID:5c401be1-4e9d-4a2b-a0bc-db5353fed300@5c40.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241121T014500Z
+LOCATION:TBD-was Lemieux Library 122
+ORGANIZER;CN=Lauer\, John (1038686):mailto:madeup@mail.com
+DTSTART:20241120T234000Z
+SUMMARY:ENSC 4870 S1 Senior Capstone I
+UID:1112e6ea-9f16-4ae0-a86f-b035bacb061a@1112.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20240927T161000Z
+LOCATION:TBD-was Bannan Building 441
+ORGANIZER;CN=Faculty Unassigned:mailto:madeup@mail.com
+DTSTART:20240927T144500Z
+SUMMARY:CEEGR 5210 S1 Advanced Rc Design
+UID:a4ec6253-6517-4446-983f-3dea1ede6435@a4ec.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241008T232000Z
+LOCATION:TBD-was Bannan Building 429\; Bannan Building 613\; Bannan Building 619
+ORGANIZER;CN=Marsolek\, Michael (1075473):mailto:madeup@mail.com
+DTSTART:20241008T203000Z
+SUMMARY:ENSC 4730 S1 Prncpls of Envrmtl Engineering
+UID:a6cee474-eb6c-4628-a91f-65b5f79994b5@a6ce.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241022T192000Z
+LOCATION:TBD-was Bannan Building 429\; Bannan Building 613\; Bannan Building 619
+ORGANIZER;CN=Marsolek\, Michael (1075473):mailto:madeup@mail.com
+DTSTART:20241022T171500Z
+SUMMARY:CEEGR 4730 S2 Principle of Environmental Eng
+UID:811f51f1-fbb9-4ba1-baa0-9963ef97efa0@811f.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241205T233500Z
+LOCATION:TBD-was Bannan Building 629\; Bannan Building 619
+ORGANIZER;CN=Hainze\, John (2270633):mailto:madeup@mail.com
+DTSTART:20241205T213000Z
+SUMMARY:UCOR 1800 S8 Inquiry Sem in Natural Science
+UID:cfe4e0e7-02c0-4144-8d38-9019ac8b70eb@cfe4.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241205T014500Z
+LOCATION:TBD-was Lemieux Library 122
+ORGANIZER;CN=Gnanapragasam\, Nirmala:mailto:madeup@mail.com
+DTSTART:20241204T234000Z
+SUMMARY:CEEGR 4870 S1 Engineering Design I
+UID:c26044df-49f8-43e3-8203-892bab6590d4@c260.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241024T192000Z
+LOCATION:TBD-was Bannan Building 429\; Bannan Building 613\; Bannan Building 619
+ORGANIZER;CN=Marsolek\, Michael (1075473):mailto:madeup@mail.com
+DTSTART:20241024T171500Z
+SUMMARY:ENSC 4730 S1 Prncpls of Envrmtl Engineering
+UID:33e33ab9-3a9c-4162-b086-635c08889615@33e3.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241105T014500Z
+LOCATION:TBD-was Lemieux Library 122
+ORGANIZER;CN=Gnanapragasam\, Nirmala:mailto:madeup@mail.com
+DTSTART:20241104T234000Z
+SUMMARY:CEEGR 4870 S1 Engineering Design I
+UID:03c77bc9-c0de-49de-a998-54cbdd9bd543@03c7.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20240927T174500Z
+LOCATION:TBD-was Bannan Building 441
+ORGANIZER;CN=Faculty Unassigned:mailto:madeup@mail.com
+DTSTART:20240927T162000Z
+SUMMARY:CEEGR 5110 S1 Advanced Structural Analysis
+UID:c7a7eb7d-8cfd-4226-8898-81a0aa3a486b@c7a7.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241030T205500Z
+LOCATION:TBD-was Bannan Building 629
+ORGANIZER;CN=Gnanapragasam\, Nirmala:mailto:madeup@mail.com
+DTSTART:20241030T193000Z
+SUMMARY:CEEGR 3510 S1 Engineering Geology
+UID:03226bfd-d480-4b5e-b6b7-45f197e75f83@0322.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241120T233000Z
+LOCATION:TBD
+ORGANIZER;CN=Lee\, Se-Yeun (2228074):mailto:madeup@mail.com
+DTSTART:20241120T220500Z
+SUMMARY:UCOR 3800 S6 Natural Sci & Global Challenge
+UID:d8a2c45a-cb4f-4d9e-a696-4a3bc6197401@d8a2.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241114T233500Z
+LOCATION:TBD-was Bannan Building 629\; Bannan Building 619
+ORGANIZER;CN=Hainze\, John (2270633):mailto:madeup@mail.com
+DTSTART:20241114T213000Z
+SUMMARY:UCOR 1800 S7 Inquiry Sem in Natural Science
+UID:68ce0e3b-036a-4d48-8f37-5cbab2dda6dc@68ce.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241024T232000Z
+LOCATION:TBD-was Bannan Building 429\; Bannan Building 613\; Bannan Building 619
+ORGANIZER;CN=Marsolek\, Michael (1075473):mailto:madeup@mail.com
+DTSTART:20241024T203000Z
+SUMMARY:CEEGR 4730 S2 Principle of Environmental Eng
+UID:0008227c-a64b-417f-af10-eaaae214474e@0008.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241206T023500Z
+LOCATION:TBD-was Bannan Building 629\; Bannan Building 619
+ORGANIZER;CN=Hainze\, John (2270633):mailto:madeup@mail.com
+DTSTART:20241205T234500Z
+SUMMARY:UCOR 1800 S8 Inquiry Sem in Natural Science
+UID:becac61a-459d-4abf-9fa9-41053038ba86@beca.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241010T192000Z
+LOCATION:TBD-was Bannan Building 429\; Bannan Building 613\; Bannan Building 619
+ORGANIZER;CN=Marsolek\, Michael (1075473):mailto:madeup@mail.com
+DTSTART:20241010T171500Z
+SUMMARY:ENSC 4730 S1 Prncpls of Envrmtl Engineering
+UID:41fa59c0-94a9-432a-9218-6baebc139462@41fa.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241021T161000Z
+LOCATION:TBD-was Bannan Building 441
+ORGANIZER;CN=Faculty Unassigned:mailto:madeup@mail.com
+DTSTART:20241021T144500Z
+SUMMARY:CEEGR 5210 S1 Advanced Rc Design
+UID:52d1e587-2a6f-46ae-88b7-690d8ff755a9@52d1.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241014T223000Z
+LOCATION:TBD
+ORGANIZER;CN=Lee\, Se-Yeun (2228074):mailto:madeup@mail.com
+DTSTART:20241014T210500Z
+SUMMARY:UCOR 3800 S6 Natural Sci & Global Challenge
+UID:a88cac97-9d07-4aff-86fe-1b110a792278@a88c.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241016T013500Z
+LOCATION:TBD-was Bannan Building 629\; Bannan Building 619
+ORGANIZER;CN=Hainze\, John (2270633):mailto:madeup@mail.com
+DTSTART:20241015T224500Z
+SUMMARY:UCOR 1800 S7 Inquiry Sem in Natural Science
+UID:43f91f3e-4536-4901-9171-f0e579f9badb@43f9.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241205T202000Z
+LOCATION:TBD-was Bannan Building 379
+ORGANIZER;CN=Faculty Unassigned:mailto:madeup@mail.com
+DTSTART:20241205T181500Z
+SUMMARY:CEEGR 1050 S1 Graphics &amp\; Communication
+UID:354e9225-6e52-4a6a-98cd-bf3766e1ae8a@354e.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241126T014500Z
+LOCATION:TBD-was Lemieux Library 122
+ORGANIZER;CN=Gnanapragasam\, Nirmala:mailto:madeup@mail.com
+DTSTART:20241125T234000Z
+SUMMARY:CEEGR 4870 S1 Engineering Design I
+UID:769ca2ea-d93c-4cfd-a01a-40f7af658de3@769c.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241112T202000Z
+LOCATION:TBD-was Bannan Building 429\; Bannan Building 613\; Bannan Building 619
+ORGANIZER;CN=Marsolek\, Michael (1075473):mailto:madeup@mail.com
+DTSTART:20241112T181500Z
+SUMMARY:ENSC 4730 S1 Prncpls of Envrmtl Engineering
+UID:7bc0fb6b-5e2c-49dd-99b2-e1ab75831b46@7bc0.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241106T202000Z
+LOCATION:TBD-was Bannan Building 313\; Bannan Building 181
+ORGANIZER;CN=Kiymaz\, Guven (4187550):mailto:madeup@mail.com
+DTSTART:20241106T185500Z
+SUMMARY:CEEGR 2500 S1 Intro to Structural Design
+UID:b3ff5b06-1274-4f56-b459-263b278c5214@b3ff.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241022T192000Z
+LOCATION:TBD-was Bannan Building 429\; Bannan Building 613\; Bannan Building 619
+ORGANIZER;CN=Marsolek\, Michael (1075473):mailto:madeup@mail.com
+DTSTART:20241022T171500Z
+SUMMARY:ENSC 4730 S2 Prncpls of Envrmtl Engineering
+UID:662faeda-211f-40d5-94b0-185ae6930e82@662f.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241202T233000Z
+LOCATION:TBD
+ORGANIZER;CN=Lee\, Se-Yeun (2228074):mailto:madeup@mail.com
+DTSTART:20241202T220500Z
+SUMMARY:UCOR 3800 S6 Natural Sci & Global Challenge
+UID:ce0200cf-c9a2-4884-8f56-04c32c60f318@ce02.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241010T223500Z
+LOCATION:TBD-was Bannan Building 619
+ORGANIZER;CN=Gnanapragasam\, Nirmala:mailto:madeup@mail.com
+DTSTART:20241010T203000Z
+SUMMARY:CEEGR 1000 S1 Intro to Civil & Env Eng.
+UID:b8d66f69-f542-4744-b6e9-4478d1242ccd@b8d6.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241108T171000Z
+LOCATION:TBD-was Bannan Building 363
+ORGANIZER;CN=Faculty Unassigned:mailto:madeup@mail.com
+DTSTART:20241108T154500Z
+SUMMARY:CEEGR 2210 S1 Mechanics of Materials I
+UID:ec3e639f-51ae-48e3-97ea-2b113c85ad75@ec3e.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241120T002000Z
+LOCATION:TBD-was Bannan Building 191
+ORGANIZER;CN=Riazi\, Amin:mailto:madeup@mail.com
+DTSTART:20241119T213000Z
+SUMMARY:CEEGR 3370 S2 Fluids Laboratory
+UID:1ec9f8bc-fd4d-40e3-9afa-a8a22d460530@1ec9.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241206T202000Z
+LOCATION:TBD-was Bannan Building 313\; Bannan Building 181
+ORGANIZER;CN=Kiymaz\, Guven (4187550):mailto:madeup@mail.com
+DTSTART:20241206T185500Z
+SUMMARY:CEEGR 2500 S1 Intro to Structural Design
+UID:8d7a27ed-f000-4ea5-8013-772e8f765e62@8d7a.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241119T202000Z
+LOCATION:TBD-was Bannan Building 429\; Bannan Building 613\; Bannan Building 619
+ORGANIZER;CN=Marsolek\, Michael (1075473):mailto:madeup@mail.com
+DTSTART:20241119T181500Z
+SUMMARY:ENSC 4730 S2 Prncpls of Envrmtl Engineering
+UID:4df6d45e-49f3-44c7-abbf-04e50da469ac@4df6.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241010T232000Z
+LOCATION:TBD-was Bannan Building 429\; Bannan Building 613\; Bannan Building 619
+ORGANIZER;CN=Marsolek\, Michael (1075473):mailto:madeup@mail.com
+DTSTART:20241010T203000Z
+SUMMARY:CEEGR 4730 S2 Principle of Environmental Eng
+UID:62d9b306-ef00-4420-bede-8610cd70cbf8@62d9.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241105T202000Z
+LOCATION:TBD-was Bannan Building 371
+ORGANIZER;CN=Thompson\, Phillip (0366179):mailto:madeup@mail.com
+DTSTART:20241105T181500Z
+SUMMARY:CEEGR 3020 S1 Global Engineering Economics
+UID:108dad9f-e4ee-4173-9ba8-e1a497ab4cbe@108d.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241029T005000Z
+LOCATION:TBD-was Bannan Building 353
+ORGANIZER;CN=Hainze\, John (2270633):mailto:madeup@mail.com
+DTSTART:20241028T224000Z
+SUMMARY:UCOR 3800 S5 Natural Sci & Global Challenge
+UID:5295d39e-aa2e-4104-bb51-8461fe148ec9@5295.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241021T174500Z
+LOCATION:TBD-was Bannan Building 353
+ORGANIZER;CN=Kiymaz\, Guven (4187550):mailto:madeup@mail.com
+DTSTART:20241021T162000Z
+SUMMARY:CEEGR 4450 S1 Structural Mechanics
+UID:923d21a2-a5b8-4336-8648-f5161697e5cd@923d.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241203T202000Z
+LOCATION:TBD-was Bannan Building 371
+ORGANIZER;CN=Thompson\, Phillip (0366179):mailto:madeup@mail.com
+DTSTART:20241203T181500Z
+SUMMARY:CEEGR 3020 S1 Global Engineering Economics
+UID:739089d3-e598-423f-8a37-54525bbd2434@7390.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241001T192000Z
+LOCATION:TBD-was Bannan Building 429\; Bannan Building 613\; Bannan Building 619
+ORGANIZER;CN=Marsolek\, Michael (1075473):mailto:madeup@mail.com
+DTSTART:20241001T171500Z
+SUMMARY:ENSC 4730 S2 Prncpls of Envrmtl Engineering
+UID:47d412b6-66c4-4088-bb2d-4874c289f0be@47d4.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241025T174500Z
+LOCATION:TBD-was Bannan Building 441
+ORGANIZER;CN=Faculty Unassigned:mailto:madeup@mail.com
+DTSTART:20241025T162000Z
+SUMMARY:CEEGR 5110 S1 Advanced Structural Analysis
+UID:4599113c-192f-41f8-8363-75be67dc2183@4599.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241031T004500Z
+LOCATION:TBD-was Lemieux Library 122
+ORGANIZER;CN=Gnanapragasam\, Nirmala:mailto:madeup@mail.com
+DTSTART:20241030T224000Z
+SUMMARY:CEEGR 4870 S1 Engineering Design I
+UID:a63ce444-f4f3-4679-8c4b-ee7ebd2f8032@a63c.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241101T223000Z
+LOCATION:TBD
+ORGANIZER;CN=Lee\, Se-Yeun (2228074):mailto:madeup@mail.com
+DTSTART:20241101T210500Z
+SUMMARY:UCOR 3800 S6 Natural Sci & Global Challenge
+UID:36689e61-556b-4293-9bc6-1c11823ad5cc@3668.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241001T192000Z
+LOCATION:TBD-was Bannan Building 371
+ORGANIZER;CN=Thompson\, Phillip (0366179):mailto:madeup@mail.com
+DTSTART:20241001T171500Z
+SUMMARY:CEEGR 3020 S1 Global Engineering Economics
+UID:e03ba1a9-67db-4240-bb29-86f5a116174f@e03b.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241022T002000Z
+LOCATION:TBD-was Bannan Building 180
+ORGANIZER;CN=Faculty Unassigned:mailto:madeup@mail.com
+DTSTART:20241021T213000Z
+SUMMARY:CEEGR 2220 S1 Mechanics of Materials Lab I
+UID:8118938b-09b9-46c3-8258-db4d7d8c92dd@8118.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241003T223500Z
+LOCATION:TBD-was Bannan Building 629\; Bannan Building 619
+ORGANIZER;CN=Hainze\, John (2270633):mailto:madeup@mail.com
+DTSTART:20241003T203000Z
+SUMMARY:UCOR 1800 S8 Inquiry Sem in Natural Science
+UID:06facd45-e891-417c-9562-044db4bf2862@06fa.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20240926T002000Z
+LOCATION:TBD-was Bannan Building 191
+ORGANIZER;CN=Riazi\, Amin:mailto:madeup@mail.com
+DTSTART:20240925T213000Z
+SUMMARY:CEEGR 3370 S1 Fluids Laboratory
+UID:b6ecbd77-a8bc-4787-8902-cecc8fe3ead6@b6ec.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241031T192000Z
+LOCATION:TBD-was Bannan Building 379
+ORGANIZER;CN=Faculty Unassigned:mailto:madeup@mail.com
+DTSTART:20241031T171500Z
+SUMMARY:CEEGR 1050 S1 Graphics &amp\; Communication
+UID:29b8453b-2c6e-4561-9852-2a267532fb68@29b8.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241107T202000Z
+LOCATION:TBD-was Bannan Building 379
+ORGANIZER;CN=Faculty Unassigned:mailto:madeup@mail.com
+DTSTART:20241107T181500Z
+SUMMARY:CEEGR 1050 S1 Graphics &amp\; Communication
+UID:60be7471-6198-4e7e-8089-0ded196e92bb@60be.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241018T205500Z
+LOCATION:TBD-was Bannan Building 629
+ORGANIZER;CN=Gnanapragasam\, Nirmala:mailto:madeup@mail.com
+DTSTART:20241018T193000Z
+SUMMARY:CEEGR 3510 S1 Engineering Geology
+UID:980678fc-da3e-476b-983c-a8b71786b88e@9806.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241024T192000Z
+LOCATION:TBD-was Bannan Building 371
+ORGANIZER;CN=Thompson\, Phillip (0366179):mailto:madeup@mail.com
+DTSTART:20241024T171500Z
+SUMMARY:CEEGR 3020 S1 Global Engineering Economics
+UID:f404227f-aeed-423c-8ab1-817461e13509@f404.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241114T202000Z
+LOCATION:TBD-was Bannan Building 379
+ORGANIZER;CN=Faculty Unassigned:mailto:madeup@mail.com
+DTSTART:20241114T181500Z
+SUMMARY:CEEGR 1050 S1 Graphics &amp\; Communication
+UID:eb9c7a07-3d59-4505-b458-87d11c6731fd@eb9c.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241008T232000Z
+LOCATION:TBD-was Bannan Building 191
+ORGANIZER;CN=Riazi\, Amin:mailto:madeup@mail.com
+DTSTART:20241008T203000Z
+SUMMARY:CEEGR 3370 S2 Fluids Laboratory
+UID:18459ae9-351c-406d-9452-ef4b2498fecb@1845.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241113T215500Z
+LOCATION:TBD-was Bannan Building 629
+ORGANIZER;CN=Gnanapragasam\, Nirmala:mailto:madeup@mail.com
+DTSTART:20241113T203000Z
+SUMMARY:CEEGR 3510 S1 Engineering Geology
+UID:741a1fbc-be5c-4eaf-84ae-d259e25c7ed9@741a.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20240926T223500Z
+LOCATION:TBD-was Bannan Building 629\; Bannan Building 619
+ORGANIZER;CN=Hainze\, John (2270633):mailto:madeup@mail.com
+DTSTART:20240926T203000Z
+SUMMARY:UCOR 1800 S7 Inquiry Sem in Natural Science
+UID:a3122042-bdcd-4747-8b26-45519a07c877@a312.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241016T174500Z
+LOCATION:TBD-was Bannan Building 353
+ORGANIZER;CN=Kiymaz\, Guven (4187550):mailto:madeup@mail.com
+DTSTART:20241016T162000Z
+SUMMARY:CEEGR 4450 S1 Structural Mechanics
+UID:0df01459-2501-43e0-a970-879521d96757@0df0.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20240925T174500Z
+LOCATION:TBD-was Bannan Building 371
+ORGANIZER;CN=Riazi\, Amin:mailto:madeup@mail.com
+DTSTART:20240925T162000Z
+SUMMARY:CEEGR 3310 S1 Fluid Mechanics
+UID:689b8c08-4aba-4686-ac31-c7687285c062@689b.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241107T012000Z
+LOCATION:TBD-was Bannan Building 191
+ORGANIZER;CN=Riazi\, Amin:mailto:madeup@mail.com
+DTSTART:20241106T223000Z
+SUMMARY:CEEGR 3370 S1 Fluids Laboratory
+UID:b5767cf2-3e0f-489c-9305-9ce67625d9b9@b576.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241121T233500Z
+LOCATION:TBD-was Bannan Building 629\; Bannan Building 619
+ORGANIZER;CN=Hainze\, John (2270633):mailto:madeup@mail.com
+DTSTART:20241121T213000Z
+SUMMARY:UCOR 1800 S8 Inquiry Sem in Natural Science
+UID:c6d013a8-d35b-49a9-ad81-9635209d9eeb@c6d0.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241007T161000Z
+LOCATION:TBD-was Bannan Building 441
+ORGANIZER;CN=Faculty Unassigned:mailto:madeup@mail.com
+DTSTART:20241007T144500Z
+SUMMARY:CEEGR 5210 S1 Advanced Rc Design
+UID:6390bef6-8bc0-4b33-b3a9-b96aaebdeeea@6390.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241023T013500Z
+LOCATION:TBD-was Bannan Building 629\; Bannan Building 619
+ORGANIZER;CN=Hainze\, John (2270633):mailto:madeup@mail.com
+DTSTART:20241022T224500Z
+SUMMARY:UCOR 1800 S7 Inquiry Sem in Natural Science
+UID:2c8560a7-14db-49f4-8319-9b713c31396f@2c85.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241024T192000Z
+LOCATION:TBD-was Bannan Building 429\; Bannan Building 613\; Bannan Building 619
+ORGANIZER;CN=Marsolek\, Michael (1075473):mailto:madeup@mail.com
+DTSTART:20241024T171500Z
+SUMMARY:CEEGR 4730 S2 Principle of Environmental Eng
+UID:73ec79e7-2323-4acf-9e69-d9639b62e605@73ec.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241007T161000Z
+LOCATION:TBD-was Bannan Building 363
+ORGANIZER;CN=Faculty Unassigned:mailto:madeup@mail.com
+DTSTART:20241007T144500Z
+SUMMARY:CEEGR 2210 S1 Mechanics of Materials I
+UID:18af962f-d189-477b-84a6-a469d53be4d3@18af.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241113T171000Z
+LOCATION:TBD-was Bannan Building 363
+ORGANIZER;CN=Faculty Unassigned:mailto:madeup@mail.com
+DTSTART:20241113T154500Z
+SUMMARY:CEEGR 2210 S1 Mechanics of Materials I
+UID:e246912b-b181-4dc3-9e58-4f4a665cd4c6@e246.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20240927T174500Z
+LOCATION:TBD-was Bannan Building 371
+ORGANIZER;CN=Riazi\, Amin:mailto:madeup@mail.com
+DTSTART:20240927T162000Z
+SUMMARY:CEEGR 3310 S1 Fluid Mechanics
+UID:61cd3d0c-b946-4081-9cf3-29919e461cb3@61cd.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20240925T223000Z
+LOCATION:TBD
+ORGANIZER;CN=Lee\, Se-Yeun (2228074):mailto:madeup@mail.com
+DTSTART:20240925T210500Z
+SUMMARY:UCOR 3800 S6 Natural Sci & Global Challenge
+UID:57e360fd-3f4d-46bc-a1ae-6aeb5606b675@57e3.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241206T171000Z
+LOCATION:TBD-was Bannan Building 363
+ORGANIZER;CN=Faculty Unassigned:mailto:madeup@mail.com
+DTSTART:20241206T154500Z
+SUMMARY:CEEGR 2210 S1 Mechanics of Materials I
+UID:7b967b4b-4d2e-40a3-8f74-e4937c274e54@7b96.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241003T232000Z
+LOCATION:TBD-was Bannan Building 313\; Bannan Building 181
+ORGANIZER;CN=Kiymaz\, Guven (4187550):mailto:madeup@mail.com
+DTSTART:20241003T203000Z
+SUMMARY:CEEGR 2500 S1 Intro to Structural Design
+UID:fdf91770-5f25-40b7-94c2-bba28cde063f@fdf9.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241010T232000Z
+LOCATION:TBD-was Bannan Building 313\; Bannan Building 181
+ORGANIZER;CN=Kiymaz\, Guven (4187550):mailto:madeup@mail.com
+DTSTART:20241010T203000Z
+SUMMARY:CEEGR 2500 S1 Intro to Structural Design
+UID:f1e79606-6432-4ab3-8370-6296eca4fb6a@f1e7.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241018T174500Z
+LOCATION:TBD-was Bannan Building 441
+ORGANIZER;CN=Faculty Unassigned:mailto:madeup@mail.com
+DTSTART:20241018T162000Z
+SUMMARY:CEEGR 5110 S1 Advanced Structural Analysis
+UID:ffc8d241-7bc7-4f28-b0a9-1b9483f50148@ffc8.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241011T205500Z
+LOCATION:TBD-was Bannan Building 629
+ORGANIZER;CN=Gnanapragasam\, Nirmala:mailto:madeup@mail.com
+DTSTART:20241011T193000Z
+SUMMARY:CEEGR 3510 S1 Engineering Geology
+UID:dfc8884c-3403-42b5-8063-34015e670fbf@dfc8.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241029T002000Z
+LOCATION:TBD-was Bannan Building 180
+ORGANIZER;CN=Faculty Unassigned:mailto:madeup@mail.com
+DTSTART:20241028T213000Z
+SUMMARY:CEEGR 2220 S1 Mechanics of Materials Lab I
+UID:de518460-df55-4170-80de-ef93aaa5552b@de51.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241107T233500Z
+LOCATION:TBD-was Bannan Building 629\; Bannan Building 619
+ORGANIZER;CN=Hainze\, John (2270633):mailto:madeup@mail.com
+DTSTART:20241107T213000Z
+SUMMARY:UCOR 1800 S8 Inquiry Sem in Natural Science
+UID:18a8c32d-a74d-45fb-a988-dfef4a90fe04@18a8.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241113T002000Z
+LOCATION:TBD-was Bannan Building 191
+ORGANIZER;CN=Riazi\, Amin:mailto:madeup@mail.com
+DTSTART:20241112T213000Z
+SUMMARY:CEEGR 3370 S2 Fluids Laboratory
+UID:aec887ef-f3d3-471a-b332-0bcadd8c00e0@aec8.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241029T004500Z
+LOCATION:TBD-was Lemieux Library 122
+ORGANIZER;CN=Gnanapragasam\, Nirmala:mailto:madeup@mail.com
+DTSTART:20241028T224000Z
+SUMMARY:CEEGR 4870 S1 Engineering Design I
+UID:86abb1a8-e20a-4312-9310-858c99ead351@86ab.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241206T184500Z
+LOCATION:TBD-was Bannan Building 353
+ORGANIZER;CN=Kiymaz\, Guven (4187550):mailto:madeup@mail.com
+DTSTART:20241206T172000Z
+SUMMARY:CEEGR 4450 S1 Structural Mechanics
+UID:85043c91-fe37-4321-bac3-e61c0982ba56@8504.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241115T202000Z
+LOCATION:TBD-was Bannan Building 313\; Bannan Building 181
+ORGANIZER;CN=Kiymaz\, Guven (4187550):mailto:madeup@mail.com
+DTSTART:20241115T185500Z
+SUMMARY:CEEGR 2500 S1 Intro to Structural Design
+UID:d7633b2f-5252-453e-ba21-62052cef7957@d763.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241206T002000Z
+LOCATION:TBD-was Bannan Building 313\; Bannan Building 181
+ORGANIZER;CN=Kiymaz\, Guven (4187550):mailto:madeup@mail.com
+DTSTART:20241205T213000Z
+SUMMARY:CEEGR 2500 S1 Intro to Structural Design
+UID:a1f3dac0-fba0-4912-a845-45bda5755da0@a1f3.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241205T014500Z
+LOCATION:TBD-was Lemieux Library 122
+ORGANIZER;CN=Lauer\, John (1038686):mailto:madeup@mail.com
+DTSTART:20241204T234000Z
+SUMMARY:ENSC 4870 S1 Senior Capstone I
+UID:7ad1b807-2262-4e5d-8037-6ae6538d22d5@7ad1.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241121T202000Z
+LOCATION:TBD-was Bannan Building 379
+ORGANIZER;CN=Faculty Unassigned:mailto:madeup@mail.com
+DTSTART:20241121T181500Z
+SUMMARY:CEEGR 1050 S1 Graphics &amp\; Communication
+UID:caa45d31-4c96-4344-ba49-ce7776467426@caa4.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241001T192000Z
+LOCATION:TBD-was Bannan Building 429\; Bannan Building 613\; Bannan Building 619
+ORGANIZER;CN=Marsolek\, Michael (1075473):mailto:madeup@mail.com
+DTSTART:20241001T171500Z
+SUMMARY:CEEGR 4730 S2 Principle of Environmental Eng
+UID:12675ff8-3c16-4210-b343-015cfc5f7132@1267.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241002T161000Z
+LOCATION:TBD-was Bannan Building 363
+ORGANIZER;CN=Faculty Unassigned:mailto:madeup@mail.com
+DTSTART:20241002T144500Z
+SUMMARY:CEEGR 2210 S1 Mechanics of Materials I
+UID:478a401b-40cc-4787-a836-a077b75fff76@478a.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241204T002000Z
+LOCATION:TBD-was Bannan Building 191
+ORGANIZER;CN=Riazi\, Amin:mailto:madeup@mail.com
+DTSTART:20241203T213000Z
+SUMMARY:CEEGR 3370 S2 Fluids Laboratory
+UID:5c6ee03e-4d9b-49c5-976b-306bbe74ccaa@5c6e.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241108T171000Z
+LOCATION:TBD-was Bannan Building 441
+ORGANIZER;CN=Faculty Unassigned:mailto:madeup@mail.com
+DTSTART:20241108T154500Z
+SUMMARY:CEEGR 5210 S1 Advanced Rc Design
+UID:9a155f55-83e5-4a5f-a725-8a862bca83e6@9a15.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241031T223500Z
+LOCATION:TBD-was Bannan Building 629\; Bannan Building 619
+ORGANIZER;CN=Hainze\, John (2270633):mailto:madeup@mail.com
+DTSTART:20241031T203000Z
+SUMMARY:UCOR 1800 S7 Inquiry Sem in Natural Science
+UID:8c2c53d5-9bfc-4523-9bb8-87527f24f2b5@8c2c.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241014T205500Z
+LOCATION:TBD-was Bannan Building 629
+ORGANIZER;CN=Gnanapragasam\, Nirmala:mailto:madeup@mail.com
+DTSTART:20241014T193000Z
+SUMMARY:CEEGR 3510 S1 Engineering Geology
+UID:9982f1cf-4b37-405b-b856-8f32fd79e598@9982.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241010T002000Z
+LOCATION:TBD-was Bannan Building 191
+ORGANIZER;CN=Riazi\, Amin:mailto:madeup@mail.com
+DTSTART:20241009T213000Z
+SUMMARY:CEEGR 3370 S1 Fluids Laboratory
+UID:2a11ed76-7e52-40c1-9842-2d2e120cde19@2a11.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241025T174500Z
+LOCATION:TBD-was Bannan Building 353
+ORGANIZER;CN=Kiymaz\, Guven (4187550):mailto:madeup@mail.com
+DTSTART:20241025T162000Z
+SUMMARY:CEEGR 4450 S1 Structural Mechanics
+UID:49c5e33e-af67-49ba-bf42-c8939a82a91a@49c5.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241017T232000Z
+LOCATION:TBD-was Bannan Building 313\; Bannan Building 181
+ORGANIZER;CN=Kiymaz\, Guven (4187550):mailto:madeup@mail.com
+DTSTART:20241017T203000Z
+SUMMARY:CEEGR 2500 S1 Intro to Structural Design
+UID:9c3a7a6e-f335-4eaf-9a96-31e342399da2@9c3a.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241119T202000Z
+LOCATION:TBD-was Bannan Building 371
+ORGANIZER;CN=Thompson\, Phillip (0366179):mailto:madeup@mail.com
+DTSTART:20241119T181500Z
+SUMMARY:CEEGR 3020 S1 Global Engineering Economics
+UID:704d088e-7577-4ae4-9baf-e8d742e9b7e2@704d.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241114T233500Z
+LOCATION:TBD-was Bannan Building 619
+ORGANIZER;CN=Gnanapragasam\, Nirmala:mailto:madeup@mail.com
+DTSTART:20241114T213000Z
+SUMMARY:CEEGR 1000 S1 Intro to Civil & Env Eng.
+UID:b90e84eb-59ab-4657-84e9-29b6e9c7741c@b90e.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241118T171000Z
+LOCATION:TBD-was Bannan Building 441
+ORGANIZER;CN=Faculty Unassigned:mailto:madeup@mail.com
+DTSTART:20241118T154500Z
+SUMMARY:CEEGR 5210 S1 Advanced Rc Design
+UID:b7569580-c7d6-40d5-b2c2-39453dc7d135@b756.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241017T223500Z
+LOCATION:TBD-was Bannan Building 619
+ORGANIZER;CN=Gnanapragasam\, Nirmala:mailto:madeup@mail.com
+DTSTART:20241017T203000Z
+SUMMARY:CEEGR 1000 S1 Intro to Civil & Env Eng.
+UID:0531edcc-4d9e-43fd-9971-8f538f3ad291@0531.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241023T161000Z
+LOCATION:TBD-was Bannan Building 363
+ORGANIZER;CN=Faculty Unassigned:mailto:madeup@mail.com
+DTSTART:20241023T144500Z
+SUMMARY:CEEGR 2210 S1 Mechanics of Materials I
+UID:ed03aac5-5d29-4abf-9e01-b36b2fa564b7@ed03.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241003T223500Z
+LOCATION:TBD-was Bannan Building 629\; Bannan Building 619
+ORGANIZER;CN=Hainze\, John (2270633):mailto:madeup@mail.com
+DTSTART:20241003T203000Z
+SUMMARY:UCOR 1800 S7 Inquiry Sem in Natural Science
+UID:3084f554-c889-41ae-9633-fcd79cd0950d@3084.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241025T223000Z
+LOCATION:TBD
+ORGANIZER;CN=Lee\, Se-Yeun (2228074):mailto:madeup@mail.com
+DTSTART:20241025T210500Z
+SUMMARY:UCOR 3800 S6 Natural Sci & Global Challenge
+UID:cfabbf2d-03fc-4837-bf8c-fa4cac7fb115@cfab.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241203T202000Z
+LOCATION:TBD-was Bannan Building 379
+ORGANIZER;CN=Faculty Unassigned:mailto:madeup@mail.com
+DTSTART:20241203T181500Z
+SUMMARY:CEEGR 1050 S1 Graphics &amp\; Communication
+UID:ac6a48a6-4d9b-437e-b4ae-73b736576992@ac6a.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241127T002000Z
+LOCATION:TBD-was Bannan Building 429\; Bannan Building 613\; Bannan Building 619
+ORGANIZER;CN=Marsolek\, Michael (1075473):mailto:madeup@mail.com
+DTSTART:20241126T213000Z
+SUMMARY:CEEGR 4730 S1 Principle of Environmental Eng
+UID:a6db963d-4bc0-4b36-91bd-708550ec9434@a6db.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241029T232000Z
+LOCATION:TBD-was Bannan Building 429\; Bannan Building 613\; Bannan Building 619
+ORGANIZER;CN=Marsolek\, Michael (1075473):mailto:madeup@mail.com
+DTSTART:20241029T203000Z
+SUMMARY:CEEGR 4730 S1 Principle of Environmental Eng
+UID:e319a8f1-98c9-48b0-88fa-cd0484e22825@e319.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241118T233000Z
+LOCATION:TBD
+ORGANIZER;CN=Lee\, Se-Yeun (2228074):mailto:madeup@mail.com
+DTSTART:20241118T220500Z
+SUMMARY:UCOR 3800 S6 Natural Sci & Global Challenge
+UID:e52ee05f-a992-4732-b43c-5f4bcc371f0e@e52e.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241010T192000Z
+LOCATION:TBD-was Bannan Building 429\; Bannan Building 613\; Bannan Building 619
+ORGANIZER;CN=Marsolek\, Michael (1075473):mailto:madeup@mail.com
+DTSTART:20241010T171500Z
+SUMMARY:CEEGR 4730 S1 Principle of Environmental Eng
+UID:560215e9-f4e1-4b17-ade7-5437606725da@5602.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241007T192000Z
+LOCATION:TBD-was Fine Arts Building 120
+ORGANIZER;CN=Lauer\, John (1038686):mailto:madeup@mail.com
+DTSTART:20241007T175500Z
+SUMMARY:ENSC 3800 S1 Aerial Imaging & Mapping
+UID:3d3e6a7c-4035-4fa6-92bb-606e8d89a705@3d3e.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241017T192000Z
+LOCATION:TBD-was Bannan Building 379
+ORGANIZER;CN=Faculty Unassigned:mailto:madeup@mail.com
+DTSTART:20241017T171500Z
+SUMMARY:CEEGR 1050 S1 Graphics &amp\; Communication
+UID:c0e88f68-6637-46b8-8d19-33a18e1bb61e@c0e8.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241119T202000Z
+LOCATION:TBD-was Bannan Building 429\; Bannan Building 613\; Bannan Building 619
+ORGANIZER;CN=Marsolek\, Michael (1075473):mailto:madeup@mail.com
+DTSTART:20241119T181500Z
+SUMMARY:CEEGR 4730 S1 Principle of Environmental Eng
+UID:a5d14d7b-e1b3-4987-bac5-a7158bd664c6@a5d1.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241114T015000Z
+LOCATION:TBD-was Bannan Building 353
+ORGANIZER;CN=Hainze\, John (2270633):mailto:madeup@mail.com
+DTSTART:20241113T234000Z
+SUMMARY:UCOR 3800 S5 Natural Sci & Global Challenge
+UID:fe7730ba-8630-4da9-9286-d66663e47b48@fe77.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20240930T174500Z
+LOCATION:TBD-was Bannan Building 371
+ORGANIZER;CN=Riazi\, Amin:mailto:madeup@mail.com
+DTSTART:20240930T162000Z
+SUMMARY:CEEGR 3310 S1 Fluid Mechanics
+UID:fb0163b0-f9c2-4152-a84c-48bfdf2774b3@fb01.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241015T192000Z
+LOCATION:TBD-was Bannan Building 429\; Bannan Building 613\; Bannan Building 619
+ORGANIZER;CN=Marsolek\, Michael (1075473):mailto:madeup@mail.com
+DTSTART:20241015T171500Z
+SUMMARY:CEEGR 4730 S1 Principle of Environmental Eng
+UID:93f2c324-0834-4cf3-8970-6bdc3458c5e8@93f2.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20240925T161000Z
+LOCATION:TBD-was Bannan Building 363
+ORGANIZER;CN=Faculty Unassigned:mailto:madeup@mail.com
+DTSTART:20240925T144500Z
+SUMMARY:CEEGR 2210 S1 Mechanics of Materials I
+UID:a7637f77-1640-4ffd-a774-d0f7afa200a1@a763.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241025T013500Z
+LOCATION:TBD-was Bannan Building 629\; Bannan Building 619
+ORGANIZER;CN=Hainze\, John (2270633):mailto:madeup@mail.com
+DTSTART:20241024T224500Z
+SUMMARY:UCOR 1800 S8 Inquiry Sem in Natural Science
+UID:207b6c0d-55d2-4570-ada3-76e1bc9f2bcc@207b.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241106T002000Z
+LOCATION:TBD-was Bannan Building 429\; Bannan Building 613\; Bannan Building 619
+ORGANIZER;CN=Marsolek\, Michael (1075473):mailto:madeup@mail.com
+DTSTART:20241105T213000Z
+SUMMARY:ENSC 4730 S1 Prncpls of Envrmtl Engineering
+UID:c55969ea-4f96-4a1b-98c4-d857083b9f6c@c559.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241206T002000Z
+LOCATION:TBD-was Bannan Building 429\; Bannan Building 613\; Bannan Building 619
+ORGANIZER;CN=Marsolek\, Michael (1075473):mailto:madeup@mail.com
+DTSTART:20241205T213000Z
+SUMMARY:CEEGR 4730 S2 Principle of Environmental Eng
+UID:65e3290b-cbdd-413d-bf8c-d46415b31db4@65e3.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241126T233500Z
+LOCATION:TBD-was Bannan Building 629\; Bannan Building 619
+ORGANIZER;CN=Hainze\, John (2270633):mailto:madeup@mail.com
+DTSTART:20241126T213000Z
+SUMMARY:UCOR 1800 S8 Inquiry Sem in Natural Science
+UID:0f1ec7f4-2f2a-4481-8071-bcc70370c9d3@0f1e.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241106T171000Z
+LOCATION:TBD-was Bannan Building 363
+ORGANIZER;CN=Faculty Unassigned:mailto:madeup@mail.com
+DTSTART:20241106T154500Z
+SUMMARY:CEEGR 2210 S1 Mechanics of Materials I
+UID:645f12af-0311-4d5a-9a4b-c554f147c9c2@645f.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241002T205500Z
+LOCATION:TBD-was Bannan Building 629
+ORGANIZER;CN=Gnanapragasam\, Nirmala:mailto:madeup@mail.com
+DTSTART:20241002T193000Z
+SUMMARY:CEEGR 3510 S1 Engineering Geology
+UID:8cad991f-352c-47ad-ba9a-11da4f23ddbe@8cad.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20240930T161000Z
+LOCATION:TBD-was Bannan Building 363
+ORGANIZER;CN=Faculty Unassigned:mailto:madeup@mail.com
+DTSTART:20240930T144500Z
+SUMMARY:CEEGR 2210 S1 Mechanics of Materials I
+UID:0a634338-f9bc-4d47-bc62-4a4bd04d13f6@0a63.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241101T174500Z
+LOCATION:TBD-was Bannan Building 371
+ORGANIZER;CN=Riazi\, Amin:mailto:madeup@mail.com
+DTSTART:20241101T162000Z
+SUMMARY:CEEGR 3310 S1 Fluid Mechanics
+UID:838f3dbe-63ec-492c-9d8e-103300cff1fd@838f.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241122T184500Z
+LOCATION:TBD-was Bannan Building 371
+ORGANIZER;CN=Riazi\, Amin:mailto:madeup@mail.com
+DTSTART:20241122T172000Z
+SUMMARY:CEEGR 3310 S1 Fluid Mechanics
+UID:134ca60b-097d-44ec-a104-d9f09d156297@134c.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241101T174500Z
+LOCATION:TBD-was Bannan Building 441
+ORGANIZER;CN=Faculty Unassigned:mailto:madeup@mail.com
+DTSTART:20241101T162000Z
+SUMMARY:CEEGR 5110 S1 Advanced Structural Analysis
+UID:e498930c-2142-479a-99e2-31d697768c7e@e498.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241119T202000Z
+LOCATION:TBD-was Bannan Building 429\; Bannan Building 613\; Bannan Building 619
+ORGANIZER;CN=Marsolek\, Michael (1075473):mailto:madeup@mail.com
+DTSTART:20241119T181500Z
+SUMMARY:ENSC 4730 S1 Prncpls of Envrmtl Engineering
+UID:051269a4-4e1a-420a-b7d9-4e5c738f8217@0512.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241108T002000Z
+LOCATION:TBD-was Bannan Building 429\; Bannan Building 613\; Bannan Building 619
+ORGANIZER;CN=Marsolek\, Michael (1075473):mailto:madeup@mail.com
+DTSTART:20241107T213000Z
+SUMMARY:ENSC 4730 S2 Prncpls of Envrmtl Engineering
+UID:6c91c65a-ac7c-47cd-a0ef-0edf4e508f76@6c91.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241004T223000Z
+LOCATION:TBD
+ORGANIZER;CN=Lee\, Se-Yeun (2228074):mailto:madeup@mail.com
+DTSTART:20241004T210500Z
+SUMMARY:UCOR 3800 S6 Natural Sci & Global Challenge
+UID:533f2f95-f849-40da-90ee-41ca114b3a9f@533f.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241001T192000Z
+LOCATION:TBD-was Bannan Building 429\; Bannan Building 613\; Bannan Building 619
+ORGANIZER;CN=Marsolek\, Michael (1075473):mailto:madeup@mail.com
+DTSTART:20241001T171500Z
+SUMMARY:CEEGR 4730 S1 Principle of Environmental Eng
+UID:8159601b-bb70-4c8f-bf76-a4a05427a9ab@8159.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241106T002000Z
+LOCATION:TBD-was Bannan Building 429\; Bannan Building 613\; Bannan Building 619
+ORGANIZER;CN=Marsolek\, Michael (1075473):mailto:madeup@mail.com
+DTSTART:20241105T213000Z
+SUMMARY:CEEGR 4730 S1 Principle of Environmental Eng
+UID:203ad352-7570-46cd-aedb-e748dc7aa72f@203a.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241001T004500Z
+LOCATION:TBD-was Lemieux Library 122
+ORGANIZER;CN=Lauer\, John (1038686):mailto:madeup@mail.com
+DTSTART:20240930T224000Z
+SUMMARY:ENSC 4870 S1 Senior Capstone I
+UID:89a4d6d8-2f10-4b23-980e-00fb4ab171a0@89a4.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241011T192000Z
+LOCATION:TBD-was Bannan Building 313\; Bannan Building 181
+ORGANIZER;CN=Kiymaz\, Guven (4187550):mailto:madeup@mail.com
+DTSTART:20241011T175500Z
+SUMMARY:CEEGR 2500 S1 Intro to Structural Design
+UID:eaec4c37-7e3d-4314-8acb-520ef99b1f4d@eaec.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241030T013500Z
+LOCATION:TBD-was Bannan Building 629\; Bannan Building 619
+ORGANIZER;CN=Hainze\, John (2270633):mailto:madeup@mail.com
+DTSTART:20241029T224500Z
+SUMMARY:UCOR 1800 S7 Inquiry Sem in Natural Science
+UID:f893f100-77ee-4deb-a4b0-092a62d27fcc@f893.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241014T161000Z
+LOCATION:TBD-was Bannan Building 363
+ORGANIZER;CN=Faculty Unassigned:mailto:madeup@mail.com
+DTSTART:20241014T144500Z
+SUMMARY:CEEGR 2210 S1 Mechanics of Materials I
+UID:aa7111d3-0355-43c5-a6a1-561772cf93bb@aa71.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241021T161000Z
+LOCATION:TBD-was Bannan Building 363
+ORGANIZER;CN=Faculty Unassigned:mailto:madeup@mail.com
+DTSTART:20241021T144500Z
+SUMMARY:CEEGR 2210 S1 Mechanics of Materials I
+UID:f5ed9f27-a266-4dba-aea6-1f9d0b8e02db@f5ed.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241031T192000Z
+LOCATION:TBD-was Bannan Building 371
+ORGANIZER;CN=Thompson\, Phillip (0366179):mailto:madeup@mail.com
+DTSTART:20241031T171500Z
+SUMMARY:CEEGR 3020 S1 Global Engineering Economics
+UID:c0e5aa57-85b1-4698-a36a-c14d039e0781@c0e5.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241122T233000Z
+LOCATION:TBD
+ORGANIZER;CN=Lee\, Se-Yeun (2228074):mailto:madeup@mail.com
+DTSTART:20241122T220500Z
+SUMMARY:UCOR 3800 S6 Natural Sci & Global Challenge
+UID:3571baca-8568-421b-8d50-ed0bb79e2489@3571.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241113T202000Z
+LOCATION:TBD-was Bannan Building 313\; Bannan Building 181
+ORGANIZER;CN=Kiymaz\, Guven (4187550):mailto:madeup@mail.com
+DTSTART:20241113T185500Z
+SUMMARY:CEEGR 2500 S1 Intro to Structural Design
+UID:fbf5f4e2-e909-4d6f-a22a-60a31c1c690a@fbf5.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241007T174500Z
+LOCATION:TBD-was Bannan Building 371
+ORGANIZER;CN=Riazi\, Amin:mailto:madeup@mail.com
+DTSTART:20241007T162000Z
+SUMMARY:CEEGR 3310 S1 Fluid Mechanics
+UID:fd8db18c-2eaf-4895-9747-e5927a5c4c23@fd8d.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241029T004500Z
+LOCATION:TBD-was Lemieux Library 122
+ORGANIZER;CN=Lauer\, John (1038686):mailto:madeup@mail.com
+DTSTART:20241028T224000Z
+SUMMARY:ENSC 4870 S1 Senior Capstone I
+UID:8f8ac37a-5e57-4365-b2b4-df48a684971c@8f8a.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241203T014500Z
+LOCATION:TBD-was Lemieux Library 122
+ORGANIZER;CN=Lauer\, John (1038686):mailto:madeup@mail.com
+DTSTART:20241202T234000Z
+SUMMARY:ENSC 4870 S1 Senior Capstone I
+UID:0b02def6-b3b6-4c4e-b0ed-355cebb16d90@0b02.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241028T161000Z
+LOCATION:TBD-was Bannan Building 363
+ORGANIZER;CN=Faculty Unassigned:mailto:madeup@mail.com
+DTSTART:20241028T144500Z
+SUMMARY:CEEGR 2210 S1 Mechanics of Materials I
+UID:f9178023-088f-4ed2-8eff-2c1100f4f6af@f917.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241114T202000Z
+LOCATION:TBD-was Bannan Building 371
+ORGANIZER;CN=Thompson\, Phillip (0366179):mailto:madeup@mail.com
+DTSTART:20241114T181500Z
+SUMMARY:CEEGR 3020 S1 Global Engineering Economics
+UID:1bf2b0e6-f0ef-4940-b4ce-341cc5224384@1bf2.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241024T192000Z
+LOCATION:TBD-was Bannan Building 429\; Bannan Building 613\; Bannan Building 619
+ORGANIZER;CN=Marsolek\, Michael (1075473):mailto:madeup@mail.com
+DTSTART:20241024T171500Z
+SUMMARY:ENSC 4730 S2 Prncpls of Envrmtl Engineering
+UID:50beadc4-9e37-4d0f-b7a5-550d4f5ee2ad@50be.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241114T014500Z
+LOCATION:TBD-was Lemieux Library 122
+ORGANIZER;CN=Lauer\, John (1038686):mailto:madeup@mail.com
+DTSTART:20241113T234000Z
+SUMMARY:ENSC 4870 S1 Senior Capstone I
+UID:4c2bdccc-8d38-4b6f-9db9-ee9f00082517@4c2b.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241120T202000Z
+LOCATION:TBD-was Bannan Building 313\; Bannan Building 181
+ORGANIZER;CN=Kiymaz\, Guven (4187550):mailto:madeup@mail.com
+DTSTART:20241120T185500Z
+SUMMARY:CEEGR 2500 S1 Intro to Structural Design
+UID:a190648a-5cf0-474e-a9d8-d7560c30b6af@a190.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241115T171000Z
+LOCATION:TBD-was Bannan Building 441
+ORGANIZER;CN=Faculty Unassigned:mailto:madeup@mail.com
+DTSTART:20241115T154500Z
+SUMMARY:CEEGR 5210 S1 Advanced Rc Design
+UID:8f90cecb-fd0b-4b05-aa0b-367be23897bf@8f90.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241003T192000Z
+LOCATION:TBD-was Bannan Building 379
+ORGANIZER;CN=Faculty Unassigned:mailto:madeup@mail.com
+DTSTART:20241003T171500Z
+SUMMARY:CEEGR 1050 S1 Graphics &amp\; Communication
+UID:2f48940d-0cac-4481-9544-cb4f31703c52@2f48.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241113T002000Z
+LOCATION:TBD-was Bannan Building 429\; Bannan Building 613\; Bannan Building 619
+ORGANIZER;CN=Marsolek\, Michael (1075473):mailto:madeup@mail.com
+DTSTART:20241112T213000Z
+SUMMARY:CEEGR 4730 S1 Principle of Environmental Eng
+UID:2bb9b1b8-6e36-4d91-8876-59b497ee2814@2bb9.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241022T004500Z
+LOCATION:TBD-was Lemieux Library 122
+ORGANIZER;CN=Lauer\, John (1038686):mailto:madeup@mail.com
+DTSTART:20241021T224000Z
+SUMMARY:ENSC 4870 S1 Senior Capstone I
+UID:b1e6aac3-c1f1-40a1-bf14-5912130a3053@b1e6.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241106T184500Z
+LOCATION:TBD-was Bannan Building 441
+ORGANIZER;CN=Faculty Unassigned:mailto:madeup@mail.com
+DTSTART:20241106T172000Z
+SUMMARY:CEEGR 5110 S1 Advanced Structural Analysis
+UID:93a38ed4-a1a4-4acb-9e89-0b5ec5830031@93a3.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241017T004500Z
+LOCATION:TBD-was Lemieux Library 122
+ORGANIZER;CN=Lauer\, John (1038686):mailto:madeup@mail.com
+DTSTART:20241016T224000Z
+SUMMARY:ENSC 4870 S1 Senior Capstone I
+UID:6a8f8792-4d4a-4799-ad7a-2ff11c54f3a9@6a8f.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241029T192000Z
+LOCATION:TBD-was Bannan Building 429\; Bannan Building 613\; Bannan Building 619
+ORGANIZER;CN=Marsolek\, Michael (1075473):mailto:madeup@mail.com
+DTSTART:20241029T171500Z
+SUMMARY:ENSC 4730 S1 Prncpls of Envrmtl Engineering
+UID:10becbab-23cc-4a8d-8568-01c6f79a6b83@10be.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241030T161000Z
+LOCATION:TBD-was Bannan Building 363
+ORGANIZER;CN=Faculty Unassigned:mailto:madeup@mail.com
+DTSTART:20241030T144500Z
+SUMMARY:CEEGR 2210 S1 Mechanics of Materials I
+UID:8f23fc24-a180-458e-a62d-bce6ffcbaf05@8f23.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241015T223500Z
+LOCATION:TBD-was Bannan Building 629\; Bannan Building 619
+ORGANIZER;CN=Hainze\, John (2270633):mailto:madeup@mail.com
+DTSTART:20241015T203000Z
+SUMMARY:UCOR 1800 S8 Inquiry Sem in Natural Science
+UID:21d3625e-ac9f-4335-8116-efe2702fefb8@21d3.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241023T174500Z
+LOCATION:TBD-was Bannan Building 441
+ORGANIZER;CN=Faculty Unassigned:mailto:madeup@mail.com
+DTSTART:20241023T162000Z
+SUMMARY:CEEGR 5110 S1 Advanced Structural Analysis
+UID:0f51210f-d78b-47ba-a939-5796c7d0c64a@0f51.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241119T233500Z
+LOCATION:TBD-was Bannan Building 629\; Bannan Building 619
+ORGANIZER;CN=Hainze\, John (2270633):mailto:madeup@mail.com
+DTSTART:20241119T213000Z
+SUMMARY:UCOR 1800 S8 Inquiry Sem in Natural Science
+UID:e88c27f5-a09d-4242-9d56-4f2f6799f266@e88c.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241031T232000Z
+LOCATION:TBD-was Bannan Building 313\; Bannan Building 181
+ORGANIZER;CN=Kiymaz\, Guven (4187550):mailto:madeup@mail.com
+DTSTART:20241031T203000Z
+SUMMARY:CEEGR 2500 S1 Intro to Structural Design
+UID:8e4c1b76-72c7-41ce-9b8e-c09e56b31cae@8e4c.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241126T233500Z
+LOCATION:TBD-was Bannan Building 629\; Bannan Building 619
+ORGANIZER;CN=Hainze\, John (2270633):mailto:madeup@mail.com
+DTSTART:20241126T213000Z
+SUMMARY:UCOR 1800 S7 Inquiry Sem in Natural Science
+UID:e2393efc-7619-49fc-94f4-4e2045923ec7@e239.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20240930T174500Z
+LOCATION:TBD-was Bannan Building 353
+ORGANIZER;CN=Kiymaz\, Guven (4187550):mailto:madeup@mail.com
+DTSTART:20240930T162000Z
+SUMMARY:CEEGR 4450 S1 Structural Mechanics
+UID:5bde3bd8-6413-4cac-9adc-996a8b3e5378@5bde.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241204T023500Z
+LOCATION:TBD-was Bannan Building 629\; Bannan Building 619
+ORGANIZER;CN=Hainze\, John (2270633):mailto:madeup@mail.com
+DTSTART:20241203T234500Z
+SUMMARY:UCOR 1800 S7 Inquiry Sem in Natural Science
+UID:87d9d4f6-f939-4fca-8d23-6e7c8a954dd4@87d9.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241114T233500Z
+LOCATION:TBD-was Bannan Building 629\; Bannan Building 619
+ORGANIZER;CN=Hainze\, John (2270633):mailto:madeup@mail.com
+DTSTART:20241114T213000Z
+SUMMARY:UCOR 1800 S8 Inquiry Sem in Natural Science
+UID:099b0398-5eb5-4097-9d5b-dacfd7089b45@099b.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20240926T223500Z
+LOCATION:TBD-was Bannan Building 619
+ORGANIZER;CN=Gnanapragasam\, Nirmala:mailto:madeup@mail.com
+DTSTART:20240926T203000Z
+SUMMARY:CEEGR 1000 S1 Intro to Civil & Env Eng.
+UID:49a9d121-bb92-4b29-8348-c24ea7e9ce74@49a9.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241107T202000Z
+LOCATION:TBD-was Bannan Building 371
+ORGANIZER;CN=Thompson\, Phillip (0366179):mailto:madeup@mail.com
+DTSTART:20241107T181500Z
+SUMMARY:CEEGR 3020 S1 Global Engineering Economics
+UID:db4538c5-45a1-43cd-8be1-5cf77e705111@db45.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241008T004500Z
+LOCATION:TBD-was Lemieux Library 122
+ORGANIZER;CN=Lauer\, John (1038686):mailto:madeup@mail.com
+DTSTART:20241007T224000Z
+SUMMARY:ENSC 4870 S1 Senior Capstone I
+UID:b55542c2-08b2-4185-bea6-d03fdc31c182@b555.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241121T202000Z
+LOCATION:TBD-was Bannan Building 429\; Bannan Building 613\; Bannan Building 619
+ORGANIZER;CN=Marsolek\, Michael (1075473):mailto:madeup@mail.com
+DTSTART:20241121T181500Z
+SUMMARY:ENSC 4730 S1 Prncpls of Envrmtl Engineering
+UID:07416083-a3b8-429a-8378-99d1b3927682@0741.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241204T171000Z
+LOCATION:TBD-was Bannan Building 441
+ORGANIZER;CN=Faculty Unassigned:mailto:madeup@mail.com
+DTSTART:20241204T154500Z
+SUMMARY:CEEGR 5210 S1 Advanced Rc Design
+UID:f08ba7ca-010e-4a6f-bf92-221bb259cc06@f08b.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241104T171000Z
+LOCATION:TBD-was Bannan Building 441
+ORGANIZER;CN=Faculty Unassigned:mailto:madeup@mail.com
+DTSTART:20241104T154500Z
+SUMMARY:CEEGR 5210 S1 Advanced Rc Design
+UID:b039673e-e520-4386-9743-15f698d3203d@b039.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241122T002000Z
+LOCATION:TBD-was Bannan Building 313\; Bannan Building 181
+ORGANIZER;CN=Kiymaz\, Guven (4187550):mailto:madeup@mail.com
+DTSTART:20241121T213000Z
+SUMMARY:CEEGR 2500 S1 Intro to Structural Design
+UID:74a19599-89bb-44bf-b4b9-df31cba77aea@74a1.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20240926T005000Z
+LOCATION:TBD-was Bannan Building 353
+ORGANIZER;CN=Hainze\, John (2270633):mailto:madeup@mail.com
+DTSTART:20240925T224000Z
+SUMMARY:UCOR 3800 S5 Natural Sci & Global Challenge
+UID:f9c6bd7b-3626-4149-8c53-8a04f2a5fec5@f9c6.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241015T192000Z
+LOCATION:TBD-was Bannan Building 429\; Bannan Building 613\; Bannan Building 619
+ORGANIZER;CN=Marsolek\, Michael (1075473):mailto:madeup@mail.com
+DTSTART:20241015T171500Z
+SUMMARY:CEEGR 4730 S2 Principle of Environmental Eng
+UID:20670074-701e-4fd7-83c6-522b0dbfe094@2067.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241029T232000Z
+LOCATION:TBD-was Bannan Building 191
+ORGANIZER;CN=Riazi\, Amin:mailto:madeup@mail.com
+DTSTART:20241029T203000Z
+SUMMARY:CEEGR 3370 S2 Fluids Laboratory
+UID:cfccf60b-0362-4c72-99b1-84afd0ce658a@cfcc.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241022T192000Z
+LOCATION:TBD-was Bannan Building 429\; Bannan Building 613\; Bannan Building 619
+ORGANIZER;CN=Marsolek\, Michael (1075473):mailto:madeup@mail.com
+DTSTART:20241022T171500Z
+SUMMARY:ENSC 4730 S1 Prncpls of Envrmtl Engineering
+UID:88f50b4b-9a8f-4842-a8c3-62cae1c73139@88f5.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241008T192000Z
+LOCATION:TBD-was Bannan Building 379
+ORGANIZER;CN=Faculty Unassigned:mailto:madeup@mail.com
+DTSTART:20241008T171500Z
+SUMMARY:CEEGR 1050 S1 Graphics &amp\; Communication
+UID:7b9e4cbc-cad7-4c90-b3b9-3b585fe44c26@7b9e.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241202T202000Z
+LOCATION:TBD-was Bannan Building 313\; Bannan Building 181
+ORGANIZER;CN=Kiymaz\, Guven (4187550):mailto:madeup@mail.com
+DTSTART:20241202T185500Z
+SUMMARY:CEEGR 2500 S1 Intro to Structural Design
+UID:9d21dfa7-83c8-49c6-ae01-167545d2d3eb@9d21.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241204T202000Z
+LOCATION:TBD-was Bannan Building 313\; Bannan Building 181
+ORGANIZER;CN=Kiymaz\, Guven (4187550):mailto:madeup@mail.com
+DTSTART:20241204T185500Z
+SUMMARY:CEEGR 2500 S1 Intro to Structural Design
+UID:c610752d-e3fa-4d1b-9838-4168c4884c74@c610.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241008T004500Z
+LOCATION:TBD-was Lemieux Library 122
+ORGANIZER;CN=Gnanapragasam\, Nirmala:mailto:madeup@mail.com
+DTSTART:20241007T224000Z
+SUMMARY:CEEGR 4870 S1 Engineering Design I
+UID:c6a8a9d9-8014-4b12-b579-e7834e945b2d@c6a8.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241002T013500Z
+LOCATION:TBD-was Bannan Building 629\; Bannan Building 619
+ORGANIZER;CN=Hainze\, John (2270633):mailto:madeup@mail.com
+DTSTART:20241001T224500Z
+SUMMARY:UCOR 1800 S7 Inquiry Sem in Natural Science
+UID:8be8d9d3-0412-44af-b96a-146ffec70b9d@8be8.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241014T161000Z
+LOCATION:TBD-was Bannan Building 441
+ORGANIZER;CN=Faculty Unassigned:mailto:madeup@mail.com
+DTSTART:20241014T144500Z
+SUMMARY:CEEGR 5210 S1 Advanced Rc Design
+UID:7ba254fd-8536-45b4-85a5-277a3b1c128c@7ba2.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241025T192000Z
+LOCATION:TBD-was Fine Arts Building 120
+ORGANIZER;CN=Lauer\, John (1038686):mailto:madeup@mail.com
+DTSTART:20241025T175500Z
+SUMMARY:ENSC 3800 S1 Aerial Imaging & Mapping
+UID:10ebc21b-6893-4e3b-ae91-ae8d5dcc1cff@10eb.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241105T180500Z
+LOCATION:TBD-was Bannan Building 619
+ORGANIZER;CN=Gualtieri\, Lyn (0834249):mailto:madeup@mail.com
+DTSTART:20241105T160000Z
+SUMMARY:ENSC 1000 S1 Intro to Environmental Science
+UID:36c5f943-3f7a-4c2f-a7eb-4b1b2286ed40@36c5.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241120T002000Z
+LOCATION:TBD-was Bannan Building 429\; Bannan Building 613\; Bannan Building 619
+ORGANIZER;CN=Marsolek\, Michael (1075473):mailto:madeup@mail.com
+DTSTART:20241119T213000Z
+SUMMARY:ENSC 4730 S1 Prncpls of Envrmtl Engineering
+UID:3f6369a6-86da-4245-ad58-ee047b75e5ac@3f63.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241113T202000Z
+LOCATION:TBD-was Fine Arts Building 120
+ORGANIZER;CN=Lauer\, John (1038686):mailto:madeup@mail.com
+DTSTART:20241113T185500Z
+SUMMARY:ENSC 3800 S1 Aerial Imaging & Mapping
+UID:71393880-fb50-4f63-9f5f-8865e5fb6c4f@7139.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241107T014500Z
+LOCATION:TBD-was Lemieux Library 122
+ORGANIZER;CN=Gnanapragasam\, Nirmala:mailto:madeup@mail.com
+DTSTART:20241106T234000Z
+SUMMARY:CEEGR 4870 S1 Engineering Design I
+UID:1f633b8c-ea5e-495b-a5fa-c16dbb94ff5b@1f63.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241115T002000Z
+LOCATION:TBD-was Bannan Building 429\; Bannan Building 613\; Bannan Building 619
+ORGANIZER;CN=Marsolek\, Michael (1075473):mailto:madeup@mail.com
+DTSTART:20241114T213000Z
+SUMMARY:CEEGR 4730 S2 Principle of Environmental Eng
+UID:24f0a109-e6c9-4cf9-900f-563a177b1f10@24f0.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241120T002000Z
+LOCATION:TBD-was Bannan Building 429\; Bannan Building 613\; Bannan Building 619
+ORGANIZER;CN=Marsolek\, Michael (1075473):mailto:madeup@mail.com
+DTSTART:20241119T213000Z
+SUMMARY:CEEGR 4730 S1 Principle of Environmental Eng
+UID:a3d86ab6-5781-4beb-96ee-d81497cb159e@a3d8.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241127T002000Z
+LOCATION:TBD-was Bannan Building 429\; Bannan Building 613\; Bannan Building 619
+ORGANIZER;CN=Marsolek\, Michael (1075473):mailto:madeup@mail.com
+DTSTART:20241126T213000Z
+SUMMARY:ENSC 4730 S1 Prncpls of Envrmtl Engineering
+UID:0d994eb2-310c-471e-80e2-9c629d4b3840@0d99.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241206T215500Z
+LOCATION:TBD-was Bannan Building 629
+ORGANIZER;CN=Gnanapragasam\, Nirmala:mailto:madeup@mail.com
+DTSTART:20241206T203000Z
+SUMMARY:CEEGR 3510 S1 Engineering Geology
+UID:de86e7de-85cf-4013-a226-441a7a9de07b@de86.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241120T202000Z
+LOCATION:TBD-was Fine Arts Building 120
+ORGANIZER;CN=Lauer\, John (1038686):mailto:madeup@mail.com
+DTSTART:20241120T185500Z
+SUMMARY:ENSC 3800 S1 Aerial Imaging & Mapping
+UID:c535ef4c-bed1-4a3a-9978-bde28d608133@c535.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241202T171000Z
+LOCATION:TBD-was Bannan Building 363
+ORGANIZER;CN=Faculty Unassigned:mailto:madeup@mail.com
+DTSTART:20241202T154500Z
+SUMMARY:CEEGR 2210 S1 Mechanics of Materials I
+UID:2b764ae8-0d73-42ee-b9e1-41730f3e7030@2b76.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241107T202000Z
+LOCATION:TBD-was Bannan Building 429\; Bannan Building 613\; Bannan Building 619
+ORGANIZER;CN=Marsolek\, Michael (1075473):mailto:madeup@mail.com
+DTSTART:20241107T181500Z
+SUMMARY:CEEGR 4730 S2 Principle of Environmental Eng
+UID:03daa1ac-4b16-4a06-9635-9ee708a327c4@03da.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241118T202000Z
+LOCATION:TBD-was Bannan Building 313\; Bannan Building 181
+ORGANIZER;CN=Kiymaz\, Guven (4187550):mailto:madeup@mail.com
+DTSTART:20241118T185500Z
+SUMMARY:CEEGR 2500 S1 Intro to Structural Design
+UID:13a60d19-d264-4a96-ad7b-8f39ed4f6c42@13a6.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241205T015000Z
+LOCATION:TBD-was Bannan Building 353
+ORGANIZER;CN=Hainze\, John (2270633):mailto:madeup@mail.com
+DTSTART:20241204T234000Z
+SUMMARY:UCOR 3800 S5 Natural Sci & Global Challenge
+UID:ca885c8b-073d-4184-ab2b-7a26a433bb1e@ca88.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241115T184500Z
+LOCATION:TBD-was Bannan Building 353
+ORGANIZER;CN=Kiymaz\, Guven (4187550):mailto:madeup@mail.com
+DTSTART:20241115T172000Z
+SUMMARY:CEEGR 4450 S1 Structural Mechanics
+UID:bf523bd5-d9a3-4153-9e57-275fac3ade71@bf52.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241120T184500Z
+LOCATION:TBD-was Bannan Building 441
+ORGANIZER;CN=Faculty Unassigned:mailto:madeup@mail.com
+DTSTART:20241120T172000Z
+SUMMARY:CEEGR 5110 S1 Advanced Structural Analysis
+UID:97950484-3ec2-437c-8403-ef465099bd19@9795.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241029T192000Z
+LOCATION:TBD-was Bannan Building 371
+ORGANIZER;CN=Thompson\, Phillip (0366179):mailto:madeup@mail.com
+DTSTART:20241029T171500Z
+SUMMARY:CEEGR 3020 S1 Global Engineering Economics
+UID:10945453-b6ad-4c29-bcb1-d0d838c831fb@1094.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241126T012000Z
+LOCATION:TBD-was Bannan Building 180
+ORGANIZER;CN=Faculty Unassigned:mailto:madeup@mail.com
+DTSTART:20241125T223000Z
+SUMMARY:CEEGR 2220 S1 Mechanics of Materials Lab I
+UID:0cbf84dd-6e53-4727-9d36-a1a856d31f1f@0cbf.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241105T233500Z
+LOCATION:TBD-was Bannan Building 629\; Bannan Building 619
+ORGANIZER;CN=Hainze\, John (2270633):mailto:madeup@mail.com
+DTSTART:20241105T213000Z
+SUMMARY:UCOR 1800 S7 Inquiry Sem in Natural Science
+UID:13763642-5e26-4222-a116-dc5aeef25537@1376.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241008T192000Z
+LOCATION:TBD-was Bannan Building 429\; Bannan Building 613\; Bannan Building 619
+ORGANIZER;CN=Marsolek\, Michael (1075473):mailto:madeup@mail.com
+DTSTART:20241008T171500Z
+SUMMARY:ENSC 4730 S2 Prncpls of Envrmtl Engineering
+UID:2c426347-b53b-484c-9e61-1a4120b8002b@2c42.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241101T013500Z
+LOCATION:TBD-was Bannan Building 629\; Bannan Building 619
+ORGANIZER;CN=Hainze\, John (2270633):mailto:madeup@mail.com
+DTSTART:20241031T224500Z
+SUMMARY:UCOR 1800 S8 Inquiry Sem in Natural Science
+UID:aaf6f267-1a3c-408a-9d20-1c81088287d8@aaf6.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241009T192000Z
+LOCATION:TBD-was Fine Arts Building 120
+ORGANIZER;CN=Lauer\, John (1038686):mailto:madeup@mail.com
+DTSTART:20241009T175500Z
+SUMMARY:ENSC 3800 S1 Aerial Imaging & Mapping
+UID:f6da3c74-9fd0-424f-aee5-e314cb11abe7@f6da.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241008T002000Z
+LOCATION:TBD-was Bannan Building 180
+ORGANIZER;CN=Faculty Unassigned:mailto:madeup@mail.com
+DTSTART:20241007T213000Z
+SUMMARY:CEEGR 2220 S1 Mechanics of Materials Lab I
+UID:31f82f60-2a82-4574-9142-3b494f04f759@31f8.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241106T184500Z
+LOCATION:TBD-was Bannan Building 353
+ORGANIZER;CN=Kiymaz\, Guven (4187550):mailto:madeup@mail.com
+DTSTART:20241106T172000Z
+SUMMARY:CEEGR 4450 S1 Structural Mechanics
+UID:bbef090a-752a-463d-b070-afb04e0ae71b@bbef.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241126T014500Z
+LOCATION:TBD-was Lemieux Library 122
+ORGANIZER;CN=Lauer\, John (1038686):mailto:madeup@mail.com
+DTSTART:20241125T234000Z
+SUMMARY:ENSC 4870 S1 Senior Capstone I
+UID:d3802955-b56e-4a07-a2b7-2e0b837900ec@d380.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241101T192000Z
+LOCATION:TBD-was Fine Arts Building 120
+ORGANIZER;CN=Lauer\, John (1038686):mailto:madeup@mail.com
+DTSTART:20241101T175500Z
+SUMMARY:ENSC 3800 S1 Aerial Imaging & Mapping
+UID:dcf04766-76e6-4d6e-af10-44445e0c0125@dcf0.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241003T232000Z
+LOCATION:TBD-was Bannan Building 429\; Bannan Building 613\; Bannan Building 619
+ORGANIZER;CN=Marsolek\, Michael (1075473):mailto:madeup@mail.com
+DTSTART:20241003T203000Z
+SUMMARY:CEEGR 4730 S2 Principle of Environmental Eng
+UID:08925520-1828-43ae-9ca4-02e6078ea39d@0892.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20240926T232000Z
+LOCATION:TBD-was Bannan Building 313\; Bannan Building 181
+ORGANIZER;CN=Kiymaz\, Guven (4187550):mailto:madeup@mail.com
+DTSTART:20240926T203000Z
+SUMMARY:CEEGR 2500 S1 Intro to Structural Design
+UID:01276869-e340-405f-af77-59564ab455dc@0127.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241021T205500Z
+LOCATION:TBD-was Bannan Building 629
+ORGANIZER;CN=Gnanapragasam\, Nirmala:mailto:madeup@mail.com
+DTSTART:20241021T193000Z
+SUMMARY:CEEGR 3510 S1 Engineering Geology
+UID:321c320a-920b-455d-a7c7-fd562df8307f@321c.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241119T015000Z
+LOCATION:TBD-was Bannan Building 353
+ORGANIZER;CN=Hainze\, John (2270633):mailto:madeup@mail.com
+DTSTART:20241118T234000Z
+SUMMARY:UCOR 3800 S5 Natural Sci & Global Challenge
+UID:a54ea0de-7f7b-436c-bb34-7cb5585a5116@a54e.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20240926T192000Z
+LOCATION:TBD-was Bannan Building 371
+ORGANIZER;CN=Thompson\, Phillip (0366179):mailto:madeup@mail.com
+DTSTART:20240926T171500Z
+SUMMARY:CEEGR 3020 S1 Global Engineering Economics
+UID:59dc0696-d287-42a7-bbc4-5b5dc527a6e5@59dc.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241015T192000Z
+LOCATION:TBD-was Bannan Building 429\; Bannan Building 613\; Bannan Building 619
+ORGANIZER;CN=Marsolek\, Michael (1075473):mailto:madeup@mail.com
+DTSTART:20241015T171500Z
+SUMMARY:ENSC 4730 S2 Prncpls of Envrmtl Engineering
+UID:b214fea7-7015-4b2b-8606-aa35b60c0c4f@b214.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241104T184500Z
+LOCATION:TBD-was Bannan Building 371
+ORGANIZER;CN=Riazi\, Amin:mailto:madeup@mail.com
+DTSTART:20241104T172000Z
+SUMMARY:CEEGR 3310 S1 Fluid Mechanics
+UID:17fb6372-2cfa-44e4-8f44-9b1b8dd3c4c3@17fb.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241112T233500Z
+LOCATION:TBD-was Bannan Building 629\; Bannan Building 619
+ORGANIZER;CN=Hainze\, John (2270633):mailto:madeup@mail.com
+DTSTART:20241112T213000Z
+SUMMARY:UCOR 1800 S7 Inquiry Sem in Natural Science
+UID:f0db58df-66ed-424f-b0ee-7ba0043af18e@f0db.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241015T232000Z
+LOCATION:TBD-was Bannan Building 191
+ORGANIZER;CN=Riazi\, Amin:mailto:madeup@mail.com
+DTSTART:20241015T203000Z
+SUMMARY:CEEGR 3370 S2 Fluids Laboratory
+UID:4067bf08-b58b-457e-a065-e716879b419d@4067.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241127T023500Z
+LOCATION:TBD-was Bannan Building 629\; Bannan Building 619
+ORGANIZER;CN=Hainze\, John (2270633):mailto:madeup@mail.com
+DTSTART:20241126T234500Z
+SUMMARY:UCOR 1800 S7 Inquiry Sem in Natural Science
+UID:9440de43-8a58-4af2-802a-927ea2131916@9440.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241007T205500Z
+LOCATION:TBD-was Bannan Building 629
+ORGANIZER;CN=Gnanapragasam\, Nirmala:mailto:madeup@mail.com
+DTSTART:20241007T193000Z
+SUMMARY:CEEGR 3510 S1 Engineering Geology
+UID:75d898b9-aa5a-49d2-a98b-acad018a8730@75d8.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241204T184500Z
+LOCATION:TBD-was Bannan Building 371
+ORGANIZER;CN=Riazi\, Amin:mailto:madeup@mail.com
+DTSTART:20241204T172000Z
+SUMMARY:CEEGR 3310 S1 Fluid Mechanics
+UID:22b4a20d-8242-46ea-a7b5-63849b39d36a@22b4.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241126T202000Z
+LOCATION:TBD-was Bannan Building 371
+ORGANIZER;CN=Thompson\, Phillip (0366179):mailto:madeup@mail.com
+DTSTART:20241126T181500Z
+SUMMARY:CEEGR 3020 S1 Global Engineering Economics
+UID:cb9f24ab-40c3-4f66-a943-ae6d0468bbff@cb9f.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241203T202000Z
+LOCATION:TBD-was Bannan Building 429\; Bannan Building 613\; Bannan Building 619
+ORGANIZER;CN=Marsolek\, Michael (1075473):mailto:madeup@mail.com
+DTSTART:20241203T181500Z
+SUMMARY:CEEGR 4730 S1 Principle of Environmental Eng
+UID:45c2d1ec-6796-4700-8787-833cd2066279@45c2.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241017T192000Z
+LOCATION:TBD-was Bannan Building 429\; Bannan Building 613\; Bannan Building 619
+ORGANIZER;CN=Marsolek\, Michael (1075473):mailto:madeup@mail.com
+DTSTART:20241017T171500Z
+SUMMARY:ENSC 4730 S2 Prncpls of Envrmtl Engineering
+UID:ccf52b5a-2ba5-4b6e-a52e-41e0ac0eec10@ccf5.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241104T215500Z
+LOCATION:TBD-was Bannan Building 629
+ORGANIZER;CN=Gnanapragasam\, Nirmala:mailto:madeup@mail.com
+DTSTART:20241104T203000Z
+SUMMARY:CEEGR 3510 S1 Engineering Geology
+UID:a6c92df3-9038-47fc-af43-46956276d4c6@a6c9.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241004T192000Z
+LOCATION:TBD-was Bannan Building 313\; Bannan Building 181
+ORGANIZER;CN=Kiymaz\, Guven (4187550):mailto:madeup@mail.com
+DTSTART:20241004T175500Z
+SUMMARY:CEEGR 2500 S1 Intro to Structural Design
+UID:5efb5479-2d59-4518-9d62-7aafb0269521@5efb.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241015T232000Z
+LOCATION:TBD-was Bannan Building 429\; Bannan Building 613\; Bannan Building 619
+ORGANIZER;CN=Marsolek\, Michael (1075473):mailto:madeup@mail.com
+DTSTART:20241015T203000Z
+SUMMARY:CEEGR 4730 S1 Principle of Environmental Eng
+UID:d0cf08ba-041b-432b-b9bc-9cade862210b@d0cf.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241017T192000Z
+LOCATION:TBD-was Bannan Building 429\; Bannan Building 613\; Bannan Building 619
+ORGANIZER;CN=Marsolek\, Michael (1075473):mailto:madeup@mail.com
+DTSTART:20241017T171500Z
+SUMMARY:ENSC 4730 S1 Prncpls of Envrmtl Engineering
+UID:1da1ff09-b873-45c0-9486-a96a66815e1f@1da1.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241007T174500Z
+LOCATION:TBD-was Bannan Building 353
+ORGANIZER;CN=Kiymaz\, Guven (4187550):mailto:madeup@mail.com
+DTSTART:20241007T162000Z
+SUMMARY:CEEGR 4450 S1 Structural Mechanics
+UID:7b10b8f3-5d89-409f-bce2-dd8342f63fb8@7b10.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20240926T192000Z
+LOCATION:TBD-was Bannan Building 429\; Bannan Building 613\; Bannan Building 619
+ORGANIZER;CN=Marsolek\, Michael (1075473):mailto:madeup@mail.com
+DTSTART:20240926T171500Z
+SUMMARY:ENSC 4730 S1 Prncpls of Envrmtl Engineering
+UID:dba6b70f-88a2-4fbd-bcf3-4ce22ec44aa3@dba6.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241112T202000Z
+LOCATION:TBD-was Bannan Building 429\; Bannan Building 613\; Bannan Building 619
+ORGANIZER;CN=Marsolek\, Michael (1075473):mailto:madeup@mail.com
+DTSTART:20241112T181500Z
+SUMMARY:CEEGR 4730 S2 Principle of Environmental Eng
+UID:31c5b0ef-e197-4c04-9d7b-c4c7e8d643bd@31c5.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241031T004500Z
+LOCATION:TBD-was Lemieux Library 122
+ORGANIZER;CN=Lauer\, John (1038686):mailto:madeup@mail.com
+DTSTART:20241030T224000Z
+SUMMARY:ENSC 4870 S1 Senior Capstone I
+UID:6d2554b1-9e63-4af8-be7c-8a4febb99c4e@6d25.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241010T223500Z
+LOCATION:TBD-was Bannan Building 629\; Bannan Building 619
+ORGANIZER;CN=Hainze\, John (2270633):mailto:madeup@mail.com
+DTSTART:20241010T203000Z
+SUMMARY:UCOR 1800 S7 Inquiry Sem in Natural Science
+UID:909a18dd-e043-48a0-8002-073b270cb76b@909a.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241009T161000Z
+LOCATION:TBD-was Bannan Building 363
+ORGANIZER;CN=Faculty Unassigned:mailto:madeup@mail.com
+DTSTART:20241009T144500Z
+SUMMARY:CEEGR 2210 S1 Mechanics of Materials I
+UID:4d385d5e-c318-44c4-a179-33935bf6012b@4d38.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20240926T232000Z
+LOCATION:TBD-was Bannan Building 429\; Bannan Building 613\; Bannan Building 619
+ORGANIZER;CN=Marsolek\, Michael (1075473):mailto:madeup@mail.com
+DTSTART:20240926T203000Z
+SUMMARY:CEEGR 4730 S2 Principle of Environmental Eng
+UID:0ab565c2-473a-4a75-8d4a-178cd6fa5506@0ab5.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241105T015000Z
+LOCATION:TBD-was Bannan Building 353
+ORGANIZER;CN=Hainze\, John (2270633):mailto:madeup@mail.com
+DTSTART:20241104T234000Z
+SUMMARY:UCOR 3800 S5 Natural Sci & Global Challenge
+UID:f444b5b7-1e69-4e55-9c66-33a7de7c2b9d@f444.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241114T014500Z
+LOCATION:TBD-was Lemieux Library 122
+ORGANIZER;CN=Gnanapragasam\, Nirmala:mailto:madeup@mail.com
+DTSTART:20241113T234000Z
+SUMMARY:CEEGR 4870 S1 Engineering Design I
+UID:c4671288-486b-4b27-9302-bc848373678f@c467.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241118T202000Z
+LOCATION:TBD-was Fine Arts Building 120
+ORGANIZER;CN=Lauer\, John (1038686):mailto:madeup@mail.com
+DTSTART:20241118T185500Z
+SUMMARY:ENSC 3800 S1 Aerial Imaging & Mapping
+UID:6e76851b-b665-4821-8630-3f248c18bddf@6e76.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241203T202000Z
+LOCATION:TBD-was Bannan Building 429\; Bannan Building 613\; Bannan Building 619
+ORGANIZER;CN=Marsolek\, Michael (1075473):mailto:madeup@mail.com
+DTSTART:20241203T181500Z
+SUMMARY:CEEGR 4730 S2 Principle of Environmental Eng
+UID:fbfc900e-d44b-4f16-a4ff-603fca5aa056@fbfc.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241011T013500Z
+LOCATION:TBD-was Bannan Building 629\; Bannan Building 619
+ORGANIZER;CN=Hainze\, John (2270633):mailto:madeup@mail.com
+DTSTART:20241010T224500Z
+SUMMARY:UCOR 1800 S8 Inquiry Sem in Natural Science
+UID:bd17b750-79e8-43c9-83d1-c07d410f05a4@bd17.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241001T192000Z
+LOCATION:TBD-was Bannan Building 429\; Bannan Building 613\; Bannan Building 619
+ORGANIZER;CN=Marsolek\, Michael (1075473):mailto:madeup@mail.com
+DTSTART:20241001T171500Z
+SUMMARY:ENSC 4730 S1 Prncpls of Envrmtl Engineering
+UID:54e7dc4a-2442-4fbb-a940-cd39e2d37c31@54e7.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241017T005000Z
+LOCATION:TBD-was Bannan Building 353
+ORGANIZER;CN=Hainze\, John (2270633):mailto:madeup@mail.com
+DTSTART:20241016T224000Z
+SUMMARY:UCOR 3800 S5 Natural Sci & Global Challenge
+UID:940108c5-3bd0-4a8d-9ed5-49cc1a4e9baf@9401.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241205T233500Z
+LOCATION:TBD-was Bannan Building 629\; Bannan Building 619
+ORGANIZER;CN=Hainze\, John (2270633):mailto:madeup@mail.com
+DTSTART:20241205T213000Z
+SUMMARY:UCOR 1800 S7 Inquiry Sem in Natural Science
+UID:0af7e930-9fab-4942-b5bb-f9ac401e51dd@0af7.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241101T174500Z
+LOCATION:TBD-was Bannan Building 353
+ORGANIZER;CN=Kiymaz\, Guven (4187550):mailto:madeup@mail.com
+DTSTART:20241101T162000Z
+SUMMARY:CEEGR 4450 S1 Structural Mechanics
+UID:680e61cd-4879-4f4e-81c8-5719b673c8a1@680e.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241001T232000Z
+LOCATION:TBD-was Bannan Building 429\; Bannan Building 613\; Bannan Building 619
+ORGANIZER;CN=Marsolek\, Michael (1075473):mailto:madeup@mail.com
+DTSTART:20241001T203000Z
+SUMMARY:CEEGR 4730 S1 Principle of Environmental Eng
+UID:6aa92e43-a2f9-4417-b64a-20d18d864ebe@6aa9.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241105T202000Z
+LOCATION:TBD-was Bannan Building 429\; Bannan Building 613\; Bannan Building 619
+ORGANIZER;CN=Marsolek\, Michael (1075473):mailto:madeup@mail.com
+DTSTART:20241105T181500Z
+SUMMARY:CEEGR 4730 S2 Principle of Environmental Eng
+UID:8c87d478-527a-4c02-a1b2-c416861b9eae@8c87.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241115T002000Z
+LOCATION:TBD-was Bannan Building 429\; Bannan Building 613\; Bannan Building 619
+ORGANIZER;CN=Marsolek\, Michael (1075473):mailto:madeup@mail.com
+DTSTART:20241114T213000Z
+SUMMARY:ENSC 4730 S2 Prncpls of Envrmtl Engineering
+UID:4b430bbf-36c4-4183-bf89-a12dac507c20@4b43.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241113T233000Z
+LOCATION:TBD
+ORGANIZER;CN=Lee\, Se-Yeun (2228074):mailto:madeup@mail.com
+DTSTART:20241113T220500Z
+SUMMARY:UCOR 3800 S6 Natural Sci & Global Challenge
+UID:83be173a-aa9b-46e8-aaaf-ca695e440259@83be.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241024T004500Z
+LOCATION:TBD-was Lemieux Library 122
+ORGANIZER;CN=Lauer\, John (1038686):mailto:madeup@mail.com
+DTSTART:20241023T224000Z
+SUMMARY:ENSC 4870 S1 Senior Capstone I
+UID:5746b181-cef0-4e62-ba1f-f47cb1edfff2@5746.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241106T215500Z
+LOCATION:TBD-was Bannan Building 629
+ORGANIZER;CN=Gnanapragasam\, Nirmala:mailto:madeup@mail.com
+DTSTART:20241106T203000Z
+SUMMARY:CEEGR 3510 S1 Engineering Geology
+UID:9949f1b0-ed65-4c9d-9252-660b9f89b50c@9949.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241001T192000Z
+LOCATION:TBD-was Bannan Building 379
+ORGANIZER;CN=Faculty Unassigned:mailto:madeup@mail.com
+DTSTART:20241001T171500Z
+SUMMARY:CEEGR 1050 S1 Graphics &amp\; Communication
+UID:b6bd8fd6-b4c3-40b8-be00-3f467750801d@b6bd.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241029T192000Z
+LOCATION:TBD-was Bannan Building 379
+ORGANIZER;CN=Faculty Unassigned:mailto:madeup@mail.com
+DTSTART:20241029T171500Z
+SUMMARY:CEEGR 1050 S1 Graphics &amp\; Communication
+UID:f9868fa8-3a5e-4991-b54b-0f7ac2429cad@f986.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241101T192000Z
+LOCATION:TBD-was Bannan Building 313\; Bannan Building 181
+ORGANIZER;CN=Kiymaz\, Guven (4187550):mailto:madeup@mail.com
+DTSTART:20241101T175500Z
+SUMMARY:CEEGR 2500 S1 Intro to Structural Design
+UID:fd805ba8-0684-45b7-8ac3-5fcb2641208e@fd80.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241206T202000Z
+LOCATION:TBD-was Fine Arts Building 120
+ORGANIZER;CN=Lauer\, John (1038686):mailto:madeup@mail.com
+DTSTART:20241206T185500Z
+SUMMARY:ENSC 3800 S1 Aerial Imaging & Mapping
+UID:24f46aa3-6227-4706-840b-b613c1b2b9d6@24f4.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20240925T192000Z
+LOCATION:TBD-was Fine Arts Building 120
+ORGANIZER;CN=Lauer\, John (1038686):mailto:madeup@mail.com
+DTSTART:20240925T175500Z
+SUMMARY:ENSC 3800 S1 Aerial Imaging & Mapping
+UID:431d631a-77a3-4e0b-af9b-7acc9aca8ca9@431d.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241126T015000Z
+LOCATION:TBD-was Bannan Building 353
+ORGANIZER;CN=Hainze\, John (2270633):mailto:madeup@mail.com
+DTSTART:20241125T234000Z
+SUMMARY:UCOR 3800 S5 Natural Sci & Global Challenge
+UID:ca98952f-7348-48ad-8d64-cdf1c0fe44b6@ca98.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241004T174500Z
+LOCATION:TBD-was Bannan Building 371
+ORGANIZER;CN=Riazi\, Amin:mailto:madeup@mail.com
+DTSTART:20241004T162000Z
+SUMMARY:CEEGR 3310 S1 Fluid Mechanics
+UID:a36b8151-e74b-4605-a21a-f7e6cf3417c1@a36b.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241021T174500Z
+LOCATION:TBD-was Bannan Building 371
+ORGANIZER;CN=Riazi\, Amin:mailto:madeup@mail.com
+DTSTART:20241021T162000Z
+SUMMARY:CEEGR 3310 S1 Fluid Mechanics
+UID:8216c981-b36d-46b5-96d9-5be10b23c1e6@8216.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241125T171000Z
+LOCATION:TBD-was Bannan Building 441
+ORGANIZER;CN=Faculty Unassigned:mailto:madeup@mail.com
+DTSTART:20241125T154500Z
+SUMMARY:CEEGR 5210 S1 Advanced Rc Design
+UID:afb56b66-d90d-4764-9abe-e989f471f4bb@afb5.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241028T174500Z
+LOCATION:TBD-was Bannan Building 371
+ORGANIZER;CN=Riazi\, Amin:mailto:madeup@mail.com
+DTSTART:20241028T162000Z
+SUMMARY:CEEGR 3310 S1 Fluid Mechanics
+UID:73058775-53bd-45b2-a231-d07ce07536f6@7305.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241106T171000Z
+LOCATION:TBD-was Bannan Building 441
+ORGANIZER;CN=Faculty Unassigned:mailto:madeup@mail.com
+DTSTART:20241106T154500Z
+SUMMARY:CEEGR 5210 S1 Advanced Rc Design
+UID:aeea845b-a73f-4d85-910d-aac25b33f41f@aeea.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241203T015000Z
+LOCATION:TBD-was Bannan Building 353
+ORGANIZER;CN=Hainze\, John (2270633):mailto:madeup@mail.com
+DTSTART:20241202T234000Z
+SUMMARY:UCOR 3800 S5 Natural Sci & Global Challenge
+UID:bdf6ba56-b12b-40b4-9f41-829b4a3a8fb8@bdf6.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241001T232000Z
+LOCATION:TBD-was Bannan Building 429\; Bannan Building 613\; Bannan Building 619
+ORGANIZER;CN=Marsolek\, Michael (1075473):mailto:madeup@mail.com
+DTSTART:20241001T203000Z
+SUMMARY:ENSC 4730 S1 Prncpls of Envrmtl Engineering
+UID:2057bc09-0b98-4f05-834e-7d86d6f16c00@2057.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241003T192000Z
+LOCATION:TBD-was Bannan Building 429\; Bannan Building 613\; Bannan Building 619
+ORGANIZER;CN=Marsolek\, Michael (1075473):mailto:madeup@mail.com
+DTSTART:20241003T171500Z
+SUMMARY:CEEGR 4730 S1 Principle of Environmental Eng
+UID:93174d19-a971-4856-bbc3-08e8217bd5c2@9317.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241016T192000Z
+LOCATION:TBD-was Bannan Building 313\; Bannan Building 181
+ORGANIZER;CN=Kiymaz\, Guven (4187550):mailto:madeup@mail.com
+DTSTART:20241016T175500Z
+SUMMARY:CEEGR 2500 S1 Intro to Structural Design
+UID:30ceaeff-207e-4f27-93fe-57169b3123c7@30ce.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20240925T174500Z
+LOCATION:TBD-was Bannan Building 353
+ORGANIZER;CN=Kiymaz\, Guven (4187550):mailto:madeup@mail.com
+DTSTART:20240925T162000Z
+SUMMARY:CEEGR 4450 S1 Structural Mechanics
+UID:519f2e02-157b-4b04-bb15-e481b3e43938@519f.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241022T192000Z
+LOCATION:TBD-was Bannan Building 429\; Bannan Building 613\; Bannan Building 619
+ORGANIZER;CN=Marsolek\, Michael (1075473):mailto:madeup@mail.com
+DTSTART:20241022T171500Z
+SUMMARY:CEEGR 4730 S1 Principle of Environmental Eng
+UID:6b962267-7ec0-466c-923c-b532ab9d6b9b@6b96.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241113T171000Z
+LOCATION:TBD-was Bannan Building 441
+ORGANIZER;CN=Faculty Unassigned:mailto:madeup@mail.com
+DTSTART:20241113T154500Z
+SUMMARY:CEEGR 5210 S1 Advanced Rc Design
+UID:b7130d6c-1f2f-4abc-9b6c-c350f99a497e@b713.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241022T223500Z
+LOCATION:TBD-was Bannan Building 629\; Bannan Building 619
+ORGANIZER;CN=Hainze\, John (2270633):mailto:madeup@mail.com
+DTSTART:20241022T203000Z
+SUMMARY:UCOR 1800 S8 Inquiry Sem in Natural Science
+UID:ddd74f2d-7fa8-4f9a-bad7-1bb005686e89@ddd7.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241001T232000Z
+LOCATION:TBD-was Bannan Building 191
+ORGANIZER;CN=Riazi\, Amin:mailto:madeup@mail.com
+DTSTART:20241001T203000Z
+SUMMARY:CEEGR 3370 S2 Fluids Laboratory
+UID:dc815370-d27c-4b86-b775-b34137f20a07@dc81.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241203T233500Z
+LOCATION:TBD-was Bannan Building 629\; Bannan Building 619
+ORGANIZER;CN=Hainze\, John (2270633):mailto:madeup@mail.com
+DTSTART:20241203T213000Z
+SUMMARY:UCOR 1800 S8 Inquiry Sem in Natural Science
+UID:59085c23-4137-4bec-9aa3-889f14ddf047@5908.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241003T004500Z
+LOCATION:TBD-was Lemieux Library 122
+ORGANIZER;CN=Gnanapragasam\, Nirmala:mailto:madeup@mail.com
+DTSTART:20241002T224000Z
+SUMMARY:CEEGR 4870 S1 Engineering Design I
+UID:038164c0-23b8-4303-8bb8-aa6af74aff4e@0381.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241018T174500Z
+LOCATION:TBD-was Bannan Building 353
+ORGANIZER;CN=Kiymaz\, Guven (4187550):mailto:madeup@mail.com
+DTSTART:20241018T162000Z
+SUMMARY:CEEGR 4450 S1 Structural Mechanics
+UID:1ceaba52-fc92-4fc7-9abe-b9a71fc46247@1cea.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241115T202000Z
+LOCATION:TBD-was Fine Arts Building 120
+ORGANIZER;CN=Lauer\, John (1038686):mailto:madeup@mail.com
+DTSTART:20241115T185500Z
+SUMMARY:ENSC 3800 S1 Aerial Imaging & Mapping
+UID:1518ac41-1c55-4e66-b681-2933be1a2eef@1518.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241014T174500Z
+LOCATION:TBD-was Bannan Building 441
+ORGANIZER;CN=Faculty Unassigned:mailto:madeup@mail.com
+DTSTART:20241014T162000Z
+SUMMARY:CEEGR 5110 S1 Advanced Structural Analysis
+UID:acf69457-d6ad-40bc-8b6e-ef0ce484fc0e@acf6.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241017T192000Z
+LOCATION:TBD-was Bannan Building 429\; Bannan Building 613\; Bannan Building 619
+ORGANIZER;CN=Marsolek\, Michael (1075473):mailto:madeup@mail.com
+DTSTART:20241017T171500Z
+SUMMARY:CEEGR 4730 S2 Principle of Environmental Eng
+UID:b7a75a38-f824-49a9-a990-ac855e9467dd@b7a7.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241107T233500Z
+LOCATION:TBD-was Bannan Building 619
+ORGANIZER;CN=Gnanapragasam\, Nirmala:mailto:madeup@mail.com
+DTSTART:20241107T213000Z
+SUMMARY:CEEGR 1000 S1 Intro to Civil & Env Eng.
+UID:574f4902-ff9c-465b-93a4-291d1e6a90dd@574f.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241101T205500Z
+LOCATION:TBD-was Bannan Building 629
+ORGANIZER;CN=Gnanapragasam\, Nirmala:mailto:madeup@mail.com
+DTSTART:20241101T193000Z
+SUMMARY:CEEGR 3510 S1 Engineering Geology
+UID:71e5041b-1118-4d77-933f-0c89b57891e4@71e5.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241031T232000Z
+LOCATION:TBD-was Bannan Building 429\; Bannan Building 613\; Bannan Building 619
+ORGANIZER;CN=Marsolek\, Michael (1075473):mailto:madeup@mail.com
+DTSTART:20241031T203000Z
+SUMMARY:CEEGR 4730 S2 Principle of Environmental Eng
+UID:a3ab7f41-f629-45ee-a444-6c56ec7b0c9a@a3ab.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241121T202000Z
+LOCATION:TBD-was Bannan Building 429\; Bannan Building 613\; Bannan Building 619
+ORGANIZER;CN=Marsolek\, Michael (1075473):mailto:madeup@mail.com
+DTSTART:20241121T181500Z
+SUMMARY:CEEGR 4730 S1 Principle of Environmental Eng
+UID:a57744b8-819b-4ae2-9578-db3a690982eb@a577.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241029T170500Z
+LOCATION:TBD-was Bannan Building 619
+ORGANIZER;CN=Gualtieri\, Lyn (0834249):mailto:madeup@mail.com
+DTSTART:20241029T150000Z
+SUMMARY:ENSC 1000 S1 Intro to Environmental Science
+UID:2ee1e827-5332-4c01-bc49-3f3353e9025c@2ee1.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241113T002000Z
+LOCATION:TBD-was Bannan Building 429\; Bannan Building 613\; Bannan Building 619
+ORGANIZER;CN=Marsolek\, Michael (1075473):mailto:madeup@mail.com
+DTSTART:20241112T213000Z
+SUMMARY:ENSC 4730 S1 Prncpls of Envrmtl Engineering
+UID:bc98edd8-594c-4226-8376-96598d59e94c@bc98.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241029T192000Z
+LOCATION:TBD-was Bannan Building 429\; Bannan Building 613\; Bannan Building 619
+ORGANIZER;CN=Marsolek\, Michael (1075473):mailto:madeup@mail.com
+DTSTART:20241029T171500Z
+SUMMARY:CEEGR 4730 S1 Principle of Environmental Eng
+UID:b1fdf4c3-4468-4af4-bfb4-d1c34f9f1a11@b1fd.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241023T192000Z
+LOCATION:TBD-was Fine Arts Building 120
+ORGANIZER;CN=Lauer\, John (1038686):mailto:madeup@mail.com
+DTSTART:20241023T175500Z
+SUMMARY:ENSC 3800 S1 Aerial Imaging & Mapping
+UID:542dd24b-0143-47ed-b6a4-78241d5c247e@542d.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241016T161000Z
+LOCATION:TBD-was Bannan Building 441
+ORGANIZER;CN=Faculty Unassigned:mailto:madeup@mail.com
+DTSTART:20241016T144500Z
+SUMMARY:CEEGR 5210 S1 Advanced Rc Design
+UID:dfa9cb56-bde5-43dc-82c1-2e6e3f53eea7@dfa9.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241206T184500Z
+LOCATION:TBD-was Bannan Building 441
+ORGANIZER;CN=Faculty Unassigned:mailto:madeup@mail.com
+DTSTART:20241206T172000Z
+SUMMARY:CEEGR 5110 S1 Advanced Structural Analysis
+UID:3c6ec359-3f95-42d6-b522-19b95f783d0f@3c6e.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241104T202000Z
+LOCATION:TBD-was Fine Arts Building 120
+ORGANIZER;CN=Lauer\, John (1038686):mailto:madeup@mail.com
+DTSTART:20241104T185500Z
+SUMMARY:ENSC 3800 S1 Aerial Imaging & Mapping
+UID:5ba36541-a624-4ae4-9939-8145d3451938@5ba3.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241029T192000Z
+LOCATION:TBD-was Bannan Building 429\; Bannan Building 613\; Bannan Building 619
+ORGANIZER;CN=Marsolek\, Michael (1075473):mailto:madeup@mail.com
+DTSTART:20241029T171500Z
+SUMMARY:ENSC 4730 S2 Prncpls of Envrmtl Engineering
+UID:a4781de0-35f7-46b9-b5db-18ef9455def0@a478.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241024T232000Z
+LOCATION:TBD-was Bannan Building 429\; Bannan Building 613\; Bannan Building 619
+ORGANIZER;CN=Marsolek\, Michael (1075473):mailto:madeup@mail.com
+DTSTART:20241024T203000Z
+SUMMARY:ENSC 4730 S2 Prncpls of Envrmtl Engineering
+UID:ed31e16d-6cab-4888-b873-f8985f5b3a48@ed31.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241001T005000Z
+LOCATION:TBD-was Bannan Building 353
+ORGANIZER;CN=Hainze\, John (2270633):mailto:madeup@mail.com
+DTSTART:20240930T224000Z
+SUMMARY:UCOR 3800 S5 Natural Sci & Global Challenge
+UID:0d9c4191-7cca-4149-afaa-5d548ce5872c@0d9c.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241122T002000Z
+LOCATION:TBD-was Bannan Building 429\; Bannan Building 613\; Bannan Building 619
+ORGANIZER;CN=Marsolek\, Michael (1075473):mailto:madeup@mail.com
+DTSTART:20241121T213000Z
+SUMMARY:CEEGR 4730 S2 Principle of Environmental Eng
+UID:b8885cff-a3be-4dfe-80ef-87e944d26199@b888.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241031T192000Z
+LOCATION:TBD-was Bannan Building 429\; Bannan Building 613\; Bannan Building 619
+ORGANIZER;CN=Marsolek\, Michael (1075473):mailto:madeup@mail.com
+DTSTART:20241031T171500Z
+SUMMARY:CEEGR 4730 S2 Principle of Environmental Eng
+UID:a56ca98f-69d2-4500-96c8-d4f662d6ab23@a56c.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20240927T223000Z
+LOCATION:TBD
+ORGANIZER;CN=Lee\, Se-Yeun (2228074):mailto:madeup@mail.com
+DTSTART:20240927T210500Z
+SUMMARY:UCOR 3800 S6 Natural Sci & Global Challenge
+UID:8f17e229-1f42-4524-88f3-c6a4712de25f@8f17.org
+END:VEVENT
+END:VCALENDAR

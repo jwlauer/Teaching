@@ -1,0 +1,8 @@
+Courses Analysed: [['CEEGR 1000', 'CEEGR 1050', 'CEEGR 3310'], ['CEEGR 3310', 'CEEGR 3370']]
+******************************
+
+No conflicts for course schedule ['CEEGR 1000', 'CEEGR 1050', 'CEEGR 3310']
+
+******************************
+
+No conflicts for course schedule ['CEEGR 3310', 'CEEGR 3370']
